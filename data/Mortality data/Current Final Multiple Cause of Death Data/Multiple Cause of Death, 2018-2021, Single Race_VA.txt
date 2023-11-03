@@ -1,0 +1,575 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Accomack County, VA"	"51001"	"2018"	"2018"	Suppressed	32412	Suppressed
+	"Accomack County, VA"	"51001"	"2019"	"2019"	Suppressed	32316	Suppressed
+	"Accomack County, VA"	"51001"	"2020"	"2020"	Suppressed	32238	Suppressed
+	"Accomack County, VA"	"51001"	"2021 "	"2021"	13	33246	Unreliable
+	"Albemarle County, VA"	"51003"	"2018"	"2018"	Suppressed	108718	Suppressed
+	"Albemarle County, VA"	"51003"	"2019"	"2019"	11	109330	Unreliable
+	"Albemarle County, VA"	"51003"	"2020"	"2020"	12	110652	Unreliable
+	"Albemarle County, VA"	"51003"	"2021 "	"2021"	17	113535	Unreliable
+	"Alleghany County, VA"	"51005"	"2018"	"2018"	Suppressed	14910	Suppressed
+	"Alleghany County, VA"	"51005"	"2019"	"2019"	Suppressed	14860	Suppressed
+	"Alleghany County, VA"	"51005"	"2020"	"2020"	Suppressed	14701	Suppressed
+	"Alleghany County, VA"	"51005"	"2021 "	"2021"	Suppressed	14986	Suppressed
+	"Amelia County, VA"	"51007"	"2018"	"2018"	Suppressed	13013	Suppressed
+	"Amelia County, VA"	"51007"	"2019"	"2019"	Suppressed	13145	Suppressed
+	"Amelia County, VA"	"51007"	"2020"	"2020"	Suppressed	13014	Suppressed
+	"Amelia County, VA"	"51007"	"2021 "	"2021"	Suppressed	13268	Suppressed
+	"Amherst County, VA"	"51009"	"2018"	"2018"	Suppressed	31666	Suppressed
+	"Amherst County, VA"	"51009"	"2019"	"2019"	Suppressed	31605	Suppressed
+	"Amherst County, VA"	"51009"	"2020"	"2020"	10	31667	Unreliable
+	"Amherst County, VA"	"51009"	"2021 "	"2021"	12	31273	Unreliable
+	"Appomattox County, VA"	"51011"	"2018"	"2018"	Suppressed	15841	Suppressed
+	"Appomattox County, VA"	"51011"	"2019"	"2019"	Suppressed	15911	Suppressed
+	"Appomattox County, VA"	"51011"	"2020"	"2020"	Suppressed	16043	Suppressed
+	"Appomattox County, VA"	"51011"	"2021 "	"2021"	Suppressed	16353	Suppressed
+	"Arlington County, VA"	"51013"	"2018"	"2018"	12	237521	Unreliable
+	"Arlington County, VA"	"51013"	"2019"	"2019"	19	236842	Unreliable
+	"Arlington County, VA"	"51013"	"2020"	"2020"	38	240119	15.8
+	"Arlington County, VA"	"51013"	"2021 "	"2021"	28	232965	12.0
+	"Augusta County, VA"	"51015"	"2018"	"2018"	12	75457	Unreliable
+	"Augusta County, VA"	"51015"	"2019"	"2019"	Suppressed	75558	Suppressed
+	"Augusta County, VA"	"51015"	"2020"	"2020"	14	76544	Unreliable
+	"Augusta County, VA"	"51015"	"2021 "	"2021"	11	77563	Unreliable
+	"Bath County, VA"	"51017"	"2018"	"2018"	Suppressed	4292	Suppressed
+	"Bath County, VA"	"51017"	"2019"	"2019"	0	4147	Unreliable
+	"Bath County, VA"	"51017"	"2020"	"2020"	Suppressed	4119	Suppressed
+	"Bath County, VA"	"51017"	"2021 "	"2021"	0	4114	Unreliable
+	"Bedford County, VA"	"51019"	"2018"	"2018"	Suppressed	78747	Suppressed
+	"Bedford County, VA"	"51019"	"2019"	"2019"	Suppressed	78997	Suppressed
+	"Bedford County, VA"	"51019"	"2020"	"2020"	21	79811	26.3
+	"Bedford County, VA"	"51019"	"2021 "	"2021"	27	80131	33.7
+	"Bland County, VA"	"51021"	"2018"	"2018"	0	6293	Unreliable
+	"Bland County, VA"	"51021"	"2019"	"2019"	Suppressed	6280	Suppressed
+	"Bland County, VA"	"51021"	"2020"	"2020"	Suppressed	6239	Suppressed
+	"Bland County, VA"	"51021"	"2021 "	"2021"	Suppressed	6173	Suppressed
+	"Botetourt County, VA"	"51023"	"2018"	"2018"	10	33277	Unreliable
+	"Botetourt County, VA"	"51023"	"2019"	"2019"	Suppressed	33419	Suppressed
+	"Botetourt County, VA"	"51023"	"2020"	"2020"	Suppressed	33633	Suppressed
+	"Botetourt County, VA"	"51023"	"2021 "	"2021"	13	33866	Unreliable
+	"Brunswick County, VA"	"51025"	"2018"	"2018"	Suppressed	16384	Suppressed
+	"Brunswick County, VA"	"51025"	"2019"	"2019"	Suppressed	16231	Suppressed
+	"Brunswick County, VA"	"51025"	"2020"	"2020"	Suppressed	16037	Suppressed
+	"Brunswick County, VA"	"51025"	"2021 "	"2021"	Suppressed	15940	Suppressed
+	"Buchanan County, VA"	"51027"	"2018"	"2018"	10	21221	Unreliable
+	"Buchanan County, VA"	"51027"	"2019"	"2019"	Suppressed	21004	Suppressed
+	"Buchanan County, VA"	"51027"	"2020"	"2020"	Suppressed	20613	Suppressed
+	"Buchanan County, VA"	"51027"	"2021 "	"2021"	Suppressed	19816	Suppressed
+	"Buckingham County, VA"	"51029"	"2018"	"2018"	Suppressed	16999	Suppressed
+	"Buckingham County, VA"	"51029"	"2019"	"2019"	Suppressed	17148	Suppressed
+	"Buckingham County, VA"	"51029"	"2020"	"2020"	Suppressed	17168	Suppressed
+	"Buckingham County, VA"	"51029"	"2021 "	"2021"	Suppressed	16947	Suppressed
+	"Campbell County, VA"	"51031"	"2018"	"2018"	11	54973	Unreliable
+	"Campbell County, VA"	"51031"	"2019"	"2019"	Suppressed	54885	Suppressed
+	"Campbell County, VA"	"51031"	"2020"	"2020"	16	55304	Unreliable
+	"Campbell County, VA"	"51031"	"2021 "	"2021"	Suppressed	55492	Suppressed
+	"Caroline County, VA"	"51033"	"2018"	"2018"	12	30772	Unreliable
+	"Caroline County, VA"	"51033"	"2019"	"2019"	Suppressed	30725	Suppressed
+	"Caroline County, VA"	"51033"	"2020"	"2020"	13	30860	Unreliable
+	"Caroline County, VA"	"51033"	"2021 "	"2021"	20	31332	63.8
+	"Carroll County, VA"	"51035"	"2018"	"2018"	Suppressed	29636	Suppressed
+	"Carroll County, VA"	"51035"	"2019"	"2019"	Suppressed	29791	Suppressed
+	"Carroll County, VA"	"51035"	"2020"	"2020"	Suppressed	30074	Suppressed
+	"Carroll County, VA"	"51035"	"2021 "	"2021"	Suppressed	29048	Suppressed
+	"Charles City County, VA"	"51036"	"2018"	"2018"	Suppressed	6941	Suppressed
+	"Charles City County, VA"	"51036"	"2019"	"2019"	Suppressed	6963	Suppressed
+	"Charles City County, VA"	"51036"	"2020"	"2020"	0	6821	Unreliable
+	"Charles City County, VA"	"51036"	"2021 "	"2021"	Suppressed	6594	Suppressed
+	"Charlotte County, VA"	"51037"	"2018"	"2018"	Suppressed	11938	Suppressed
+	"Charlotte County, VA"	"51037"	"2019"	"2019"	Suppressed	11880	Suppressed
+	"Charlotte County, VA"	"51037"	"2020"	"2020"	Suppressed	11820	Suppressed
+	"Charlotte County, VA"	"51037"	"2021 "	"2021"	Suppressed	11448	Suppressed
+	"Chesterfield County, VA"	"51041"	"2018"	"2018"	97	348556	27.8
+	"Chesterfield County, VA"	"51041"	"2019"	"2019"	89	352802	25.2
+	"Chesterfield County, VA"	"51041"	"2020"	"2020"	112	358245	31.3
+	"Chesterfield County, VA"	"51041"	"2021 "	"2021"	137	370688	37.0
+	"Clarke County, VA"	"51043"	"2018"	"2018"	Suppressed	14523	Suppressed
+	"Clarke County, VA"	"51043"	"2019"	"2019"	Suppressed	14619	Suppressed
+	"Clarke County, VA"	"51043"	"2020"	"2020"	0	14622	Unreliable
+	"Clarke County, VA"	"51043"	"2021 "	"2021"	Suppressed	14881	Suppressed
+	"Craig County, VA"	"51045"	"2018"	"2018"	0	5064	Unreliable
+	"Craig County, VA"	"51045"	"2019"	"2019"	0	5131	Unreliable
+	"Craig County, VA"	"51045"	"2020"	"2020"	Suppressed	5077	Suppressed
+	"Craig County, VA"	"51045"	"2021 "	"2021"	Suppressed	4865	Suppressed
+	"Culpeper County, VA"	"51047"	"2018"	"2018"	17	51859	Unreliable
+	"Culpeper County, VA"	"51047"	"2019"	"2019"	12	52605	Unreliable
+	"Culpeper County, VA"	"51047"	"2020"	"2020"	19	53569	Unreliable
+	"Culpeper County, VA"	"51047"	"2021 "	"2021"	23	53596	42.9
+	"Cumberland County, VA"	"51049"	"2018"	"2018"	0	9809	Unreliable
+	"Cumberland County, VA"	"51049"	"2019"	"2019"	Suppressed	9932	Suppressed
+	"Cumberland County, VA"	"51049"	"2020"	"2020"	Suppressed	9933	Suppressed
+	"Cumberland County, VA"	"51049"	"2021 "	"2021"	Suppressed	9681	Suppressed
+	"Dickenson County, VA"	"51051"	"2018"	"2018"	Suppressed	14523	Suppressed
+	"Dickenson County, VA"	"51051"	"2019"	"2019"	Suppressed	14318	Suppressed
+	"Dickenson County, VA"	"51051"	"2020"	"2020"	Suppressed	14078	Suppressed
+	"Dickenson County, VA"	"51051"	"2021 "	"2021"	Suppressed	13787	Suppressed
+	"Dinwiddie County, VA"	"51053"	"2018"	"2018"	Suppressed	28529	Suppressed
+	"Dinwiddie County, VA"	"51053"	"2019"	"2019"	Suppressed	28544	Suppressed
+	"Dinwiddie County, VA"	"51053"	"2020"	"2020"	Suppressed	28688	Suppressed
+	"Dinwiddie County, VA"	"51053"	"2021 "	"2021"	10	27912	Unreliable
+	"Essex County, VA"	"51057"	"2018"	"2018"	Suppressed	10919	Suppressed
+	"Essex County, VA"	"51057"	"2019"	"2019"	0	10953	Unreliable
+	"Essex County, VA"	"51057"	"2020"	"2020"	Suppressed	10943	Suppressed
+	"Essex County, VA"	"51057"	"2021 "	"2021"	Suppressed	10573	Suppressed
+	"Fairfax County, VA"	"51059"	"2018"	"2018"	98	1150795	8.5
+	"Fairfax County, VA"	"51059"	"2019"	"2019"	101	1147532	8.8
+	"Fairfax County, VA"	"51059"	"2020"	"2020"	121	1150847	10.5
+	"Fairfax County, VA"	"51059"	"2021 "	"2021"	129	1139720	11.3
+	"Fauquier County, VA"	"51061"	"2018"	"2018"	15	70675	Unreliable
+	"Fauquier County, VA"	"51061"	"2019"	"2019"	18	71222	Unreliable
+	"Fauquier County, VA"	"51061"	"2020"	"2020"	11	71361	Unreliable
+	"Fauquier County, VA"	"51061"	"2021 "	"2021"	21	73815	28.4
+	"Floyd County, VA"	"51063"	"2018"	"2018"	Suppressed	15795	Suppressed
+	"Floyd County, VA"	"51063"	"2019"	"2019"	Suppressed	15749	Suppressed
+	"Floyd County, VA"	"51063"	"2020"	"2020"	Suppressed	15777	Suppressed
+	"Floyd County, VA"	"51063"	"2021 "	"2021"	Suppressed	15566	Suppressed
+	"Fluvanna County, VA"	"51065"	"2018"	"2018"	Suppressed	26783	Suppressed
+	"Fluvanna County, VA"	"51065"	"2019"	"2019"	Suppressed	27270	Suppressed
+	"Fluvanna County, VA"	"51065"	"2020"	"2020"	Suppressed	27422	Suppressed
+	"Fluvanna County, VA"	"51065"	"2021 "	"2021"	Suppressed	27723	Suppressed
+	"Franklin County, VA"	"51067"	"2018"	"2018"	21	56195	37.4
+	"Franklin County, VA"	"51067"	"2019"	"2019"	11	56042	Unreliable
+	"Franklin County, VA"	"51067"	"2020"	"2020"	23	56167	40.9
+	"Franklin County, VA"	"51067"	"2021 "	"2021"	26	54938	47.3
+	"Frederick County, VA"	"51069"	"2018"	"2018"	20	88355	22.6
+	"Frederick County, VA"	"51069"	"2019"	"2019"	16	89313	Unreliable
+	"Frederick County, VA"	"51069"	"2020"	"2020"	28	91119	30.7
+	"Frederick County, VA"	"51069"	"2021 "	"2021"	19	93717	Unreliable
+	"Giles County, VA"	"51071"	"2018"	"2018"	Suppressed	16844	Suppressed
+	"Giles County, VA"	"51071"	"2019"	"2019"	Suppressed	16720	Suppressed
+	"Giles County, VA"	"51071"	"2020"	"2020"	Suppressed	16663	Suppressed
+	"Giles County, VA"	"51071"	"2021 "	"2021"	Suppressed	16562	Suppressed
+	"Gloucester County, VA"	"51073"	"2018"	"2018"	Suppressed	37349	Suppressed
+	"Gloucester County, VA"	"51073"	"2019"	"2019"	Suppressed	37348	Suppressed
+	"Gloucester County, VA"	"51073"	"2020"	"2020"	10	37459	Unreliable
+	"Gloucester County, VA"	"51073"	"2021 "	"2021"	13	39069	Unreliable
+	"Goochland County, VA"	"51075"	"2018"	"2018"	Suppressed	23244	Suppressed
+	"Goochland County, VA"	"51075"	"2019"	"2019"	Suppressed	23753	Suppressed
+	"Goochland County, VA"	"51075"	"2020"	"2020"	Suppressed	24431	Suppressed
+	"Goochland County, VA"	"51075"	"2021 "	"2021"	Suppressed	25488	Suppressed
+	"Grayson County, VA"	"51077"	"2018"	"2018"	0	15631	Unreliable
+	"Grayson County, VA"	"51077"	"2019"	"2019"	Suppressed	15550	Suppressed
+	"Grayson County, VA"	"51077"	"2020"	"2020"	Suppressed	15493	Suppressed
+	"Grayson County, VA"	"51077"	"2021 "	"2021"	Suppressed	15359	Suppressed
+	"Greene County, VA"	"51079"	"2018"	"2018"	Suppressed	19779	Suppressed
+	"Greene County, VA"	"51079"	"2019"	"2019"	Suppressed	19819	Suppressed
+	"Greene County, VA"	"51079"	"2020"	"2020"	Suppressed	20131	Suppressed
+	"Greene County, VA"	"51079"	"2021 "	"2021"	Suppressed	20968	Suppressed
+	"Greensville County, VA"	"51081"	"2018"	"2018"	Suppressed	11627	Suppressed
+	"Greensville County, VA"	"51081"	"2019"	"2019"	Suppressed	11336	Suppressed
+	"Greensville County, VA"	"51081"	"2020"	"2020"	Suppressed	11280	Suppressed
+	"Greensville County, VA"	"51081"	"2021 "	"2021"	Suppressed	11437	Suppressed
+	"Halifax County, VA"	"51083"	"2018"	"2018"	Suppressed	34120	Suppressed
+	"Halifax County, VA"	"51083"	"2019"	"2019"	Suppressed	33911	Suppressed
+	"Halifax County, VA"	"51083"	"2020"	"2020"	11	33633	Unreliable
+	"Halifax County, VA"	"51083"	"2021 "	"2021"	17	33738	Unreliable
+	"Hanover County, VA"	"51085"	"2018"	"2018"	20	107239	18.6
+	"Hanover County, VA"	"51085"	"2019"	"2019"	23	107766	21.3
+	"Hanover County, VA"	"51085"	"2020"	"2020"	30	108262	27.7
+	"Hanover County, VA"	"51085"	"2021 "	"2021"	30	111603	26.9
+	"Henrico County, VA"	"51087"	"2018"	"2018"	62	329261	18.8
+	"Henrico County, VA"	"51087"	"2019"	"2019"	71	330818	21.5
+	"Henrico County, VA"	"51087"	"2020"	"2020"	99	333766	29.7
+	"Henrico County, VA"	"51087"	"2021 "	"2021"	125	333554	37.5
+	"Henry County, VA"	"51089"	"2018"	"2018"	15	50953	Unreliable
+	"Henry County, VA"	"51089"	"2019"	"2019"	17	50557	Unreliable
+	"Henry County, VA"	"51089"	"2020"	"2020"	34	50309	67.6
+	"Henry County, VA"	"51089"	"2021 "	"2021"	53	50248	105.5
+	"Highland County, VA"	"51091"	"2018"	"2018"	0	2210	Unreliable
+	"Highland County, VA"	"51091"	"2019"	"2019"	0	2190	Unreliable
+	"Highland County, VA"	"51091"	"2020"	"2020"	0	2200	Unreliable
+	"Highland County, VA"	"51091"	"2021 "	"2021"	0	2226	Unreliable
+	"Isle of Wight County, VA"	"51093"	"2018"	"2018"	10	36953	Unreliable
+	"Isle of Wight County, VA"	"51093"	"2019"	"2019"	Suppressed	37109	Suppressed
+	"Isle of Wight County, VA"	"51093"	"2020"	"2020"	Suppressed	37725	Suppressed
+	"Isle of Wight County, VA"	"51093"	"2021 "	"2021"	Suppressed	39278	Suppressed
+	"James City County, VA"	"51095"	"2018"	"2018"	Suppressed	76397	Suppressed
+	"James City County, VA"	"51095"	"2019"	"2019"	Suppressed	76523	Suppressed
+	"James City County, VA"	"51095"	"2020"	"2020"	19	77612	Unreliable
+	"James City County, VA"	"51095"	"2021 "	"2021"	11	79882	Unreliable
+	"King and Queen County, VA"	"51097"	"2018"	"2018"	Suppressed	7042	Suppressed
+	"King and Queen County, VA"	"51097"	"2019"	"2019"	0	7025	Unreliable
+	"King and Queen County, VA"	"51097"	"2020"	"2020"	Suppressed	6942	Suppressed
+	"King and Queen County, VA"	"51097"	"2021 "	"2021"	Suppressed	6662	Suppressed
+	"King George County, VA"	"51099"	"2018"	"2018"	11	26575	Unreliable
+	"King George County, VA"	"51099"	"2019"	"2019"	Suppressed	26836	Suppressed
+	"King George County, VA"	"51099"	"2020"	"2020"	Suppressed	27381	Suppressed
+	"King George County, VA"	"51099"	"2021 "	"2021"	Suppressed	27489	Suppressed
+	"King William County, VA"	"51101"	"2018"	"2018"	Suppressed	16939	Suppressed
+	"King William County, VA"	"51101"	"2019"	"2019"	Suppressed	17148	Suppressed
+	"King William County, VA"	"51101"	"2020"	"2020"	Suppressed	17641	Suppressed
+	"King William County, VA"	"51101"	"2021 "	"2021"	10	18171	Unreliable
+	"Lancaster County, VA"	"51103"	"2018"	"2018"	Suppressed	10783	Suppressed
+	"Lancaster County, VA"	"51103"	"2019"	"2019"	0	10603	Unreliable
+	"Lancaster County, VA"	"51103"	"2020"	"2020"	Suppressed	10618	Suppressed
+	"Lancaster County, VA"	"51103"	"2021 "	"2021"	Suppressed	10928	Suppressed
+	"Lee County, VA"	"51105"	"2018"	"2018"	Suppressed	23541	Suppressed
+	"Lee County, VA"	"51105"	"2019"	"2019"	Suppressed	23423	Suppressed
+	"Lee County, VA"	"51105"	"2020"	"2020"	Suppressed	23238	Suppressed
+	"Lee County, VA"	"51105"	"2021 "	"2021"	Suppressed	21983	Suppressed
+	"Loudoun County, VA"	"51107"	"2018"	"2018"	32	406850	7.9
+	"Loudoun County, VA"	"51107"	"2019"	"2019"	28	413538	6.8
+	"Loudoun County, VA"	"51107"	"2020"	"2020"	38	422784	9.0
+	"Loudoun County, VA"	"51107"	"2021 "	"2021"	46	427592	10.8
+	"Louisa County, VA"	"51109"	"2018"	"2018"	Suppressed	36778	Suppressed
+	"Louisa County, VA"	"51109"	"2019"	"2019"	17	37591	Unreliable
+	"Louisa County, VA"	"51109"	"2020"	"2020"	Suppressed	38132	Suppressed
+	"Louisa County, VA"	"51109"	"2021 "	"2021"	18	38848	Unreliable
+	"Lunenburg County, VA"	"51111"	"2018"	"2018"	Suppressed	12086	Suppressed
+	"Lunenburg County, VA"	"51111"	"2019"	"2019"	Suppressed	12196	Suppressed
+	"Lunenburg County, VA"	"51111"	"2020"	"2020"	Suppressed	12267	Suppressed
+	"Lunenburg County, VA"	"51111"	"2021 "	"2021"	Suppressed	11926	Suppressed
+	"Madison County, VA"	"51113"	"2018"	"2018"	Suppressed	13295	Suppressed
+	"Madison County, VA"	"51113"	"2019"	"2019"	Suppressed	13261	Suppressed
+	"Madison County, VA"	"51113"	"2020"	"2020"	Suppressed	13312	Suppressed
+	"Madison County, VA"	"51113"	"2021 "	"2021"	Suppressed	13942	Suppressed
+	"Mathews County, VA"	"51115"	"2018"	"2018"	Suppressed	8802	Suppressed
+	"Mathews County, VA"	"51115"	"2019"	"2019"	0	8834	Unreliable
+	"Mathews County, VA"	"51115"	"2020"	"2020"	Suppressed	8766	Suppressed
+	"Mathews County, VA"	"51115"	"2021 "	"2021"	Suppressed	8546	Suppressed
+	"Mecklenburg County, VA"	"51117"	"2018"	"2018"	11	30650	Unreliable
+	"Mecklenburg County, VA"	"51117"	"2019"	"2019"	Suppressed	30587	Suppressed
+	"Mecklenburg County, VA"	"51117"	"2020"	"2020"	10	30679	Unreliable
+	"Mecklenburg County, VA"	"51117"	"2021 "	"2021"	13	30248	Unreliable
+	"Middlesex County, VA"	"51119"	"2018"	"2018"	Suppressed	10769	Suppressed
+	"Middlesex County, VA"	"51119"	"2019"	"2019"	Suppressed	10582	Suppressed
+	"Middlesex County, VA"	"51119"	"2020"	"2020"	Suppressed	10569	Suppressed
+	"Middlesex County, VA"	"51119"	"2021 "	"2021"	Suppressed	10781	Suppressed
+	"Montgomery County, VA"	"51121"	"2018"	"2018"	10	98985	Unreliable
+	"Montgomery County, VA"	"51121"	"2019"	"2019"	10	98535	Unreliable
+	"Montgomery County, VA"	"51121"	"2020"	"2020"	17	98391	Unreliable
+	"Montgomery County, VA"	"51121"	"2021 "	"2021"	17	98473	Unreliable
+	"Nelson County, VA"	"51125"	"2018"	"2018"	Suppressed	14836	Suppressed
+	"Nelson County, VA"	"51125"	"2019"	"2019"	Suppressed	14930	Suppressed
+	"Nelson County, VA"	"51125"	"2020"	"2020"	Suppressed	14755	Suppressed
+	"Nelson County, VA"	"51125"	"2021 "	"2021"	Suppressed	14790	Suppressed
+	"New Kent County, VA"	"51127"	"2018"	"2018"	Suppressed	22391	Suppressed
+	"New Kent County, VA"	"51127"	"2019"	"2019"	Suppressed	23091	Suppressed
+	"New Kent County, VA"	"51127"	"2020"	"2020"	Suppressed	23648	Suppressed
+	"New Kent County, VA"	"51127"	"2021 "	"2021"	10	23897	Unreliable
+	"Northampton County, VA"	"51131"	"2018"	"2018"	Suppressed	11735	Suppressed
+	"Northampton County, VA"	"51131"	"2019"	"2019"	Suppressed	11710	Suppressed
+	"Northampton County, VA"	"51131"	"2020"	"2020"	Suppressed	11673	Suppressed
+	"Northampton County, VA"	"51131"	"2021 "	"2021"	Suppressed	12085	Suppressed
+	"Northumberland County, VA"	"51133"	"2018"	"2018"	Suppressed	12147	Suppressed
+	"Northumberland County, VA"	"51133"	"2019"	"2019"	Suppressed	12095	Suppressed
+	"Northumberland County, VA"	"51133"	"2020"	"2020"	Suppressed	12069	Suppressed
+	"Northumberland County, VA"	"51133"	"2021 "	"2021"	10	12029	Unreliable
+	"Nottoway County, VA"	"51135"	"2018"	"2018"	Suppressed	15420	Suppressed
+	"Nottoway County, VA"	"51135"	"2019"	"2019"	Suppressed	15232	Suppressed
+	"Nottoway County, VA"	"51135"	"2020"	"2020"	Suppressed	15160	Suppressed
+	"Nottoway County, VA"	"51135"	"2021 "	"2021"	Suppressed	15594	Suppressed
+	"Orange County, VA"	"51137"	"2018"	"2018"	15	36644	Unreliable
+	"Orange County, VA"	"51137"	"2019"	"2019"	13	37051	Unreliable
+	"Orange County, VA"	"51137"	"2020"	"2020"	11	37695	Unreliable
+	"Orange County, VA"	"51137"	"2021 "	"2021"	17	37188	Unreliable
+	"Page County, VA"	"51139"	"2018"	"2018"	Suppressed	23933	Suppressed
+	"Page County, VA"	"51139"	"2019"	"2019"	Suppressed	23902	Suppressed
+	"Page County, VA"	"51139"	"2020"	"2020"	Suppressed	23933	Suppressed
+	"Page County, VA"	"51139"	"2021 "	"2021"	10	23807	Unreliable
+	"Patrick County, VA"	"51141"	"2018"	"2018"	Suppressed	17673	Suppressed
+	"Patrick County, VA"	"51141"	"2019"	"2019"	Suppressed	17608	Suppressed
+	"Patrick County, VA"	"51141"	"2020"	"2020"	12	17493	Unreliable
+	"Patrick County, VA"	"51141"	"2021 "	"2021"	11	17602	Unreliable
+	"Pittsylvania County, VA"	"51143"	"2018"	"2018"	11	60949	Unreliable
+	"Pittsylvania County, VA"	"51143"	"2019"	"2019"	15	60354	Unreliable
+	"Pittsylvania County, VA"	"51143"	"2020"	"2020"	22	59850	36.8
+	"Pittsylvania County, VA"	"51143"	"2021 "	"2021"	16	59972	Unreliable
+	"Powhatan County, VA"	"51145"	"2018"	"2018"	Suppressed	29189	Suppressed
+	"Powhatan County, VA"	"51145"	"2019"	"2019"	Suppressed	29652	Suppressed
+	"Powhatan County, VA"	"51145"	"2020"	"2020"	13	30148	Unreliable
+	"Powhatan County, VA"	"51145"	"2021 "	"2021"	13	31136	Unreliable
+	"Prince Edward County, VA"	"51147"	"2018"	"2018"	Suppressed	22950	Suppressed
+	"Prince Edward County, VA"	"51147"	"2019"	"2019"	Suppressed	22802	Suppressed
+	"Prince Edward County, VA"	"51147"	"2020"	"2020"	Suppressed	23006	Suppressed
+	"Prince Edward County, VA"	"51147"	"2021 "	"2021"	Suppressed	21932	Suppressed
+	"Prince George County, VA"	"51149"	"2018"	"2018"	Suppressed	38082	Suppressed
+	"Prince George County, VA"	"51149"	"2019"	"2019"	Suppressed	38353	Suppressed
+	"Prince George County, VA"	"51149"	"2020"	"2020"	Suppressed	38686	Suppressed
+	"Prince George County, VA"	"51149"	"2021 "	"2021"	15	42880	Unreliable
+	"Prince William County, VA"	"51153"	"2018"	"2018"	63	468011	13.5
+	"Prince William County, VA"	"51153"	"2019"	"2019"	67	470335	14.2
+	"Prince William County, VA"	"51153"	"2020"	"2020"	111	475533	23.3
+	"Prince William County, VA"	"51153"	"2021 "	"2021"	83	484472	17.1
+	"Pulaski County, VA"	"51155"	"2018"	"2018"	Suppressed	34066	Suppressed
+	"Pulaski County, VA"	"51155"	"2019"	"2019"	12	34027	Unreliable
+	"Pulaski County, VA"	"51155"	"2020"	"2020"	13	33935	Unreliable
+	"Pulaski County, VA"	"51155"	"2021 "	"2021"	21	33759	62.2
+	"Rappahannock County, VA"	"51157"	"2018"	"2018"	0	7252	Unreliable
+	"Rappahannock County, VA"	"51157"	"2019"	"2019"	Suppressed	7370	Suppressed
+	"Rappahannock County, VA"	"51157"	"2020"	"2020"	Suppressed	7260	Suppressed
+	"Rappahannock County, VA"	"51157"	"2021 "	"2021"	Suppressed	7407	Suppressed
+	"Richmond County, VA"	"51159"	"2018"	"2018"	Suppressed	9038	Suppressed
+	"Richmond County, VA"	"51159"	"2019"	"2019"	Suppressed	9023	Suppressed
+	"Richmond County, VA"	"51159"	"2020"	"2020"	Suppressed	9071	Suppressed
+	"Richmond County, VA"	"51159"	"2021 "	"2021"	Suppressed	9017	Suppressed
+	"Roanoke County, VA"	"51161"	"2018"	"2018"	24	94073	25.5
+	"Roanoke County, VA"	"51161"	"2019"	"2019"	16	94186	Unreliable
+	"Roanoke County, VA"	"51161"	"2020"	"2020"	33	94509	34.9
+	"Roanoke County, VA"	"51161"	"2021 "	"2021"	29	96589	30.0
+	"Rockbridge County, VA"	"51163"	"2018"	"2018"	Suppressed	22752	Suppressed
+	"Rockbridge County, VA"	"51163"	"2019"	"2019"	Suppressed	22573	Suppressed
+	"Rockbridge County, VA"	"51163"	"2020"	"2020"	Suppressed	22757	Suppressed
+	"Rockbridge County, VA"	"51163"	"2021 "	"2021"	Suppressed	22641	Suppressed
+	"Rockingham County, VA"	"51165"	"2018"	"2018"	Suppressed	81244	Suppressed
+	"Rockingham County, VA"	"51165"	"2019"	"2019"	11	81948	Unreliable
+	"Rockingham County, VA"	"51165"	"2020"	"2020"	14	82346	Unreliable
+	"Rockingham County, VA"	"51165"	"2021 "	"2021"	11	84394	Unreliable
+	"Russell County, VA"	"51167"	"2018"	"2018"	Suppressed	26748	Suppressed
+	"Russell County, VA"	"51167"	"2019"	"2019"	Suppressed	26586	Suppressed
+	"Russell County, VA"	"51167"	"2020"	"2020"	Suppressed	26647	Suppressed
+	"Russell County, VA"	"51167"	"2021 "	"2021"	Suppressed	25550	Suppressed
+	"Scott County, VA"	"51169"	"2018"	"2018"	Suppressed	21534	Suppressed
+	"Scott County, VA"	"51169"	"2019"	"2019"	Suppressed	21566	Suppressed
+	"Scott County, VA"	"51169"	"2020"	"2020"	10	21629	Unreliable
+	"Scott County, VA"	"51169"	"2021 "	"2021"	Suppressed	21419	Suppressed
+	"Shenandoah County, VA"	"51171"	"2018"	"2018"	Suppressed	43497	Suppressed
+	"Shenandoah County, VA"	"51171"	"2019"	"2019"	14	43616	Unreliable
+	"Shenandoah County, VA"	"51171"	"2020"	"2020"	Suppressed	43905	Suppressed
+	"Shenandoah County, VA"	"51171"	"2021 "	"2021"	Suppressed	44752	Suppressed
+	"Smyth County, VA"	"51173"	"2018"	"2018"	Suppressed	30472	Suppressed
+	"Smyth County, VA"	"51173"	"2019"	"2019"	Suppressed	30104	Suppressed
+	"Smyth County, VA"	"51173"	"2020"	"2020"	10	30090	Unreliable
+	"Smyth County, VA"	"51173"	"2021 "	"2021"	10	29477	Unreliable
+	"Southampton County, VA"	"51175"	"2018"	"2018"	Suppressed	17586	Suppressed
+	"Southampton County, VA"	"51175"	"2019"	"2019"	Suppressed	17631	Suppressed
+	"Southampton County, VA"	"51175"	"2020"	"2020"	Suppressed	17636	Suppressed
+	"Southampton County, VA"	"51175"	"2021 "	"2021"	Suppressed	18006	Suppressed
+	"Spotsylvania County, VA"	"51177"	"2018"	"2018"	32	134238	23.8
+	"Spotsylvania County, VA"	"51177"	"2019"	"2019"	34	136215	25.0
+	"Spotsylvania County, VA"	"51177"	"2020"	"2020"	53	138449	38.3
+	"Spotsylvania County, VA"	"51177"	"2021 "	"2021"	66	143676	45.9
+	"Stafford County, VA"	"51179"	"2018"	"2018"	26	149960	17.3
+	"Stafford County, VA"	"51179"	"2019"	"2019"	34	152882	22.2
+	"Stafford County, VA"	"51179"	"2020"	"2020"	38	156748	24.2
+	"Stafford County, VA"	"51179"	"2021 "	"2021"	40	160877	24.9
+	"Surry County, VA"	"51181"	"2018"	"2018"	Suppressed	6474	Suppressed
+	"Surry County, VA"	"51181"	"2019"	"2019"	Suppressed	6422	Suppressed
+	"Surry County, VA"	"51181"	"2020"	"2020"	Suppressed	6385	Suppressed
+	"Surry County, VA"	"51181"	"2021 "	"2021"	Suppressed	6530	Suppressed
+	"Sussex County, VA"	"51183"	"2018"	"2018"	Suppressed	11237	Suppressed
+	"Sussex County, VA"	"51183"	"2019"	"2019"	Suppressed	11159	Suppressed
+	"Sussex County, VA"	"51183"	"2020"	"2020"	Suppressed	10925	Suppressed
+	"Sussex County, VA"	"51183"	"2021 "	"2021"	Suppressed	10763	Suppressed
+	"Tazewell County, VA"	"51185"	"2018"	"2018"	11	40855	Unreliable
+	"Tazewell County, VA"	"51185"	"2019"	"2019"	19	40595	Unreliable
+	"Tazewell County, VA"	"51185"	"2020"	"2020"	26	40529	64.2
+	"Tazewell County, VA"	"51185"	"2021 "	"2021"	34	39925	85.2
+	"Warren County, VA"	"51187"	"2018"	"2018"	15	40003	Unreliable
+	"Warren County, VA"	"51187"	"2019"	"2019"	18	40164	Unreliable
+	"Warren County, VA"	"51187"	"2020"	"2020"	23	40475	56.8
+	"Warren County, VA"	"51187"	"2021 "	"2021"	18	40925	Unreliable
+	"Washington County, VA"	"51191"	"2018"	"2018"	Suppressed	54402	Suppressed
+	"Washington County, VA"	"51191"	"2019"	"2019"	Suppressed	53740	Suppressed
+	"Washington County, VA"	"51191"	"2020"	"2020"	Suppressed	53695	Suppressed
+	"Washington County, VA"	"51191"	"2021 "	"2021"	19	53635	Unreliable
+	"Westmoreland County, VA"	"51193"	"2018"	"2018"	Suppressed	17830	Suppressed
+	"Westmoreland County, VA"	"51193"	"2019"	"2019"	Suppressed	18015	Suppressed
+	"Westmoreland County, VA"	"51193"	"2020"	"2020"	Suppressed	18149	Suppressed
+	"Westmoreland County, VA"	"51193"	"2021 "	"2021"	Suppressed	18731	Suppressed
+	"Wise County, VA"	"51195"	"2018"	"2018"	11	38012	Unreliable
+	"Wise County, VA"	"51195"	"2019"	"2019"	14	37383	Unreliable
+	"Wise County, VA"	"51195"	"2020"	"2020"	Suppressed	37206	Suppressed
+	"Wise County, VA"	"51195"	"2021 "	"2021"	24	35647	67.3
+	"Wythe County, VA"	"51197"	"2018"	"2018"	Suppressed	28754	Suppressed
+	"Wythe County, VA"	"51197"	"2019"	"2019"	Suppressed	28684	Suppressed
+	"Wythe County, VA"	"51197"	"2020"	"2020"	Suppressed	28620	Suppressed
+	"Wythe County, VA"	"51197"	"2021 "	"2021"	Suppressed	28178	Suppressed
+	"York County, VA"	"51199"	"2018"	"2018"	10	67846	Unreliable
+	"York County, VA"	"51199"	"2019"	"2019"	14	68280	Unreliable
+	"York County, VA"	"51199"	"2020"	"2020"	18	69199	Unreliable
+	"York County, VA"	"51199"	"2021 "	"2021"	Suppressed	70915	Suppressed
+	"Alexandria city, VA"	"51510"	"2018"	"2018"	Suppressed	160530	Suppressed
+	"Alexandria city, VA"	"51510"	"2019"	"2019"	22	159428	13.8
+	"Alexandria city, VA"	"51510"	"2020"	"2020"	24	158726	15.1
+	"Alexandria city, VA"	"51510"	"2021 "	"2021"	27	154706	17.5
+	"Bristol city, VA"	"51520"	"2018"	"2018"	Suppressed	16482	Suppressed
+	"Bristol city, VA"	"51520"	"2019"	"2019"	Suppressed	16762	Suppressed
+	"Bristol city, VA"	"51520"	"2020"	"2020"	Suppressed	17329	Suppressed
+	"Bristol city, VA"	"51520"	"2021 "	"2021"	Suppressed	17054	Suppressed
+	"Buena Vista city, VA"	"51530"	"2018"	"2018"	Suppressed	6237	Suppressed
+	"Buena Vista city, VA"	"51530"	"2019"	"2019"	0	6478	Unreliable
+	"Buena Vista city, VA"	"51530"	"2020"	"2020"	Suppressed	6402	Suppressed
+	"Buena Vista city, VA"	"51530"	"2021 "	"2021"	Suppressed	6601	Suppressed
+	"Charlottesville city, VA"	"51540"	"2018"	"2018"	Suppressed	48117	Suppressed
+	"Charlottesville city, VA"	"51540"	"2019"	"2019"	Suppressed	47266	Suppressed
+	"Charlottesville city, VA"	"51540"	"2020"	"2020"	Suppressed	46950	Suppressed
+	"Charlottesville city, VA"	"51540"	"2021 "	"2021"	13	45672	Unreliable
+	"Chesapeake city, VA"	"51550"	"2018"	"2018"	44	242634	18.1
+	"Chesapeake city, VA"	"51550"	"2019"	"2019"	43	244835	17.6
+	"Chesapeake city, VA"	"51550"	"2020"	"2020"	65	247011	26.3
+	"Chesapeake city, VA"	"51550"	"2021 "	"2021"	60	251269	23.9
+	"Colonial Heights city, VA"	"51570"	"2018"	"2018"	10	17833	Unreliable
+	"Colonial Heights city, VA"	"51570"	"2019"	"2019"	Suppressed	17370	Suppressed
+	"Colonial Heights city, VA"	"51570"	"2020"	"2020"	Suppressed	17205	Suppressed
+	"Colonial Heights city, VA"	"51570"	"2021 "	"2021"	15	18273	Unreliable
+	"Covington city, VA"	"51580"	"2018"	"2018"	0	5460	Unreliable
+	"Covington city, VA"	"51580"	"2019"	"2019"	Suppressed	5538	Suppressed
+	"Covington city, VA"	"51580"	"2020"	"2020"	Suppressed	5639	Suppressed
+	"Covington city, VA"	"51580"	"2021 "	"2021"	Suppressed	5717	Suppressed
+	"Danville city, VA"	"51590"	"2018"	"2018"	Suppressed	40693	Suppressed
+	"Danville city, VA"	"51590"	"2019"	"2019"	11	40044	Unreliable
+	"Danville city, VA"	"51590"	"2020"	"2020"	15	39869	Unreliable
+	"Danville city, VA"	"51590"	"2021 "	"2021"	20	42215	47.4
+	"Emporia city, VA"	"51595"	"2018"	"2018"	Suppressed	5121	Suppressed
+	"Emporia city, VA"	"51595"	"2019"	"2019"	0	5346	Unreliable
+	"Emporia city, VA"	"51595"	"2020"	"2020"	Suppressed	5257	Suppressed
+	"Emporia city, VA"	"51595"	"2021 "	"2021"	Suppressed	5667	Suppressed
+	"Fairfax city, VA"	"51600"	"2018"	"2018"	Suppressed	24574	Suppressed
+	"Fairfax city, VA"	"51600"	"2019"	"2019"	Suppressed	24019	Suppressed
+	"Fairfax city, VA"	"51600"	"2020"	"2020"	Suppressed	23429	Suppressed
+	"Fairfax city, VA"	"51600"	"2021 "	"2021"	Suppressed	24276	Suppressed
+	"Falls Church city, VA"	"51610"	"2018"	"2018"	Suppressed	14772	Suppressed
+	"Falls Church city, VA"	"51610"	"2019"	"2019"	0	14617	Unreliable
+	"Falls Church city, VA"	"51610"	"2020"	"2020"	0	14631	Unreliable
+	"Falls Church city, VA"	"51610"	"2021 "	"2021"	12	14493	Unreliable
+	"Franklin city, VA"	"51620"	"2018"	"2018"	Suppressed	8013	Suppressed
+	"Franklin city, VA"	"51620"	"2019"	"2019"	Suppressed	7967	Suppressed
+	"Franklin city, VA"	"51620"	"2020"	"2020"	Suppressed	7833	Suppressed
+	"Franklin city, VA"	"51620"	"2021 "	"2021"	Suppressed	8217	Suppressed
+	"Fredericksburg city, VA"	"51630"	"2018"	"2018"	12	29144	Unreliable
+	"Fredericksburg city, VA"	"51630"	"2019"	"2019"	Suppressed	29036	Suppressed
+	"Fredericksburg city, VA"	"51630"	"2020"	"2020"	16	29492	Unreliable
+	"Fredericksburg city, VA"	"51630"	"2021 "	"2021"	18	28367	Unreliable
+	"Galax city, VA"	"51640"	"2018"	"2018"	0	6423	Unreliable
+	"Galax city, VA"	"51640"	"2019"	"2019"	Suppressed	6347	Suppressed
+	"Galax city, VA"	"51640"	"2020"	"2020"	Suppressed	6296	Suppressed
+	"Galax city, VA"	"51640"	"2021 "	"2021"	Suppressed	6660	Suppressed
+	"Hampton city, VA"	"51650"	"2018"	"2018"	30	134313	22.3
+	"Hampton city, VA"	"51650"	"2019"	"2019"	50	134510	37.2
+	"Hampton city, VA"	"51650"	"2020"	"2020"	49	135464	36.2
+	"Hampton city, VA"	"51650"	"2021 "	"2021"	47	137746	34.1
+	"Harrisonburg city, VA"	"51660"	"2018"	"2018"	Suppressed	54033	Suppressed
+	"Harrisonburg city, VA"	"51660"	"2019"	"2019"	Suppressed	53016	Suppressed
+	"Harrisonburg city, VA"	"51660"	"2020"	"2020"	Suppressed	53204	Suppressed
+	"Harrisonburg city, VA"	"51660"	"2021 "	"2021"	Suppressed	51430	Suppressed
+	"Hopewell city, VA"	"51670"	"2018"	"2018"	14	22596	Unreliable
+	"Hopewell city, VA"	"51670"	"2019"	"2019"	11	22529	Unreliable
+	"Hopewell city, VA"	"51670"	"2020"	"2020"	16	22375	Unreliable
+	"Hopewell city, VA"	"51670"	"2021 "	"2021"	25	23140	108.0
+	"Lexington city, VA"	"51678"	"2018"	"2018"	Suppressed	7136	Suppressed
+	"Lexington city, VA"	"51678"	"2019"	"2019"	Suppressed	7446	Suppressed
+	"Lexington city, VA"	"51678"	"2020"	"2020"	0	7279	Unreliable
+	"Lexington city, VA"	"51678"	"2021 "	"2021"	0	7456	Unreliable
+	"Lynchburg city, VA"	"51680"	"2018"	"2018"	14	82126	Unreliable
+	"Lynchburg city, VA"	"51680"	"2019"	"2019"	19	82168	Unreliable
+	"Lynchburg city, VA"	"51680"	"2020"	"2020"	18	81561	Unreliable
+	"Lynchburg city, VA"	"51680"	"2021 "	"2021"	32	79009	40.5
+	"Manassas city, VA"	"51683"	"2018"	"2018"	Suppressed	41641	Suppressed
+	"Manassas city, VA"	"51683"	"2019"	"2019"	13	41085	Unreliable
+	"Manassas city, VA"	"51683"	"2020"	"2020"	12	40869	Unreliable
+	"Manassas city, VA"	"51683"	"2021 "	"2021"	24	42708	56.2
+	"Manassas Park city, VA"	"51685"	"2018"	"2018"	0	17307	Unreliable
+	"Manassas Park city, VA"	"51685"	"2019"	"2019"	Suppressed	17478	Suppressed
+	"Manassas Park city, VA"	"51685"	"2020"	"2020"	Suppressed	18004	Suppressed
+	"Manassas Park city, VA"	"51685"	"2021 "	"2021"	Suppressed	17002	Suppressed
+	"Martinsville city, VA"	"51690"	"2018"	"2018"	Suppressed	12902	Suppressed
+	"Martinsville city, VA"	"51690"	"2019"	"2019"	Suppressed	12554	Suppressed
+	"Martinsville city, VA"	"51690"	"2020"	"2020"	12	12355	Unreliable
+	"Martinsville city, VA"	"51690"	"2021 "	"2021"	Suppressed	13517	Suppressed
+	"Newport News city, VA"	"51700"	"2018"	"2018"	46	178626	25.8
+	"Newport News city, VA"	"51700"	"2019"	"2019"	42	179225	23.4
+	"Newport News city, VA"	"51700"	"2020"	"2020"	69	179062	38.5
+	"Newport News city, VA"	"51700"	"2021 "	"2021"	70	184587	37.9
+	"Norfolk city, VA"	"51710"	"2018"	"2018"	58	244076	23.8
+	"Norfolk city, VA"	"51710"	"2019"	"2019"	52	242742	21.4
+	"Norfolk city, VA"	"51710"	"2020"	"2020"	87	242803	35.8
+	"Norfolk city, VA"	"51710"	"2021 "	"2021"	120	235089	51.0
+	"Norton city, VA"	"51720"	"2018"	"2018"	Suppressed	3968	Suppressed
+	"Norton city, VA"	"51720"	"2019"	"2019"	Suppressed	3981	Suppressed
+	"Norton city, VA"	"51720"	"2020"	"2020"	Suppressed	3985	Suppressed
+	"Norton city, VA"	"51720"	"2021 "	"2021"	Suppressed	3666	Suppressed
+	"Petersburg city, VA"	"51730"	"2018"	"2018"	10	31567	Unreliable
+	"Petersburg city, VA"	"51730"	"2019"	"2019"	19	31346	Unreliable
+	"Petersburg city, VA"	"51730"	"2020"	"2020"	37	30446	121.5
+	"Petersburg city, VA"	"51730"	"2021 "	"2021"	43	33429	128.6
+	"Poquoson city, VA"	"51735"	"2018"	"2018"	0	12190	Unreliable
+	"Poquoson city, VA"	"51735"	"2019"	"2019"	Suppressed	12271	Suppressed
+	"Poquoson city, VA"	"51735"	"2020"	"2020"	Suppressed	12257	Suppressed
+	"Poquoson city, VA"	"51735"	"2021 "	"2021"	Suppressed	12574	Suppressed
+	"Portsmouth city, VA"	"51740"	"2018"	"2018"	29	94632	30.6
+	"Portsmouth city, VA"	"51740"	"2019"	"2019"	42	94398	44.5
+	"Portsmouth city, VA"	"51740"	"2020"	"2020"	54	95094	56.8
+	"Portsmouth city, VA"	"51740"	"2021 "	"2021"	83	97840	84.8
+	"Radford city, VA"	"51750"	"2018"	"2018"	Suppressed	18339	Suppressed
+	"Radford city, VA"	"51750"	"2019"	"2019"	Suppressed	18249	Suppressed
+	"Radford city, VA"	"51750"	"2020"	"2020"	Suppressed	18255	Suppressed
+	"Radford city, VA"	"51750"	"2021 "	"2021"	Suppressed	16499	Suppressed
+	"Richmond city, VA"	"51760"	"2018"	"2018"	83	228783	36.3
+	"Richmond city, VA"	"51760"	"2019"	"2019"	105	230436	45.6
+	"Richmond city, VA"	"51760"	"2020"	"2020"	146	232226	62.9
+	"Richmond city, VA"	"51760"	"2021 "	"2021"	217	226604	95.8
+	"Roanoke city, VA"	"51770"	"2018"	"2018"	55	99920	55.0
+	"Roanoke city, VA"	"51770"	"2019"	"2019"	42	99143	42.4
+	"Roanoke city, VA"	"51770"	"2020"	"2020"	75	99058	75.7
+	"Roanoke city, VA"	"51770"	"2021 "	"2021"	88	98865	89.0
+	"Salem city, VA"	"51775"	"2018"	"2018"	Suppressed	25643	Suppressed
+	"Salem city, VA"	"51775"	"2019"	"2019"	Suppressed	25301	Suppressed
+	"Salem city, VA"	"51775"	"2020"	"2020"	15	25340	Unreliable
+	"Salem city, VA"	"51775"	"2021 "	"2021"	Suppressed	25373	Suppressed
+	"Staunton city, VA"	"51790"	"2018"	"2018"	Suppressed	24922	Suppressed
+	"Staunton city, VA"	"51790"	"2019"	"2019"	Suppressed	24932	Suppressed
+	"Staunton city, VA"	"51790"	"2020"	"2020"	Suppressed	25190	Suppressed
+	"Staunton city, VA"	"51790"	"2021 "	"2021"	Suppressed	25661	Suppressed
+	"Suffolk city, VA"	"51800"	"2018"	"2018"	10	91185	Unreliable
+	"Suffolk city, VA"	"51800"	"2019"	"2019"	16	92108	Unreliable
+	"Suffolk city, VA"	"51800"	"2020"	"2020"	29	93913	30.9
+	"Suffolk city, VA"	"51800"	"2021 "	"2021"	35	96194	36.4
+	"Virginia Beach city, VA"	"51810"	"2018"	"2018"	67	450189	14.9
+	"Virginia Beach city, VA"	"51810"	"2019"	"2019"	55	449974	12.2
+	"Virginia Beach city, VA"	"51810"	"2020"	"2020"	122	451231	27.0
+	"Virginia Beach city, VA"	"51810"	"2021 "	"2021"	117	457672	25.6
+	"Waynesboro city, VA"	"51820"	"2018"	"2018"	Suppressed	22628	Suppressed
+	"Waynesboro city, VA"	"51820"	"2019"	"2019"	10	22630	Unreliable
+	"Waynesboro city, VA"	"51820"	"2020"	"2020"	Suppressed	22741	Suppressed
+	"Waynesboro city, VA"	"51820"	"2021 "	"2021"	Suppressed	22550	Suppressed
+	"Williamsburg city, VA"	"51830"	"2018"	"2018"	Suppressed	14896	Suppressed
+	"Williamsburg city, VA"	"51830"	"2019"	"2019"	Suppressed	14954	Suppressed
+	"Williamsburg city, VA"	"51830"	"2020"	"2020"	Suppressed	15259	Suppressed
+	"Williamsburg city, VA"	"51830"	"2021 "	"2021"	Suppressed	15590	Suppressed
+	"Winchester city, VA"	"51840"	"2018"	"2018"	Suppressed	28108	Suppressed
+	"Winchester city, VA"	"51840"	"2019"	"2019"	11	28078	Unreliable
+	"Winchester city, VA"	"51840"	"2020"	"2020"	17	27700	Unreliable
+	"Winchester city, VA"	"51840"	"2021 "	"2021"	Suppressed	28136	Suppressed
+"---"
+"Dataset: Multiple Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"States: Virginia (51)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Oct 20, 2023 6:50:56 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2023. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Oct 20, 2023 6:50:56 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"3. The population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."

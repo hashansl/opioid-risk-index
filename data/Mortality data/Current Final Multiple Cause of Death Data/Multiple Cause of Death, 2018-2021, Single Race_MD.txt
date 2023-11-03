@@ -1,0 +1,141 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Allegany County, MD"	"24001"	"2018"	"2018"	35	70975	49.3
+	"Allegany County, MD"	"24001"	"2019"	"2019"	23	70416	32.7
+	"Allegany County, MD"	"24001"	"2020"	"2020"	52	70057	74.2
+	"Allegany County, MD"	"24001"	"2021 "	"2021"	35	67729	51.7
+	"Anne Arundel County, MD"	"24003"	"2018"	"2018"	258	576031	44.8
+	"Anne Arundel County, MD"	"24003"	"2019"	"2019"	262	579234	45.2
+	"Anne Arundel County, MD"	"24003"	"2020"	"2020"	280	582777	48.0
+	"Anne Arundel County, MD"	"24003"	"2021 "	"2021"	253	590336	42.9
+	"Baltimore County, MD"	"24005"	"2018"	"2018"	450	828431	54.3
+	"Baltimore County, MD"	"24005"	"2019"	"2019"	389	827370	47.0
+	"Baltimore County, MD"	"24005"	"2020"	"2020"	442	826017	53.5
+	"Baltimore County, MD"	"24005"	"2021 "	"2021"	471	849316	55.5
+	"Calvert County, MD"	"24009"	"2018"	"2018"	40	92003	43.5
+	"Calvert County, MD"	"24009"	"2019"	"2019"	36	92525	38.9
+	"Calvert County, MD"	"24009"	"2020"	"2020"	33	93072	35.5
+	"Calvert County, MD"	"24009"	"2021 "	"2021"	35	93928	37.3
+	"Caroline County, MD"	"24011"	"2018"	"2018"	12	33304	Unreliable
+	"Caroline County, MD"	"24011"	"2019"	"2019"	18	33406	Unreliable
+	"Caroline County, MD"	"24011"	"2020"	"2020"	22	33492	65.7
+	"Caroline County, MD"	"24011"	"2021 "	"2021"	15	33386	Unreliable
+	"Carroll County, MD"	"24013"	"2018"	"2018"	79	168429	46.9
+	"Carroll County, MD"	"24013"	"2019"	"2019"	72	168447	42.7
+	"Carroll County, MD"	"24013"	"2020"	"2020"	60	169092	35.5
+	"Carroll County, MD"	"24013"	"2021 "	"2021"	71	173873	40.8
+	"Cecil County, MD"	"24015"	"2018"	"2018"	65	102826	63.2
+	"Cecil County, MD"	"24015"	"2019"	"2019"	74	102855	71.9
+	"Cecil County, MD"	"24015"	"2020"	"2020"	99	103419	95.7
+	"Cecil County, MD"	"24015"	"2021 "	"2021"	89	103905	85.7
+	"Charles County, MD"	"24017"	"2018"	"2018"	35	161503	21.7
+	"Charles County, MD"	"24017"	"2019"	"2019"	46	163257	28.2
+	"Charles County, MD"	"24017"	"2020"	"2020"	60	164436	36.5
+	"Charles County, MD"	"24017"	"2021 "	"2021"	49	168698	29.0
+	"Dorchester County, MD"	"24019"	"2018"	"2018"	Suppressed	31998	Suppressed
+	"Dorchester County, MD"	"24019"	"2019"	"2019"	15	31929	Unreliable
+	"Dorchester County, MD"	"24019"	"2020"	"2020"	17	31853	Unreliable
+	"Dorchester County, MD"	"24019"	"2021 "	"2021"	23	32489	70.8
+	"Frederick County, MD"	"24021"	"2018"	"2018"	85	255648	33.2
+	"Frederick County, MD"	"24021"	"2019"	"2019"	71	259547	27.4
+	"Frederick County, MD"	"24021"	"2020"	"2020"	80	265161	30.2
+	"Frederick County, MD"	"24021"	"2021 "	"2021"	52	279835	18.6
+	"Garrett County, MD"	"24023"	"2018"	"2018"	Suppressed	29163	Suppressed
+	"Garrett County, MD"	"24023"	"2019"	"2019"	Suppressed	29014	Suppressed
+	"Garrett County, MD"	"24023"	"2020"	"2020"	10	28852	Unreliable
+	"Garrett County, MD"	"24023"	"2021 "	"2021"	Suppressed	28702	Suppressed
+	"Harford County, MD"	"24025"	"2018"	"2018"	106	253956	41.7
+	"Harford County, MD"	"24025"	"2019"	"2019"	104	255441	40.7
+	"Harford County, MD"	"24025"	"2020"	"2020"	106	256805	41.3
+	"Harford County, MD"	"24025"	"2021 "	"2021"	116	262977	44.1
+	"Howard County, MD"	"24027"	"2018"	"2018"	51	323196	15.8
+	"Howard County, MD"	"24027"	"2019"	"2019"	46	325690	14.1
+	"Howard County, MD"	"24027"	"2020"	"2020"	59	328200	18.0
+	"Howard County, MD"	"24027"	"2021 "	"2021"	40	334529	12.0
+	"Kent County, MD"	"24029"	"2018"	"2018"	Suppressed	19383	Suppressed
+	"Kent County, MD"	"24029"	"2019"	"2019"	Suppressed	19422	Suppressed
+	"Kent County, MD"	"24029"	"2020"	"2020"	Suppressed	19192	Suppressed
+	"Kent County, MD"	"24029"	"2021 "	"2021"	Suppressed	19270	Suppressed
+	"Montgomery County, MD"	"24031"	"2018"	"2018"	103	1052567	9.8
+	"Montgomery County, MD"	"24031"	"2019"	"2019"	145	1050688	13.8
+	"Montgomery County, MD"	"24031"	"2020"	"2020"	149	1051816	14.2
+	"Montgomery County, MD"	"24031"	"2021 "	"2021"	164	1054827	15.5
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	143	909308	15.7
+	"Prince George's County, MD"	"24033"	"2019"	"2019"	168	909327	18.5
+	"Prince George's County, MD"	"24033"	"2020"	"2020"	227	909612	25.0
+	"Prince George's County, MD"	"24033"	"2021 "	"2021"	213	955306	22.3
+	"Queen Anne's County, MD"	"24035"	"2018"	"2018"	22	50251	43.8
+	"Queen Anne's County, MD"	"24035"	"2019"	"2019"	18	50381	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2020"	"2020"	22	51167	43.0
+	"Queen Anne's County, MD"	"24035"	"2021 "	"2021"	23	50798	45.3
+	"St. Mary's County, MD"	"24037"	"2018"	"2018"	32	112664	28.4
+	"St. Mary's County, MD"	"24037"	"2019"	"2019"	33	113510	29.1
+	"St. Mary's County, MD"	"24037"	"2020"	"2020"	36	114687	31.4
+	"St. Mary's County, MD"	"24037"	"2021 "	"2021"	47	114468	41.1
+	"Somerset County, MD"	"24039"	"2018"	"2018"	10	25675	Unreliable
+	"Somerset County, MD"	"24039"	"2019"	"2019"	Suppressed	25616	Suppressed
+	"Somerset County, MD"	"24039"	"2020"	"2020"	18	25453	Unreliable
+	"Somerset County, MD"	"24039"	"2021 "	"2021"	12	24584	Unreliable
+	"Talbot County, MD"	"24041"	"2018"	"2018"	12	36968	Unreliable
+	"Talbot County, MD"	"24041"	"2019"	"2019"	10	37181	Unreliable
+	"Talbot County, MD"	"24041"	"2020"	"2020"	18	36972	Unreliable
+	"Talbot County, MD"	"24041"	"2021 "	"2021"	17	37626	Unreliable
+	"Washington County, MD"	"24043"	"2018"	"2018"	89	150926	59.0
+	"Washington County, MD"	"24043"	"2019"	"2019"	88	151049	58.3
+	"Washington County, MD"	"24043"	"2020"	"2020"	104	151146	68.8
+	"Washington County, MD"	"24043"	"2021 "	"2021"	102	154937	65.8
+	"Wicomico County, MD"	"24045"	"2018"	"2018"	35	103195	33.9
+	"Wicomico County, MD"	"24045"	"2019"	"2019"	34	103609	32.8
+	"Wicomico County, MD"	"24045"	"2020"	"2020"	46	103990	44.2
+	"Wicomico County, MD"	"24045"	"2021 "	"2021"	41	103980	39.4
+	"Worcester County, MD"	"24047"	"2018"	"2018"	18	51823	Unreliable
+	"Worcester County, MD"	"24047"	"2019"	"2019"	15	52276	Unreliable
+	"Worcester County, MD"	"24047"	"2020"	"2020"	20	52403	38.2
+	"Worcester County, MD"	"24047"	"2021 "	"2021"	21	53132	39.5
+	"Baltimore city, MD"	"24510"	"2018"	"2018"	691	602495	114.7
+	"Baltimore city, MD"	"24510"	"2019"	"2019"	731	593490	123.2
+	"Baltimore city, MD"	"24510"	"2020"	"2020"	849	586131	144.8
+	"Baltimore city, MD"	"24510"	"2021 "	"2021"	893	576498	154.9
+"---"
+"Dataset: Multiple Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"States: Maryland (24)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Oct 20, 2023 6:51:54 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2023. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Oct 20, 2023 6:51:54 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"4. The population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."

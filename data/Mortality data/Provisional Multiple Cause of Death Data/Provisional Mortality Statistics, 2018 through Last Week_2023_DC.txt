@@ -1,0 +1,36 @@
+"Notes"	"Occurrence County"	"Occurrence County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"District of Columbia, DC"	"11001"	"2018"	"2018"	298	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"2019"	"2019"	369	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"2020"	"2020"	500	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"2021"	"2021"	527	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"2022 (provisional)"	"2022"	546	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"2023 (provisional and partial)"	"2023"	157	Not Applicable	Not Applicable
+"Total"	"District of Columbia, DC"	"11001"			2397	Not Applicable	Not Applicable
+"Total"					2397	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Occurrence States: District of Columbia (11)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: Occurrence County; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 6:43:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 6:43:49"
+"AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Deaths occurring through October 07, 2023 as of October 15, 2023."

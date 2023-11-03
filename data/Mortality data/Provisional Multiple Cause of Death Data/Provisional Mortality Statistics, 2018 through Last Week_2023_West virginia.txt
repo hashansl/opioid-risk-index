@@ -1,0 +1,366 @@
+"Notes"	"Occurrence County"	"Occurrence County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Barbour County, WV"	"54001"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Barbour County, WV"	"54001"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Barbour County, WV"	"54001"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Barbour County, WV"	"54001"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Barbour County, WV"	"54001"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Barbour County, WV"	"54001"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Berkeley County, WV"	"54003"	"2018"	"2018"	74	Not Applicable	Not Applicable
+	"Berkeley County, WV"	"54003"	"2019"	"2019"	63	Not Applicable	Not Applicable
+	"Berkeley County, WV"	"54003"	"2020"	"2020"	113	Not Applicable	Not Applicable
+	"Berkeley County, WV"	"54003"	"2021"	"2021"	98	Not Applicable	Not Applicable
+	"Berkeley County, WV"	"54003"	"2022 (provisional)"	"2022"	93	Not Applicable	Not Applicable
+	"Berkeley County, WV"	"54003"	"2023 (provisional and partial)"	"2023"	24	Not Applicable	Not Applicable
+	"Boone County, WV"	"54005"	"2018"	"2018"	16	Not Applicable	Not Applicable
+	"Boone County, WV"	"54005"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Boone County, WV"	"54005"	"2020"	"2020"	19	Not Applicable	Not Applicable
+	"Boone County, WV"	"54005"	"2021"	"2021"	18	Not Applicable	Not Applicable
+	"Boone County, WV"	"54005"	"2022 (provisional)"	"2022"	20	Not Applicable	Not Applicable
+	"Boone County, WV"	"54005"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Braxton County, WV"	"54007"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Braxton County, WV"	"54007"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Braxton County, WV"	"54007"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Braxton County, WV"	"54007"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Braxton County, WV"	"54007"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Braxton County, WV"	"54007"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Brooke County, WV"	"54009"	"2018"	"2018"	11	Not Applicable	Not Applicable
+	"Brooke County, WV"	"54009"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Brooke County, WV"	"54009"	"2020"	"2020"	13	Not Applicable	Not Applicable
+	"Brooke County, WV"	"54009"	"2021"	"2021"	20	Not Applicable	Not Applicable
+	"Brooke County, WV"	"54009"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Brooke County, WV"	"54009"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Cabell County, WV"	"54011"	"2018"	"2018"	174	Not Applicable	Not Applicable
+	"Cabell County, WV"	"54011"	"2019"	"2019"	122	Not Applicable	Not Applicable
+	"Cabell County, WV"	"54011"	"2020"	"2020"	163	Not Applicable	Not Applicable
+	"Cabell County, WV"	"54011"	"2021"	"2021"	177	Not Applicable	Not Applicable
+	"Cabell County, WV"	"54011"	"2022 (provisional)"	"2022"	171	Not Applicable	Not Applicable
+	"Cabell County, WV"	"54011"	"2023 (provisional and partial)"	"2023"	47	Not Applicable	Not Applicable
+	"Calhoun County, WV"	"54013"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Calhoun County, WV"	"54013"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Calhoun County, WV"	"54013"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Calhoun County, WV"	"54013"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Calhoun County, WV"	"54013"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Calhoun County, WV"	"54013"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Clay County, WV"	"54015"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Clay County, WV"	"54015"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Clay County, WV"	"54015"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Clay County, WV"	"54015"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Clay County, WV"	"54015"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Clay County, WV"	"54015"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Doddridge County, WV"	"54017"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Doddridge County, WV"	"54017"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Doddridge County, WV"	"54017"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Doddridge County, WV"	"54017"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Doddridge County, WV"	"54017"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Doddridge County, WV"	"54017"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Fayette County, WV"	"54019"	"2018"	"2018"	20	Not Applicable	Not Applicable
+	"Fayette County, WV"	"54019"	"2019"	"2019"	25	Not Applicable	Not Applicable
+	"Fayette County, WV"	"54019"	"2020"	"2020"	27	Not Applicable	Not Applicable
+	"Fayette County, WV"	"54019"	"2021"	"2021"	37	Not Applicable	Not Applicable
+	"Fayette County, WV"	"54019"	"2022 (provisional)"	"2022"	45	Not Applicable	Not Applicable
+	"Fayette County, WV"	"54019"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Gilmer County, WV"	"54021"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Gilmer County, WV"	"54021"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Gilmer County, WV"	"54021"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Gilmer County, WV"	"54021"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Gilmer County, WV"	"54021"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Gilmer County, WV"	"54021"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Grant County, WV"	"54023"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Grant County, WV"	"54023"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Grant County, WV"	"54023"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Grant County, WV"	"54023"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Grant County, WV"	"54023"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Grant County, WV"	"54023"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Greenbrier County, WV"	"54025"	"2018"	"2018"	11	Not Applicable	Not Applicable
+	"Greenbrier County, WV"	"54025"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Greenbrier County, WV"	"54025"	"2020"	"2020"	18	Not Applicable	Not Applicable
+	"Greenbrier County, WV"	"54025"	"2021"	"2021"	32	Not Applicable	Not Applicable
+	"Greenbrier County, WV"	"54025"	"2022 (provisional)"	"2022"	26	Not Applicable	Not Applicable
+	"Greenbrier County, WV"	"54025"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Hampshire County, WV"	"54027"	"2018"	"2018"	12	Not Applicable	Not Applicable
+	"Hampshire County, WV"	"54027"	"2019"	"2019"	12	Not Applicable	Not Applicable
+	"Hampshire County, WV"	"54027"	"2020"	"2020"	15	Not Applicable	Not Applicable
+	"Hampshire County, WV"	"54027"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Hampshire County, WV"	"54027"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Hampshire County, WV"	"54027"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Hancock County, WV"	"54029"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Hancock County, WV"	"54029"	"2019"	"2019"	12	Not Applicable	Not Applicable
+	"Hancock County, WV"	"54029"	"2020"	"2020"	17	Not Applicable	Not Applicable
+	"Hancock County, WV"	"54029"	"2021"	"2021"	10	Not Applicable	Not Applicable
+	"Hancock County, WV"	"54029"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Hancock County, WV"	"54029"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Hardy County, WV"	"54031"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Hardy County, WV"	"54031"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Hardy County, WV"	"54031"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Hardy County, WV"	"54031"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Hardy County, WV"	"54031"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Hardy County, WV"	"54031"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Harrison County, WV"	"54033"	"2018"	"2018"	22	Not Applicable	Not Applicable
+	"Harrison County, WV"	"54033"	"2019"	"2019"	27	Not Applicable	Not Applicable
+	"Harrison County, WV"	"54033"	"2020"	"2020"	38	Not Applicable	Not Applicable
+	"Harrison County, WV"	"54033"	"2021"	"2021"	47	Not Applicable	Not Applicable
+	"Harrison County, WV"	"54033"	"2022 (provisional)"	"2022"	48	Not Applicable	Not Applicable
+	"Harrison County, WV"	"54033"	"2023 (provisional and partial)"	"2023"	19	Not Applicable	Not Applicable
+	"Jackson County, WV"	"54035"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Jackson County, WV"	"54035"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Jackson County, WV"	"54035"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Jackson County, WV"	"54035"	"2021"	"2021"	13	Not Applicable	Not Applicable
+	"Jackson County, WV"	"54035"	"2022 (provisional)"	"2022"	16	Not Applicable	Not Applicable
+	"Jackson County, WV"	"54035"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Jefferson County, WV"	"54037"	"2018"	"2018"	23	Not Applicable	Not Applicable
+	"Jefferson County, WV"	"54037"	"2019"	"2019"	21	Not Applicable	Not Applicable
+	"Jefferson County, WV"	"54037"	"2020"	"2020"	29	Not Applicable	Not Applicable
+	"Jefferson County, WV"	"54037"	"2021"	"2021"	25	Not Applicable	Not Applicable
+	"Jefferson County, WV"	"54037"	"2022 (provisional)"	"2022"	31	Not Applicable	Not Applicable
+	"Jefferson County, WV"	"54037"	"2023 (provisional and partial)"	"2023"	10	Not Applicable	Not Applicable
+	"Kanawha County, WV"	"54039"	"2018"	"2018"	155	Not Applicable	Not Applicable
+	"Kanawha County, WV"	"54039"	"2019"	"2019"	165	Not Applicable	Not Applicable
+	"Kanawha County, WV"	"54039"	"2020"	"2020"	233	Not Applicable	Not Applicable
+	"Kanawha County, WV"	"54039"	"2021"	"2021"	239	Not Applicable	Not Applicable
+	"Kanawha County, WV"	"54039"	"2022 (provisional)"	"2022"	204	Not Applicable	Not Applicable
+	"Kanawha County, WV"	"54039"	"2023 (provisional and partial)"	"2023"	57	Not Applicable	Not Applicable
+	"Lewis County, WV"	"54041"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Lewis County, WV"	"54041"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Lewis County, WV"	"54041"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Lewis County, WV"	"54041"	"2021"	"2021"	13	Not Applicable	Not Applicable
+	"Lewis County, WV"	"54041"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Lewis County, WV"	"54041"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Lincoln County, WV"	"54043"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Lincoln County, WV"	"54043"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Lincoln County, WV"	"54043"	"2020"	"2020"	10	Not Applicable	Not Applicable
+	"Lincoln County, WV"	"54043"	"2021"	"2021"	17	Not Applicable	Not Applicable
+	"Lincoln County, WV"	"54043"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Lincoln County, WV"	"54043"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Logan County, WV"	"54045"	"2018"	"2018"	14	Not Applicable	Not Applicable
+	"Logan County, WV"	"54045"	"2019"	"2019"	27	Not Applicable	Not Applicable
+	"Logan County, WV"	"54045"	"2020"	"2020"	57	Not Applicable	Not Applicable
+	"Logan County, WV"	"54045"	"2021"	"2021"	63	Not Applicable	Not Applicable
+	"Logan County, WV"	"54045"	"2022 (provisional)"	"2022"	43	Not Applicable	Not Applicable
+	"Logan County, WV"	"54045"	"2023 (provisional and partial)"	"2023"	14	Not Applicable	Not Applicable
+	"McDowell County, WV"	"54047"	"2018"	"2018"	11	Not Applicable	Not Applicable
+	"McDowell County, WV"	"54047"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"McDowell County, WV"	"54047"	"2020"	"2020"	29	Not Applicable	Not Applicable
+	"McDowell County, WV"	"54047"	"2021"	"2021"	34	Not Applicable	Not Applicable
+	"McDowell County, WV"	"54047"	"2022 (provisional)"	"2022"	33	Not Applicable	Not Applicable
+	"McDowell County, WV"	"54047"	"2023 (provisional and partial)"	"2023"	13	Not Applicable	Not Applicable
+	"Marion County, WV"	"54049"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Marion County, WV"	"54049"	"2019"	"2019"	13	Not Applicable	Not Applicable
+	"Marion County, WV"	"54049"	"2020"	"2020"	32	Not Applicable	Not Applicable
+	"Marion County, WV"	"54049"	"2021"	"2021"	33	Not Applicable	Not Applicable
+	"Marion County, WV"	"54049"	"2022 (provisional)"	"2022"	34	Not Applicable	Not Applicable
+	"Marion County, WV"	"54049"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Marshall County, WV"	"54051"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Marshall County, WV"	"54051"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Marshall County, WV"	"54051"	"2020"	"2020"	15	Not Applicable	Not Applicable
+	"Marshall County, WV"	"54051"	"2021"	"2021"	14	Not Applicable	Not Applicable
+	"Marshall County, WV"	"54051"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Marshall County, WV"	"54051"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Mason County, WV"	"54053"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Mason County, WV"	"54053"	"2019"	"2019"	10	Not Applicable	Not Applicable
+	"Mason County, WV"	"54053"	"2020"	"2020"	14	Not Applicable	Not Applicable
+	"Mason County, WV"	"54053"	"2021"	"2021"	31	Not Applicable	Not Applicable
+	"Mason County, WV"	"54053"	"2022 (provisional)"	"2022"	17	Not Applicable	Not Applicable
+	"Mason County, WV"	"54053"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Mercer County, WV"	"54055"	"2018"	"2018"	39	Not Applicable	Not Applicable
+	"Mercer County, WV"	"54055"	"2019"	"2019"	23	Not Applicable	Not Applicable
+	"Mercer County, WV"	"54055"	"2020"	"2020"	53	Not Applicable	Not Applicable
+	"Mercer County, WV"	"54055"	"2021"	"2021"	97	Not Applicable	Not Applicable
+	"Mercer County, WV"	"54055"	"2022 (provisional)"	"2022"	62	Not Applicable	Not Applicable
+	"Mercer County, WV"	"54055"	"2023 (provisional and partial)"	"2023"	24	Not Applicable	Not Applicable
+	"Mineral County, WV"	"54057"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Mineral County, WV"	"54057"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Mineral County, WV"	"54057"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Mineral County, WV"	"54057"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Mineral County, WV"	"54057"	"2022 (provisional)"	"2022"	16	Not Applicable	Not Applicable
+	"Mineral County, WV"	"54057"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Mingo County, WV"	"54059"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Mingo County, WV"	"54059"	"2019"	"2019"	10	Not Applicable	Not Applicable
+	"Mingo County, WV"	"54059"	"2020"	"2020"	10	Not Applicable	Not Applicable
+	"Mingo County, WV"	"54059"	"2021"	"2021"	22	Not Applicable	Not Applicable
+	"Mingo County, WV"	"54059"	"2022 (provisional)"	"2022"	19	Not Applicable	Not Applicable
+	"Mingo County, WV"	"54059"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Monongalia County, WV"	"54061"	"2018"	"2018"	59	Not Applicable	Not Applicable
+	"Monongalia County, WV"	"54061"	"2019"	"2019"	67	Not Applicable	Not Applicable
+	"Monongalia County, WV"	"54061"	"2020"	"2020"	84	Not Applicable	Not Applicable
+	"Monongalia County, WV"	"54061"	"2021"	"2021"	87	Not Applicable	Not Applicable
+	"Monongalia County, WV"	"54061"	"2022 (provisional)"	"2022"	86	Not Applicable	Not Applicable
+	"Monongalia County, WV"	"54061"	"2023 (provisional and partial)"	"2023"	24	Not Applicable	Not Applicable
+	"Monroe County, WV"	"54063"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Monroe County, WV"	"54063"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Monroe County, WV"	"54063"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Monroe County, WV"	"54063"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Monroe County, WV"	"54063"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Monroe County, WV"	"54063"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Morgan County, WV"	"54065"	"2018"	"2018"	10	Not Applicable	Not Applicable
+	"Morgan County, WV"	"54065"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Morgan County, WV"	"54065"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Morgan County, WV"	"54065"	"2021"	"2021"	11	Not Applicable	Not Applicable
+	"Morgan County, WV"	"54065"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Morgan County, WV"	"54065"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Nicholas County, WV"	"54067"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Nicholas County, WV"	"54067"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Nicholas County, WV"	"54067"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Nicholas County, WV"	"54067"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Nicholas County, WV"	"54067"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Nicholas County, WV"	"54067"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Ohio County, WV"	"54069"	"2018"	"2018"	27	Not Applicable	Not Applicable
+	"Ohio County, WV"	"54069"	"2019"	"2019"	26	Not Applicable	Not Applicable
+	"Ohio County, WV"	"54069"	"2020"	"2020"	44	Not Applicable	Not Applicable
+	"Ohio County, WV"	"54069"	"2021"	"2021"	42	Not Applicable	Not Applicable
+	"Ohio County, WV"	"54069"	"2022 (provisional)"	"2022"	26	Not Applicable	Not Applicable
+	"Ohio County, WV"	"54069"	"2023 (provisional and partial)"	"2023"	11	Not Applicable	Not Applicable
+	"Pendleton County, WV"	"54071"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Pendleton County, WV"	"54071"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Pendleton County, WV"	"54071"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Pendleton County, WV"	"54071"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Pendleton County, WV"	"54071"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Pendleton County, WV"	"54071"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Pleasants County, WV"	"54073"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Pleasants County, WV"	"54073"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Pleasants County, WV"	"54073"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Pleasants County, WV"	"54073"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Pleasants County, WV"	"54073"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Pleasants County, WV"	"54073"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Pocahontas County, WV"	"54075"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Pocahontas County, WV"	"54075"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Pocahontas County, WV"	"54075"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Pocahontas County, WV"	"54075"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Pocahontas County, WV"	"54075"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Pocahontas County, WV"	"54075"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Preston County, WV"	"54077"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Preston County, WV"	"54077"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Preston County, WV"	"54077"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Preston County, WV"	"54077"	"2021"	"2021"	16	Not Applicable	Not Applicable
+	"Preston County, WV"	"54077"	"2022 (provisional)"	"2022"	11	Not Applicable	Not Applicable
+	"Preston County, WV"	"54077"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Putnam County, WV"	"54079"	"2018"	"2018"	21	Not Applicable	Not Applicable
+	"Putnam County, WV"	"54079"	"2019"	"2019"	12	Not Applicable	Not Applicable
+	"Putnam County, WV"	"54079"	"2020"	"2020"	22	Not Applicable	Not Applicable
+	"Putnam County, WV"	"54079"	"2021"	"2021"	16	Not Applicable	Not Applicable
+	"Putnam County, WV"	"54079"	"2022 (provisional)"	"2022"	19	Not Applicable	Not Applicable
+	"Putnam County, WV"	"54079"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Raleigh County, WV"	"54081"	"2018"	"2018"	56	Not Applicable	Not Applicable
+	"Raleigh County, WV"	"54081"	"2019"	"2019"	72	Not Applicable	Not Applicable
+	"Raleigh County, WV"	"54081"	"2020"	"2020"	105	Not Applicable	Not Applicable
+	"Raleigh County, WV"	"54081"	"2021"	"2021"	123	Not Applicable	Not Applicable
+	"Raleigh County, WV"	"54081"	"2022 (provisional)"	"2022"	109	Not Applicable	Not Applicable
+	"Raleigh County, WV"	"54081"	"2023 (provisional and partial)"	"2023"	36	Not Applicable	Not Applicable
+	"Randolph County, WV"	"54083"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Randolph County, WV"	"54083"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Randolph County, WV"	"54083"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Randolph County, WV"	"54083"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Randolph County, WV"	"54083"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Randolph County, WV"	"54083"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Ritchie County, WV"	"54085"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Ritchie County, WV"	"54085"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Ritchie County, WV"	"54085"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Ritchie County, WV"	"54085"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Ritchie County, WV"	"54085"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Ritchie County, WV"	"54085"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Roane County, WV"	"54087"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Roane County, WV"	"54087"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Roane County, WV"	"54087"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Roane County, WV"	"54087"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Roane County, WV"	"54087"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Roane County, WV"	"54087"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Summers County, WV"	"54089"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Summers County, WV"	"54089"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Summers County, WV"	"54089"	"2020"	"2020"	17	Not Applicable	Not Applicable
+	"Summers County, WV"	"54089"	"2021"	"2021"	13	Not Applicable	Not Applicable
+	"Summers County, WV"	"54089"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Summers County, WV"	"54089"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Taylor County, WV"	"54091"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Taylor County, WV"	"54091"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Taylor County, WV"	"54091"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Taylor County, WV"	"54091"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Taylor County, WV"	"54091"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Taylor County, WV"	"54091"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Tucker County, WV"	"54093"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Tucker County, WV"	"54093"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Tucker County, WV"	"54093"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Tucker County, WV"	"54093"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Tucker County, WV"	"54093"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Tucker County, WV"	"54093"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Tyler County, WV"	"54095"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Tyler County, WV"	"54095"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Tyler County, WV"	"54095"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Tyler County, WV"	"54095"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Tyler County, WV"	"54095"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Tyler County, WV"	"54095"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Upshur County, WV"	"54097"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Upshur County, WV"	"54097"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Upshur County, WV"	"54097"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Upshur County, WV"	"54097"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Upshur County, WV"	"54097"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Upshur County, WV"	"54097"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Wayne County, WV"	"54099"	"2018"	"2018"	24	Not Applicable	Not Applicable
+	"Wayne County, WV"	"54099"	"2019"	"2019"	24	Not Applicable	Not Applicable
+	"Wayne County, WV"	"54099"	"2020"	"2020"	35	Not Applicable	Not Applicable
+	"Wayne County, WV"	"54099"	"2021"	"2021"	34	Not Applicable	Not Applicable
+	"Wayne County, WV"	"54099"	"2022 (provisional)"	"2022"	23	Not Applicable	Not Applicable
+	"Wayne County, WV"	"54099"	"2023 (provisional and partial)"	"2023"	11	Not Applicable	Not Applicable
+	"Webster County, WV"	"54101"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Webster County, WV"	"54101"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Webster County, WV"	"54101"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Webster County, WV"	"54101"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Webster County, WV"	"54101"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Webster County, WV"	"54101"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Wetzel County, WV"	"54103"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Wetzel County, WV"	"54103"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Wetzel County, WV"	"54103"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Wetzel County, WV"	"54103"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Wetzel County, WV"	"54103"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Wetzel County, WV"	"54103"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Wirt County, WV"	"54105"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Wirt County, WV"	"54105"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Wirt County, WV"	"54105"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Wirt County, WV"	"54105"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Wirt County, WV"	"54105"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Wirt County, WV"	"54105"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Wood County, WV"	"54107"	"2018"	"2018"	34	Not Applicable	Not Applicable
+	"Wood County, WV"	"54107"	"2019"	"2019"	42	Not Applicable	Not Applicable
+	"Wood County, WV"	"54107"	"2020"	"2020"	34	Not Applicable	Not Applicable
+	"Wood County, WV"	"54107"	"2021"	"2021"	67	Not Applicable	Not Applicable
+	"Wood County, WV"	"54107"	"2022 (provisional)"	"2022"	46	Not Applicable	Not Applicable
+	"Wood County, WV"	"54107"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming County, WV"	"54109"	"2018"	"2018"	11	Not Applicable	Not Applicable
+	"Wyoming County, WV"	"54109"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming County, WV"	"54109"	"2020"	"2020"	19	Not Applicable	Not Applicable
+	"Wyoming County, WV"	"54109"	"2021"	"2021"	20	Not Applicable	Not Applicable
+	"Wyoming County, WV"	"54109"	"2022 (provisional)"	"2022"	23	Not Applicable	Not Applicable
+	"Wyoming County, WV"	"54109"	"2023 (provisional and partial)"	"2023"	10	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Occurrence States: West Virginia (54)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: Occurrence County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 6:36:25 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 6:36:25"
+"AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Deaths occurring through October 07, 2023 as of October 15, 2023."

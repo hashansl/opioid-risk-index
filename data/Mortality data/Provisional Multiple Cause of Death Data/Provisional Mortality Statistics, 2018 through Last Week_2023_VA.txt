@@ -1,0 +1,834 @@
+"Notes"	"Occurrence County"	"Occurrence County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Accomack County, VA"	"51001"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Accomack County, VA"	"51001"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Accomack County, VA"	"51001"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Accomack County, VA"	"51001"	"2021"	"2021"	13	Not Applicable	Not Applicable
+	"Accomack County, VA"	"51001"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Accomack County, VA"	"51001"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Albemarle County, VA"	"51003"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Albemarle County, VA"	"51003"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Albemarle County, VA"	"51003"	"2020"	"2020"	12	Not Applicable	Not Applicable
+	"Albemarle County, VA"	"51003"	"2021"	"2021"	13	Not Applicable	Not Applicable
+	"Albemarle County, VA"	"51003"	"2022 (provisional)"	"2022"	22	Not Applicable	Not Applicable
+	"Albemarle County, VA"	"51003"	"2023 (provisional and partial)"	"2023"	10	Not Applicable	Not Applicable
+	"Alleghany County, VA"	"51005"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Alleghany County, VA"	"51005"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Alleghany County, VA"	"51005"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Alleghany County, VA"	"51005"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Alleghany County, VA"	"51005"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Alleghany County, VA"	"51005"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Amelia County, VA"	"51007"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Amelia County, VA"	"51007"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Amelia County, VA"	"51007"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Amelia County, VA"	"51007"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Amelia County, VA"	"51007"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Amelia County, VA"	"51007"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Amherst County, VA"	"51009"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Amherst County, VA"	"51009"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Amherst County, VA"	"51009"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Amherst County, VA"	"51009"	"2021"	"2021"	10	Not Applicable	Not Applicable
+	"Amherst County, VA"	"51009"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Amherst County, VA"	"51009"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Appomattox County, VA"	"51011"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Appomattox County, VA"	"51011"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Appomattox County, VA"	"51011"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Appomattox County, VA"	"51011"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Appomattox County, VA"	"51011"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Appomattox County, VA"	"51011"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Arlington County, VA"	"51013"	"2018"	"2018"	23	Not Applicable	Not Applicable
+	"Arlington County, VA"	"51013"	"2019"	"2019"	22	Not Applicable	Not Applicable
+	"Arlington County, VA"	"51013"	"2020"	"2020"	34	Not Applicable	Not Applicable
+	"Arlington County, VA"	"51013"	"2021"	"2021"	33	Not Applicable	Not Applicable
+	"Arlington County, VA"	"51013"	"2022 (provisional)"	"2022"	26	Not Applicable	Not Applicable
+	"Arlington County, VA"	"51013"	"2023 (provisional and partial)"	"2023"	10	Not Applicable	Not Applicable
+	"Augusta County, VA"	"51015"	"2018"	"2018"	10	Not Applicable	Not Applicable
+	"Augusta County, VA"	"51015"	"2019"	"2019"	12	Not Applicable	Not Applicable
+	"Augusta County, VA"	"51015"	"2020"	"2020"	10	Not Applicable	Not Applicable
+	"Augusta County, VA"	"51015"	"2021"	"2021"	12	Not Applicable	Not Applicable
+	"Augusta County, VA"	"51015"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Augusta County, VA"	"51015"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Bath County, VA"	"51017"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Bath County, VA"	"51017"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Bath County, VA"	"51017"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Bath County, VA"	"51017"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Bath County, VA"	"51017"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Bath County, VA"	"51017"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Bedford County, VA"	"51019"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Bedford County, VA"	"51019"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Bedford County, VA"	"51019"	"2020"	"2020"	17	Not Applicable	Not Applicable
+	"Bedford County, VA"	"51019"	"2021"	"2021"	19	Not Applicable	Not Applicable
+	"Bedford County, VA"	"51019"	"2022 (provisional)"	"2022"	23	Not Applicable	Not Applicable
+	"Bedford County, VA"	"51019"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Bland County, VA"	"51021"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Bland County, VA"	"51021"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Bland County, VA"	"51021"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Bland County, VA"	"51021"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Bland County, VA"	"51021"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Bland County, VA"	"51021"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Botetourt County, VA"	"51023"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Botetourt County, VA"	"51023"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Botetourt County, VA"	"51023"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Botetourt County, VA"	"51023"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Botetourt County, VA"	"51023"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Botetourt County, VA"	"51023"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Brunswick County, VA"	"51025"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Brunswick County, VA"	"51025"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Brunswick County, VA"	"51025"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Brunswick County, VA"	"51025"	"2021"	"2021"	11	Not Applicable	Not Applicable
+	"Brunswick County, VA"	"51025"	"2022 (provisional)"	"2022"	10	Not Applicable	Not Applicable
+	"Brunswick County, VA"	"51025"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Buchanan County, VA"	"51027"	"2018"	"2018"	10	Not Applicable	Not Applicable
+	"Buchanan County, VA"	"51027"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Buchanan County, VA"	"51027"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Buchanan County, VA"	"51027"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Buchanan County, VA"	"51027"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Buchanan County, VA"	"51027"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Buckingham County, VA"	"51029"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Buckingham County, VA"	"51029"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Buckingham County, VA"	"51029"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Buckingham County, VA"	"51029"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Buckingham County, VA"	"51029"	"2022 (provisional)"	"2022"	10	Not Applicable	Not Applicable
+	"Buckingham County, VA"	"51029"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Campbell County, VA"	"51031"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Campbell County, VA"	"51031"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Campbell County, VA"	"51031"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Campbell County, VA"	"51031"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Campbell County, VA"	"51031"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Campbell County, VA"	"51031"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Caroline County, VA"	"51033"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Caroline County, VA"	"51033"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Caroline County, VA"	"51033"	"2020"	"2020"	10	Not Applicable	Not Applicable
+	"Caroline County, VA"	"51033"	"2021"	"2021"	21	Not Applicable	Not Applicable
+	"Caroline County, VA"	"51033"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Caroline County, VA"	"51033"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Carroll County, VA"	"51035"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Carroll County, VA"	"51035"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Carroll County, VA"	"51035"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Carroll County, VA"	"51035"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Carroll County, VA"	"51035"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Carroll County, VA"	"51035"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Charles City County, VA"	"51036"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Charles City County, VA"	"51036"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Charles City County, VA"	"51036"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Charles City County, VA"	"51036"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Charles City County, VA"	"51036"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Charles City County, VA"	"51036"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Charlotte County, VA"	"51037"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Charlotte County, VA"	"51037"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Charlotte County, VA"	"51037"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Charlotte County, VA"	"51037"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Charlotte County, VA"	"51037"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Charlotte County, VA"	"51037"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"2018"	"2018"	73	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"2019"	"2019"	60	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"2020"	"2020"	86	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"2021"	"2021"	103	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"2022 (provisional)"	"2022"	64	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"2023 (provisional and partial)"	"2023"	28	Not Applicable	Not Applicable
+	"Clarke County, VA"	"51043"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Clarke County, VA"	"51043"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Clarke County, VA"	"51043"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Clarke County, VA"	"51043"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Clarke County, VA"	"51043"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Clarke County, VA"	"51043"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Craig County, VA"	"51045"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Craig County, VA"	"51045"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Craig County, VA"	"51045"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Craig County, VA"	"51045"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Craig County, VA"	"51045"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Craig County, VA"	"51045"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Culpeper County, VA"	"51047"	"2018"	"2018"	15	Not Applicable	Not Applicable
+	"Culpeper County, VA"	"51047"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Culpeper County, VA"	"51047"	"2020"	"2020"	11	Not Applicable	Not Applicable
+	"Culpeper County, VA"	"51047"	"2021"	"2021"	22	Not Applicable	Not Applicable
+	"Culpeper County, VA"	"51047"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Culpeper County, VA"	"51047"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Cumberland County, VA"	"51049"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Cumberland County, VA"	"51049"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Cumberland County, VA"	"51049"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Cumberland County, VA"	"51049"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Cumberland County, VA"	"51049"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Cumberland County, VA"	"51049"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Dickenson County, VA"	"51051"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Dickenson County, VA"	"51051"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Dickenson County, VA"	"51051"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Dickenson County, VA"	"51051"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Dickenson County, VA"	"51051"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Dickenson County, VA"	"51051"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Dinwiddie County, VA"	"51053"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Dinwiddie County, VA"	"51053"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Dinwiddie County, VA"	"51053"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Dinwiddie County, VA"	"51053"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Dinwiddie County, VA"	"51053"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Dinwiddie County, VA"	"51053"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Essex County, VA"	"51057"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Essex County, VA"	"51057"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Essex County, VA"	"51057"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Essex County, VA"	"51057"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Essex County, VA"	"51057"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Essex County, VA"	"51057"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"2018"	"2018"	100	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"2019"	"2019"	105	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"2020"	"2020"	112	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"2021"	"2021"	133	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"2022 (provisional)"	"2022"	114	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"2023 (provisional and partial)"	"2023"	49	Not Applicable	Not Applicable
+	"Fauquier County, VA"	"51061"	"2018"	"2018"	19	Not Applicable	Not Applicable
+	"Fauquier County, VA"	"51061"	"2019"	"2019"	14	Not Applicable	Not Applicable
+	"Fauquier County, VA"	"51061"	"2020"	"2020"	10	Not Applicable	Not Applicable
+	"Fauquier County, VA"	"51061"	"2021"	"2021"	16	Not Applicable	Not Applicable
+	"Fauquier County, VA"	"51061"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Fauquier County, VA"	"51061"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Floyd County, VA"	"51063"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Floyd County, VA"	"51063"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Floyd County, VA"	"51063"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Floyd County, VA"	"51063"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Floyd County, VA"	"51063"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Floyd County, VA"	"51063"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Fluvanna County, VA"	"51065"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Fluvanna County, VA"	"51065"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Fluvanna County, VA"	"51065"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Fluvanna County, VA"	"51065"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Fluvanna County, VA"	"51065"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Fluvanna County, VA"	"51065"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Franklin County, VA"	"51067"	"2018"	"2018"	14	Not Applicable	Not Applicable
+	"Franklin County, VA"	"51067"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Franklin County, VA"	"51067"	"2020"	"2020"	15	Not Applicable	Not Applicable
+	"Franklin County, VA"	"51067"	"2021"	"2021"	17	Not Applicable	Not Applicable
+	"Franklin County, VA"	"51067"	"2022 (provisional)"	"2022"	16	Not Applicable	Not Applicable
+	"Franklin County, VA"	"51067"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Frederick County, VA"	"51069"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Frederick County, VA"	"51069"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Frederick County, VA"	"51069"	"2020"	"2020"	16	Not Applicable	Not Applicable
+	"Frederick County, VA"	"51069"	"2021"	"2021"	15	Not Applicable	Not Applicable
+	"Frederick County, VA"	"51069"	"2022 (provisional)"	"2022"	11	Not Applicable	Not Applicable
+	"Frederick County, VA"	"51069"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Giles County, VA"	"51071"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Giles County, VA"	"51071"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Giles County, VA"	"51071"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Giles County, VA"	"51071"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Giles County, VA"	"51071"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Giles County, VA"	"51071"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Gloucester County, VA"	"51073"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Gloucester County, VA"	"51073"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Gloucester County, VA"	"51073"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Gloucester County, VA"	"51073"	"2021"	"2021"	12	Not Applicable	Not Applicable
+	"Gloucester County, VA"	"51073"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Gloucester County, VA"	"51073"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Goochland County, VA"	"51075"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Goochland County, VA"	"51075"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Goochland County, VA"	"51075"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Goochland County, VA"	"51075"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Goochland County, VA"	"51075"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Goochland County, VA"	"51075"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Grayson County, VA"	"51077"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Grayson County, VA"	"51077"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Grayson County, VA"	"51077"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Grayson County, VA"	"51077"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Grayson County, VA"	"51077"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Grayson County, VA"	"51077"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Greene County, VA"	"51079"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Greene County, VA"	"51079"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Greene County, VA"	"51079"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Greene County, VA"	"51079"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Greene County, VA"	"51079"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Greene County, VA"	"51079"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Greensville County, VA"	"51081"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Greensville County, VA"	"51081"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Greensville County, VA"	"51081"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Greensville County, VA"	"51081"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Greensville County, VA"	"51081"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Greensville County, VA"	"51081"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Halifax County, VA"	"51083"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Halifax County, VA"	"51083"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Halifax County, VA"	"51083"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Halifax County, VA"	"51083"	"2021"	"2021"	16	Not Applicable	Not Applicable
+	"Halifax County, VA"	"51083"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Halifax County, VA"	"51083"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Hanover County, VA"	"51085"	"2018"	"2018"	23	Not Applicable	Not Applicable
+	"Hanover County, VA"	"51085"	"2019"	"2019"	23	Not Applicable	Not Applicable
+	"Hanover County, VA"	"51085"	"2020"	"2020"	40	Not Applicable	Not Applicable
+	"Hanover County, VA"	"51085"	"2021"	"2021"	40	Not Applicable	Not Applicable
+	"Hanover County, VA"	"51085"	"2022 (provisional)"	"2022"	24	Not Applicable	Not Applicable
+	"Hanover County, VA"	"51085"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"2018"	"2018"	58	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"2019"	"2019"	72	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"2020"	"2020"	79	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"2021"	"2021"	132	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"2022 (provisional)"	"2022"	125	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"2023 (provisional and partial)"	"2023"	40	Not Applicable	Not Applicable
+	"Henry County, VA"	"51089"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Henry County, VA"	"51089"	"2019"	"2019"	14	Not Applicable	Not Applicable
+	"Henry County, VA"	"51089"	"2020"	"2020"	31	Not Applicable	Not Applicable
+	"Henry County, VA"	"51089"	"2021"	"2021"	37	Not Applicable	Not Applicable
+	"Henry County, VA"	"51089"	"2022 (provisional)"	"2022"	31	Not Applicable	Not Applicable
+	"Henry County, VA"	"51089"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Highland County, VA"	"51091"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Highland County, VA"	"51091"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Highland County, VA"	"51091"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Highland County, VA"	"51091"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Highland County, VA"	"51091"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Highland County, VA"	"51091"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Isle of Wight County, VA"	"51093"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Isle of Wight County, VA"	"51093"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Isle of Wight County, VA"	"51093"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Isle of Wight County, VA"	"51093"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Isle of Wight County, VA"	"51093"	"2022 (provisional)"	"2022"	10	Not Applicable	Not Applicable
+	"Isle of Wight County, VA"	"51093"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"James City County, VA"	"51095"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"James City County, VA"	"51095"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"James City County, VA"	"51095"	"2020"	"2020"	16	Not Applicable	Not Applicable
+	"James City County, VA"	"51095"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"James City County, VA"	"51095"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"James City County, VA"	"51095"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"King and Queen County, VA"	"51097"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"King and Queen County, VA"	"51097"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"King and Queen County, VA"	"51097"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"King and Queen County, VA"	"51097"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"King and Queen County, VA"	"51097"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"King and Queen County, VA"	"51097"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"King George County, VA"	"51099"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"King George County, VA"	"51099"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"King George County, VA"	"51099"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"King George County, VA"	"51099"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"King George County, VA"	"51099"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"King George County, VA"	"51099"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"King William County, VA"	"51101"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"King William County, VA"	"51101"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"King William County, VA"	"51101"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"King William County, VA"	"51101"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"King William County, VA"	"51101"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"King William County, VA"	"51101"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Lancaster County, VA"	"51103"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Lancaster County, VA"	"51103"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Lancaster County, VA"	"51103"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Lancaster County, VA"	"51103"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Lancaster County, VA"	"51103"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Lancaster County, VA"	"51103"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Lee County, VA"	"51105"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Lee County, VA"	"51105"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Lee County, VA"	"51105"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Lee County, VA"	"51105"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Lee County, VA"	"51105"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Lee County, VA"	"51105"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Loudoun County, VA"	"51107"	"2018"	"2018"	27	Not Applicable	Not Applicable
+	"Loudoun County, VA"	"51107"	"2019"	"2019"	25	Not Applicable	Not Applicable
+	"Loudoun County, VA"	"51107"	"2020"	"2020"	33	Not Applicable	Not Applicable
+	"Loudoun County, VA"	"51107"	"2021"	"2021"	33	Not Applicable	Not Applicable
+	"Loudoun County, VA"	"51107"	"2022 (provisional)"	"2022"	25	Not Applicable	Not Applicable
+	"Loudoun County, VA"	"51107"	"2023 (provisional and partial)"	"2023"	11	Not Applicable	Not Applicable
+	"Louisa County, VA"	"51109"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Louisa County, VA"	"51109"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Louisa County, VA"	"51109"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Louisa County, VA"	"51109"	"2021"	"2021"	14	Not Applicable	Not Applicable
+	"Louisa County, VA"	"51109"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Louisa County, VA"	"51109"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Lunenburg County, VA"	"51111"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Lunenburg County, VA"	"51111"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Lunenburg County, VA"	"51111"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Lunenburg County, VA"	"51111"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Lunenburg County, VA"	"51111"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Lunenburg County, VA"	"51111"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Madison County, VA"	"51113"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Madison County, VA"	"51113"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Madison County, VA"	"51113"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Madison County, VA"	"51113"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Madison County, VA"	"51113"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Madison County, VA"	"51113"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Mathews County, VA"	"51115"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Mathews County, VA"	"51115"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Mathews County, VA"	"51115"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Mathews County, VA"	"51115"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Mathews County, VA"	"51115"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Mathews County, VA"	"51115"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Mecklenburg County, VA"	"51117"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Mecklenburg County, VA"	"51117"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Mecklenburg County, VA"	"51117"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Mecklenburg County, VA"	"51117"	"2021"	"2021"	12	Not Applicable	Not Applicable
+	"Mecklenburg County, VA"	"51117"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Mecklenburg County, VA"	"51117"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Middlesex County, VA"	"51119"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Middlesex County, VA"	"51119"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Middlesex County, VA"	"51119"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Middlesex County, VA"	"51119"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Middlesex County, VA"	"51119"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Middlesex County, VA"	"51119"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Montgomery County, VA"	"51121"	"2018"	"2018"	10	Not Applicable	Not Applicable
+	"Montgomery County, VA"	"51121"	"2019"	"2019"	10	Not Applicable	Not Applicable
+	"Montgomery County, VA"	"51121"	"2020"	"2020"	14	Not Applicable	Not Applicable
+	"Montgomery County, VA"	"51121"	"2021"	"2021"	15	Not Applicable	Not Applicable
+	"Montgomery County, VA"	"51121"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Montgomery County, VA"	"51121"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Nelson County, VA"	"51125"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Nelson County, VA"	"51125"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Nelson County, VA"	"51125"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Nelson County, VA"	"51125"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Nelson County, VA"	"51125"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Nelson County, VA"	"51125"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"New Kent County, VA"	"51127"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"New Kent County, VA"	"51127"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"New Kent County, VA"	"51127"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"New Kent County, VA"	"51127"	"2021"	"2021"	10	Not Applicable	Not Applicable
+	"New Kent County, VA"	"51127"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"New Kent County, VA"	"51127"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Northampton County, VA"	"51131"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Northampton County, VA"	"51131"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Northampton County, VA"	"51131"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Northampton County, VA"	"51131"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Northampton County, VA"	"51131"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Northampton County, VA"	"51131"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Northumberland County, VA"	"51133"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Northumberland County, VA"	"51133"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Northumberland County, VA"	"51133"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Northumberland County, VA"	"51133"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Northumberland County, VA"	"51133"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Northumberland County, VA"	"51133"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Nottoway County, VA"	"51135"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Nottoway County, VA"	"51135"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Nottoway County, VA"	"51135"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Nottoway County, VA"	"51135"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Nottoway County, VA"	"51135"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Nottoway County, VA"	"51135"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Orange County, VA"	"51137"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Orange County, VA"	"51137"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Orange County, VA"	"51137"	"2020"	"2020"	10	Not Applicable	Not Applicable
+	"Orange County, VA"	"51137"	"2021"	"2021"	13	Not Applicable	Not Applicable
+	"Orange County, VA"	"51137"	"2022 (provisional)"	"2022"	13	Not Applicable	Not Applicable
+	"Orange County, VA"	"51137"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Page County, VA"	"51139"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Page County, VA"	"51139"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Page County, VA"	"51139"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Page County, VA"	"51139"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Page County, VA"	"51139"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Page County, VA"	"51139"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Patrick County, VA"	"51141"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Patrick County, VA"	"51141"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Patrick County, VA"	"51141"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Patrick County, VA"	"51141"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Patrick County, VA"	"51141"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Patrick County, VA"	"51141"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Pittsylvania County, VA"	"51143"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Pittsylvania County, VA"	"51143"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Pittsylvania County, VA"	"51143"	"2020"	"2020"	16	Not Applicable	Not Applicable
+	"Pittsylvania County, VA"	"51143"	"2021"	"2021"	11	Not Applicable	Not Applicable
+	"Pittsylvania County, VA"	"51143"	"2022 (provisional)"	"2022"	14	Not Applicable	Not Applicable
+	"Pittsylvania County, VA"	"51143"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Powhatan County, VA"	"51145"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Powhatan County, VA"	"51145"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Powhatan County, VA"	"51145"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Powhatan County, VA"	"51145"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Powhatan County, VA"	"51145"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Powhatan County, VA"	"51145"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Prince Edward County, VA"	"51147"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Prince Edward County, VA"	"51147"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Prince Edward County, VA"	"51147"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Prince Edward County, VA"	"51147"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Prince Edward County, VA"	"51147"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Prince Edward County, VA"	"51147"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Prince George County, VA"	"51149"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Prince George County, VA"	"51149"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Prince George County, VA"	"51149"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Prince George County, VA"	"51149"	"2021"	"2021"	14	Not Applicable	Not Applicable
+	"Prince George County, VA"	"51149"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Prince George County, VA"	"51149"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"2018"	"2018"	55	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"2019"	"2019"	60	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"2020"	"2020"	92	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"2021"	"2021"	88	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"2022 (provisional)"	"2022"	80	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"2023 (provisional and partial)"	"2023"	15	Not Applicable	Not Applicable
+	"Pulaski County, VA"	"51155"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Pulaski County, VA"	"51155"	"2019"	"2019"	13	Not Applicable	Not Applicable
+	"Pulaski County, VA"	"51155"	"2020"	"2020"	11	Not Applicable	Not Applicable
+	"Pulaski County, VA"	"51155"	"2021"	"2021"	17	Not Applicable	Not Applicable
+	"Pulaski County, VA"	"51155"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Pulaski County, VA"	"51155"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Rappahannock County, VA"	"51157"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Rappahannock County, VA"	"51157"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Rappahannock County, VA"	"51157"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Rappahannock County, VA"	"51157"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Rappahannock County, VA"	"51157"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Rappahannock County, VA"	"51157"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Richmond County, VA"	"51159"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Richmond County, VA"	"51159"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Richmond County, VA"	"51159"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Richmond County, VA"	"51159"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Richmond County, VA"	"51159"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Richmond County, VA"	"51159"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Roanoke County, VA"	"51161"	"2018"	"2018"	15	Not Applicable	Not Applicable
+	"Roanoke County, VA"	"51161"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Roanoke County, VA"	"51161"	"2020"	"2020"	16	Not Applicable	Not Applicable
+	"Roanoke County, VA"	"51161"	"2021"	"2021"	22	Not Applicable	Not Applicable
+	"Roanoke County, VA"	"51161"	"2022 (provisional)"	"2022"	16	Not Applicable	Not Applicable
+	"Roanoke County, VA"	"51161"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Rockbridge County, VA"	"51163"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Rockbridge County, VA"	"51163"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Rockbridge County, VA"	"51163"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Rockbridge County, VA"	"51163"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Rockbridge County, VA"	"51163"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Rockbridge County, VA"	"51163"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Rockingham County, VA"	"51165"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Rockingham County, VA"	"51165"	"2019"	"2019"	11	Not Applicable	Not Applicable
+	"Rockingham County, VA"	"51165"	"2020"	"2020"	10	Not Applicable	Not Applicable
+	"Rockingham County, VA"	"51165"	"2021"	"2021"	10	Not Applicable	Not Applicable
+	"Rockingham County, VA"	"51165"	"2022 (provisional)"	"2022"	10	Not Applicable	Not Applicable
+	"Rockingham County, VA"	"51165"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Russell County, VA"	"51167"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Russell County, VA"	"51167"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Russell County, VA"	"51167"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Russell County, VA"	"51167"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Russell County, VA"	"51167"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Russell County, VA"	"51167"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Scott County, VA"	"51169"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Scott County, VA"	"51169"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Scott County, VA"	"51169"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Scott County, VA"	"51169"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Scott County, VA"	"51169"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Scott County, VA"	"51169"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Shenandoah County, VA"	"51171"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Shenandoah County, VA"	"51171"	"2019"	"2019"	12	Not Applicable	Not Applicable
+	"Shenandoah County, VA"	"51171"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Shenandoah County, VA"	"51171"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Shenandoah County, VA"	"51171"	"2022 (provisional)"	"2022"	10	Not Applicable	Not Applicable
+	"Shenandoah County, VA"	"51171"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Smyth County, VA"	"51173"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Smyth County, VA"	"51173"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Smyth County, VA"	"51173"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Smyth County, VA"	"51173"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Smyth County, VA"	"51173"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Smyth County, VA"	"51173"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Southampton County, VA"	"51175"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Southampton County, VA"	"51175"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Southampton County, VA"	"51175"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Southampton County, VA"	"51175"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Southampton County, VA"	"51175"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Southampton County, VA"	"51175"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Spotsylvania County, VA"	"51177"	"2018"	"2018"	34	Not Applicable	Not Applicable
+	"Spotsylvania County, VA"	"51177"	"2019"	"2019"	38	Not Applicable	Not Applicable
+	"Spotsylvania County, VA"	"51177"	"2020"	"2020"	51	Not Applicable	Not Applicable
+	"Spotsylvania County, VA"	"51177"	"2021"	"2021"	48	Not Applicable	Not Applicable
+	"Spotsylvania County, VA"	"51177"	"2022 (provisional)"	"2022"	57	Not Applicable	Not Applicable
+	"Spotsylvania County, VA"	"51177"	"2023 (provisional and partial)"	"2023"	12	Not Applicable	Not Applicable
+	"Stafford County, VA"	"51179"	"2018"	"2018"	22	Not Applicable	Not Applicable
+	"Stafford County, VA"	"51179"	"2019"	"2019"	26	Not Applicable	Not Applicable
+	"Stafford County, VA"	"51179"	"2020"	"2020"	31	Not Applicable	Not Applicable
+	"Stafford County, VA"	"51179"	"2021"	"2021"	31	Not Applicable	Not Applicable
+	"Stafford County, VA"	"51179"	"2022 (provisional)"	"2022"	30	Not Applicable	Not Applicable
+	"Stafford County, VA"	"51179"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Surry County, VA"	"51181"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Surry County, VA"	"51181"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Surry County, VA"	"51181"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Surry County, VA"	"51181"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Surry County, VA"	"51181"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Surry County, VA"	"51181"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Sussex County, VA"	"51183"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Sussex County, VA"	"51183"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Sussex County, VA"	"51183"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Sussex County, VA"	"51183"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Sussex County, VA"	"51183"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Sussex County, VA"	"51183"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Tazewell County, VA"	"51185"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Tazewell County, VA"	"51185"	"2019"	"2019"	14	Not Applicable	Not Applicable
+	"Tazewell County, VA"	"51185"	"2020"	"2020"	23	Not Applicable	Not Applicable
+	"Tazewell County, VA"	"51185"	"2021"	"2021"	27	Not Applicable	Not Applicable
+	"Tazewell County, VA"	"51185"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Tazewell County, VA"	"51185"	"2023 (provisional and partial)"	"2023"	12	Not Applicable	Not Applicable
+	"Warren County, VA"	"51187"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Warren County, VA"	"51187"	"2019"	"2019"	13	Not Applicable	Not Applicable
+	"Warren County, VA"	"51187"	"2020"	"2020"	24	Not Applicable	Not Applicable
+	"Warren County, VA"	"51187"	"2021"	"2021"	18	Not Applicable	Not Applicable
+	"Warren County, VA"	"51187"	"2022 (provisional)"	"2022"	17	Not Applicable	Not Applicable
+	"Warren County, VA"	"51187"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Washington County, VA"	"51191"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Washington County, VA"	"51191"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Washington County, VA"	"51191"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Washington County, VA"	"51191"	"2021"	"2021"	16	Not Applicable	Not Applicable
+	"Washington County, VA"	"51191"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Washington County, VA"	"51191"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Westmoreland County, VA"	"51193"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Westmoreland County, VA"	"51193"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Westmoreland County, VA"	"51193"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Westmoreland County, VA"	"51193"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Westmoreland County, VA"	"51193"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Westmoreland County, VA"	"51193"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Wise County, VA"	"51195"	"2018"	"2018"	11	Not Applicable	Not Applicable
+	"Wise County, VA"	"51195"	"2019"	"2019"	10	Not Applicable	Not Applicable
+	"Wise County, VA"	"51195"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Wise County, VA"	"51195"	"2021"	"2021"	19	Not Applicable	Not Applicable
+	"Wise County, VA"	"51195"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Wise County, VA"	"51195"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Wythe County, VA"	"51197"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Wythe County, VA"	"51197"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Wythe County, VA"	"51197"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Wythe County, VA"	"51197"	"2021"	"2021"	10	Not Applicable	Not Applicable
+	"Wythe County, VA"	"51197"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Wythe County, VA"	"51197"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"York County, VA"	"51199"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"York County, VA"	"51199"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"York County, VA"	"51199"	"2020"	"2020"	15	Not Applicable	Not Applicable
+	"York County, VA"	"51199"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"York County, VA"	"51199"	"2022 (provisional)"	"2022"	11	Not Applicable	Not Applicable
+	"York County, VA"	"51199"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Alexandria city, VA"	"51510"	"2018"	"2018"	12	Not Applicable	Not Applicable
+	"Alexandria city, VA"	"51510"	"2019"	"2019"	24	Not Applicable	Not Applicable
+	"Alexandria city, VA"	"51510"	"2020"	"2020"	22	Not Applicable	Not Applicable
+	"Alexandria city, VA"	"51510"	"2021"	"2021"	25	Not Applicable	Not Applicable
+	"Alexandria city, VA"	"51510"	"2022 (provisional)"	"2022"	24	Not Applicable	Not Applicable
+	"Alexandria city, VA"	"51510"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Bristol city, VA"	"51520"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Bristol city, VA"	"51520"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Bristol city, VA"	"51520"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Bristol city, VA"	"51520"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Bristol city, VA"	"51520"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Bristol city, VA"	"51520"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Buena Vista city, VA"	"51530"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Buena Vista city, VA"	"51530"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Buena Vista city, VA"	"51530"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Buena Vista city, VA"	"51530"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Buena Vista city, VA"	"51530"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Buena Vista city, VA"	"51530"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Charlottesville city, VA"	"51540"	"2018"	"2018"	12	Not Applicable	Not Applicable
+	"Charlottesville city, VA"	"51540"	"2019"	"2019"	19	Not Applicable	Not Applicable
+	"Charlottesville city, VA"	"51540"	"2020"	"2020"	19	Not Applicable	Not Applicable
+	"Charlottesville city, VA"	"51540"	"2021"	"2021"	33	Not Applicable	Not Applicable
+	"Charlottesville city, VA"	"51540"	"2022 (provisional)"	"2022"	36	Not Applicable	Not Applicable
+	"Charlottesville city, VA"	"51540"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"2018"	"2018"	40	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"2019"	"2019"	37	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"2020"	"2020"	51	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"2021"	"2021"	53	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"2022 (provisional)"	"2022"	65	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"2023 (provisional and partial)"	"2023"	24	Not Applicable	Not Applicable
+	"Colonial Heights city, VA"	"51570"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Colonial Heights city, VA"	"51570"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Colonial Heights city, VA"	"51570"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Colonial Heights city, VA"	"51570"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Colonial Heights city, VA"	"51570"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Colonial Heights city, VA"	"51570"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Covington city, VA"	"51580"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Covington city, VA"	"51580"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Covington city, VA"	"51580"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Covington city, VA"	"51580"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Covington city, VA"	"51580"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Covington city, VA"	"51580"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Danville city, VA"	"51590"	"2018"	"2018"	11	Not Applicable	Not Applicable
+	"Danville city, VA"	"51590"	"2019"	"2019"	19	Not Applicable	Not Applicable
+	"Danville city, VA"	"51590"	"2020"	"2020"	17	Not Applicable	Not Applicable
+	"Danville city, VA"	"51590"	"2021"	"2021"	25	Not Applicable	Not Applicable
+	"Danville city, VA"	"51590"	"2022 (provisional)"	"2022"	20	Not Applicable	Not Applicable
+	"Danville city, VA"	"51590"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Emporia city, VA"	"51595"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Emporia city, VA"	"51595"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Emporia city, VA"	"51595"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Emporia city, VA"	"51595"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Emporia city, VA"	"51595"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Emporia city, VA"	"51595"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Fairfax city, VA"	"51600"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Fairfax city, VA"	"51600"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Fairfax city, VA"	"51600"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Fairfax city, VA"	"51600"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Fairfax city, VA"	"51600"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Fairfax city, VA"	"51600"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Falls Church city, VA"	"51610"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Falls Church city, VA"	"51610"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Falls Church city, VA"	"51610"	"2020"	"2020"	0	Not Applicable	Not Applicable
+	"Falls Church city, VA"	"51610"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Falls Church city, VA"	"51610"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Falls Church city, VA"	"51610"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Franklin city, VA"	"51620"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Franklin city, VA"	"51620"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Franklin city, VA"	"51620"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Franklin city, VA"	"51620"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Franklin city, VA"	"51620"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Franklin city, VA"	"51620"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Fredericksburg city, VA"	"51630"	"2018"	"2018"	20	Not Applicable	Not Applicable
+	"Fredericksburg city, VA"	"51630"	"2019"	"2019"	17	Not Applicable	Not Applicable
+	"Fredericksburg city, VA"	"51630"	"2020"	"2020"	21	Not Applicable	Not Applicable
+	"Fredericksburg city, VA"	"51630"	"2021"	"2021"	28	Not Applicable	Not Applicable
+	"Fredericksburg city, VA"	"51630"	"2022 (provisional)"	"2022"	21	Not Applicable	Not Applicable
+	"Fredericksburg city, VA"	"51630"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Galax city, VA"	"51640"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Galax city, VA"	"51640"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Galax city, VA"	"51640"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Galax city, VA"	"51640"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Galax city, VA"	"51640"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Galax city, VA"	"51640"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Hampton city, VA"	"51650"	"2018"	"2018"	29	Not Applicable	Not Applicable
+	"Hampton city, VA"	"51650"	"2019"	"2019"	55	Not Applicable	Not Applicable
+	"Hampton city, VA"	"51650"	"2020"	"2020"	51	Not Applicable	Not Applicable
+	"Hampton city, VA"	"51650"	"2021"	"2021"	53	Not Applicable	Not Applicable
+	"Hampton city, VA"	"51650"	"2022 (provisional)"	"2022"	59	Not Applicable	Not Applicable
+	"Hampton city, VA"	"51650"	"2023 (provisional and partial)"	"2023"	10	Not Applicable	Not Applicable
+	"Harrisonburg city, VA"	"51660"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Harrisonburg city, VA"	"51660"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Harrisonburg city, VA"	"51660"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Harrisonburg city, VA"	"51660"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Harrisonburg city, VA"	"51660"	"2022 (provisional)"	"2022"	10	Not Applicable	Not Applicable
+	"Harrisonburg city, VA"	"51660"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Hopewell city, VA"	"51670"	"2018"	"2018"	13	Not Applicable	Not Applicable
+	"Hopewell city, VA"	"51670"	"2019"	"2019"	14	Not Applicable	Not Applicable
+	"Hopewell city, VA"	"51670"	"2020"	"2020"	16	Not Applicable	Not Applicable
+	"Hopewell city, VA"	"51670"	"2021"	"2021"	29	Not Applicable	Not Applicable
+	"Hopewell city, VA"	"51670"	"2022 (provisional)"	"2022"	25	Not Applicable	Not Applicable
+	"Hopewell city, VA"	"51670"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Lexington city, VA"	"51678"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Lexington city, VA"	"51678"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Lexington city, VA"	"51678"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Lexington city, VA"	"51678"	"2021"	"2021"	0	Not Applicable	Not Applicable
+	"Lexington city, VA"	"51678"	"2022 (provisional)"	"2022"	0	Not Applicable	Not Applicable
+	"Lexington city, VA"	"51678"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Lynchburg city, VA"	"51680"	"2018"	"2018"	18	Not Applicable	Not Applicable
+	"Lynchburg city, VA"	"51680"	"2019"	"2019"	22	Not Applicable	Not Applicable
+	"Lynchburg city, VA"	"51680"	"2020"	"2020"	34	Not Applicable	Not Applicable
+	"Lynchburg city, VA"	"51680"	"2021"	"2021"	40	Not Applicable	Not Applicable
+	"Lynchburg city, VA"	"51680"	"2022 (provisional)"	"2022"	40	Not Applicable	Not Applicable
+	"Lynchburg city, VA"	"51680"	"2023 (provisional and partial)"	"2023"	11	Not Applicable	Not Applicable
+	"Manassas city, VA"	"51683"	"2018"	"2018"	16	Not Applicable	Not Applicable
+	"Manassas city, VA"	"51683"	"2019"	"2019"	18	Not Applicable	Not Applicable
+	"Manassas city, VA"	"51683"	"2020"	"2020"	28	Not Applicable	Not Applicable
+	"Manassas city, VA"	"51683"	"2021"	"2021"	29	Not Applicable	Not Applicable
+	"Manassas city, VA"	"51683"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Manassas city, VA"	"51683"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Manassas Park city, VA"	"51685"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Manassas Park city, VA"	"51685"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Manassas Park city, VA"	"51685"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Manassas Park city, VA"	"51685"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Manassas Park city, VA"	"51685"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Manassas Park city, VA"	"51685"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Martinsville city, VA"	"51690"	"2018"	"2018"	12	Not Applicable	Not Applicable
+	"Martinsville city, VA"	"51690"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Martinsville city, VA"	"51690"	"2020"	"2020"	15	Not Applicable	Not Applicable
+	"Martinsville city, VA"	"51690"	"2021"	"2021"	17	Not Applicable	Not Applicable
+	"Martinsville city, VA"	"51690"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Martinsville city, VA"	"51690"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Newport News city, VA"	"51700"	"2018"	"2018"	51	Not Applicable	Not Applicable
+	"Newport News city, VA"	"51700"	"2019"	"2019"	43	Not Applicable	Not Applicable
+	"Newport News city, VA"	"51700"	"2020"	"2020"	80	Not Applicable	Not Applicable
+	"Newport News city, VA"	"51700"	"2021"	"2021"	79	Not Applicable	Not Applicable
+	"Newport News city, VA"	"51700"	"2022 (provisional)"	"2022"	81	Not Applicable	Not Applicable
+	"Newport News city, VA"	"51700"	"2023 (provisional and partial)"	"2023"	22	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"2018"	"2018"	70	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"2019"	"2019"	67	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"2020"	"2020"	116	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"2021"	"2021"	148	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"2022 (provisional)"	"2022"	144	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"2023 (provisional and partial)"	"2023"	41	Not Applicable	Not Applicable
+	"Norton city, VA"	"51720"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Norton city, VA"	"51720"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Norton city, VA"	"51720"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Norton city, VA"	"51720"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Norton city, VA"	"51720"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Norton city, VA"	"51720"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Petersburg city, VA"	"51730"	"2018"	"2018"	26	Not Applicable	Not Applicable
+	"Petersburg city, VA"	"51730"	"2019"	"2019"	23	Not Applicable	Not Applicable
+	"Petersburg city, VA"	"51730"	"2020"	"2020"	39	Not Applicable	Not Applicable
+	"Petersburg city, VA"	"51730"	"2021"	"2021"	49	Not Applicable	Not Applicable
+	"Petersburg city, VA"	"51730"	"2022 (provisional)"	"2022"	47	Not Applicable	Not Applicable
+	"Petersburg city, VA"	"51730"	"2023 (provisional and partial)"	"2023"	14	Not Applicable	Not Applicable
+	"Poquoson city, VA"	"51735"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Poquoson city, VA"	"51735"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Poquoson city, VA"	"51735"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Poquoson city, VA"	"51735"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Poquoson city, VA"	"51735"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Poquoson city, VA"	"51735"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Portsmouth city, VA"	"51740"	"2018"	"2018"	33	Not Applicable	Not Applicable
+	"Portsmouth city, VA"	"51740"	"2019"	"2019"	44	Not Applicable	Not Applicable
+	"Portsmouth city, VA"	"51740"	"2020"	"2020"	58	Not Applicable	Not Applicable
+	"Portsmouth city, VA"	"51740"	"2021"	"2021"	96	Not Applicable	Not Applicable
+	"Portsmouth city, VA"	"51740"	"2022 (provisional)"	"2022"	105	Not Applicable	Not Applicable
+	"Portsmouth city, VA"	"51740"	"2023 (provisional and partial)"	"2023"	25	Not Applicable	Not Applicable
+	"Radford city, VA"	"51750"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Radford city, VA"	"51750"	"2019"	"2019"	0	Not Applicable	Not Applicable
+	"Radford city, VA"	"51750"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Radford city, VA"	"51750"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Radford city, VA"	"51750"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Radford city, VA"	"51750"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Richmond city, VA"	"51760"	"2018"	"2018"	131	Not Applicable	Not Applicable
+	"Richmond city, VA"	"51760"	"2019"	"2019"	152	Not Applicable	Not Applicable
+	"Richmond city, VA"	"51760"	"2020"	"2020"	234	Not Applicable	Not Applicable
+	"Richmond city, VA"	"51760"	"2021"	"2021"	292	Not Applicable	Not Applicable
+	"Richmond city, VA"	"51760"	"2022 (provisional)"	"2022"	330	Not Applicable	Not Applicable
+	"Richmond city, VA"	"51760"	"2023 (provisional and partial)"	"2023"	106	Not Applicable	Not Applicable
+	"Roanoke city, VA"	"51770"	"2018"	"2018"	86	Not Applicable	Not Applicable
+	"Roanoke city, VA"	"51770"	"2019"	"2019"	61	Not Applicable	Not Applicable
+	"Roanoke city, VA"	"51770"	"2020"	"2020"	117	Not Applicable	Not Applicable
+	"Roanoke city, VA"	"51770"	"2021"	"2021"	118	Not Applicable	Not Applicable
+	"Roanoke city, VA"	"51770"	"2022 (provisional)"	"2022"	142	Not Applicable	Not Applicable
+	"Roanoke city, VA"	"51770"	"2023 (provisional and partial)"	"2023"	38	Not Applicable	Not Applicable
+	"Salem city, VA"	"51775"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Salem city, VA"	"51775"	"2019"	"2019"	16	Not Applicable	Not Applicable
+	"Salem city, VA"	"51775"	"2020"	"2020"	20	Not Applicable	Not Applicable
+	"Salem city, VA"	"51775"	"2021"	"2021"	17	Not Applicable	Not Applicable
+	"Salem city, VA"	"51775"	"2022 (provisional)"	"2022"	23	Not Applicable	Not Applicable
+	"Salem city, VA"	"51775"	"2023 (provisional and partial)"	"2023"	10	Not Applicable	Not Applicable
+	"Staunton city, VA"	"51790"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Staunton city, VA"	"51790"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Staunton city, VA"	"51790"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Staunton city, VA"	"51790"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Staunton city, VA"	"51790"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Staunton city, VA"	"51790"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Suffolk city, VA"	"51800"	"2018"	"2018"	13	Not Applicable	Not Applicable
+	"Suffolk city, VA"	"51800"	"2019"	"2019"	14	Not Applicable	Not Applicable
+	"Suffolk city, VA"	"51800"	"2020"	"2020"	26	Not Applicable	Not Applicable
+	"Suffolk city, VA"	"51800"	"2021"	"2021"	27	Not Applicable	Not Applicable
+	"Suffolk city, VA"	"51800"	"2022 (provisional)"	"2022"	31	Not Applicable	Not Applicable
+	"Suffolk city, VA"	"51800"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"2018"	"2018"	57	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"2019"	"2019"	51	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"2020"	"2020"	111	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"2021"	"2021"	111	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"2022 (provisional)"	"2022"	120	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"2023 (provisional and partial)"	"2023"	35	Not Applicable	Not Applicable
+	"Waynesboro city, VA"	"51820"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Waynesboro city, VA"	"51820"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Waynesboro city, VA"	"51820"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Waynesboro city, VA"	"51820"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Waynesboro city, VA"	"51820"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Waynesboro city, VA"	"51820"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Williamsburg city, VA"	"51830"	"2018"	"2018"	0	Not Applicable	Not Applicable
+	"Williamsburg city, VA"	"51830"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Williamsburg city, VA"	"51830"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Williamsburg city, VA"	"51830"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Williamsburg city, VA"	"51830"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Williamsburg city, VA"	"51830"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Winchester city, VA"	"51840"	"2018"	"2018"	17	Not Applicable	Not Applicable
+	"Winchester city, VA"	"51840"	"2019"	"2019"	28	Not Applicable	Not Applicable
+	"Winchester city, VA"	"51840"	"2020"	"2020"	34	Not Applicable	Not Applicable
+	"Winchester city, VA"	"51840"	"2021"	"2021"	26	Not Applicable	Not Applicable
+	"Winchester city, VA"	"51840"	"2022 (provisional)"	"2022"	27	Not Applicable	Not Applicable
+	"Winchester city, VA"	"51840"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Occurrence States: Virginia (51)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: Occurrence County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 6:41:19 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 6:41:19"
+"AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Deaths occurring through October 07, 2023 as of October 15, 2023."

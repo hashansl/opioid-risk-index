@@ -1,0 +1,180 @@
+"Notes"	"Occurrence County"	"Occurrence County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Allegany County, MD"	"24001"	"2018"	"2018"	41	Not Applicable	Not Applicable
+	"Allegany County, MD"	"24001"	"2019"	"2019"	29	Not Applicable	Not Applicable
+	"Allegany County, MD"	"24001"	"2020"	"2020"	54	Not Applicable	Not Applicable
+	"Allegany County, MD"	"24001"	"2021"	"2021"	40	Not Applicable	Not Applicable
+	"Allegany County, MD"	"24001"	"2022 (provisional)"	"2022"	39	Not Applicable	Not Applicable
+	"Allegany County, MD"	"24001"	"2023 (provisional and partial)"	"2023"	19	Not Applicable	Not Applicable
+	"Anne Arundel County, MD"	"24003"	"2018"	"2018"	238	Not Applicable	Not Applicable
+	"Anne Arundel County, MD"	"24003"	"2019"	"2019"	207	Not Applicable	Not Applicable
+	"Anne Arundel County, MD"	"24003"	"2020"	"2020"	252	Not Applicable	Not Applicable
+	"Anne Arundel County, MD"	"24003"	"2021"	"2021"	233	Not Applicable	Not Applicable
+	"Anne Arundel County, MD"	"24003"	"2022 (provisional)"	"2022"	182	Not Applicable	Not Applicable
+	"Anne Arundel County, MD"	"24003"	"2023 (provisional and partial)"	"2023"	45	Not Applicable	Not Applicable
+	"Baltimore County, MD"	"24005"	"2018"	"2018"	345	Not Applicable	Not Applicable
+	"Baltimore County, MD"	"24005"	"2019"	"2019"	337	Not Applicable	Not Applicable
+	"Baltimore County, MD"	"24005"	"2020"	"2020"	364	Not Applicable	Not Applicable
+	"Baltimore County, MD"	"24005"	"2021"	"2021"	356	Not Applicable	Not Applicable
+	"Baltimore County, MD"	"24005"	"2022 (provisional)"	"2022"	310	Not Applicable	Not Applicable
+	"Baltimore County, MD"	"24005"	"2023 (provisional and partial)"	"2023"	87	Not Applicable	Not Applicable
+	"Calvert County, MD"	"24009"	"2018"	"2018"	29	Not Applicable	Not Applicable
+	"Calvert County, MD"	"24009"	"2019"	"2019"	27	Not Applicable	Not Applicable
+	"Calvert County, MD"	"24009"	"2020"	"2020"	23	Not Applicable	Not Applicable
+	"Calvert County, MD"	"24009"	"2021"	"2021"	24	Not Applicable	Not Applicable
+	"Calvert County, MD"	"24009"	"2022 (provisional)"	"2022"	20	Not Applicable	Not Applicable
+	"Calvert County, MD"	"24009"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Caroline County, MD"	"24011"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Caroline County, MD"	"24011"	"2019"	"2019"	13	Not Applicable	Not Applicable
+	"Caroline County, MD"	"24011"	"2020"	"2020"	14	Not Applicable	Not Applicable
+	"Caroline County, MD"	"24011"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Caroline County, MD"	"24011"	"2022 (provisional)"	"2022"	12	Not Applicable	Not Applicable
+	"Caroline County, MD"	"24011"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Carroll County, MD"	"24013"	"2018"	"2018"	77	Not Applicable	Not Applicable
+	"Carroll County, MD"	"24013"	"2019"	"2019"	60	Not Applicable	Not Applicable
+	"Carroll County, MD"	"24013"	"2020"	"2020"	50	Not Applicable	Not Applicable
+	"Carroll County, MD"	"24013"	"2021"	"2021"	63	Not Applicable	Not Applicable
+	"Carroll County, MD"	"24013"	"2022 (provisional)"	"2022"	56	Not Applicable	Not Applicable
+	"Carroll County, MD"	"24013"	"2023 (provisional and partial)"	"2023"	13	Not Applicable	Not Applicable
+	"Cecil County, MD"	"24015"	"2018"	"2018"	57	Not Applicable	Not Applicable
+	"Cecil County, MD"	"24015"	"2019"	"2019"	64	Not Applicable	Not Applicable
+	"Cecil County, MD"	"24015"	"2020"	"2020"	93	Not Applicable	Not Applicable
+	"Cecil County, MD"	"24015"	"2021"	"2021"	85	Not Applicable	Not Applicable
+	"Cecil County, MD"	"24015"	"2022 (provisional)"	"2022"	85	Not Applicable	Not Applicable
+	"Cecil County, MD"	"24015"	"2023 (provisional and partial)"	"2023"	17	Not Applicable	Not Applicable
+	"Charles County, MD"	"24017"	"2018"	"2018"	25	Not Applicable	Not Applicable
+	"Charles County, MD"	"24017"	"2019"	"2019"	30	Not Applicable	Not Applicable
+	"Charles County, MD"	"24017"	"2020"	"2020"	50	Not Applicable	Not Applicable
+	"Charles County, MD"	"24017"	"2021"	"2021"	31	Not Applicable	Not Applicable
+	"Charles County, MD"	"24017"	"2022 (provisional)"	"2022"	61	Not Applicable	Not Applicable
+	"Charles County, MD"	"24017"	"2023 (provisional and partial)"	"2023"	15	Not Applicable	Not Applicable
+	"Dorchester County, MD"	"24019"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Dorchester County, MD"	"24019"	"2019"	"2019"	13	Not Applicable	Not Applicable
+	"Dorchester County, MD"	"24019"	"2020"	"2020"	16	Not Applicable	Not Applicable
+	"Dorchester County, MD"	"24019"	"2021"	"2021"	20	Not Applicable	Not Applicable
+	"Dorchester County, MD"	"24019"	"2022 (provisional)"	"2022"	14	Not Applicable	Not Applicable
+	"Dorchester County, MD"	"24019"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Frederick County, MD"	"24021"	"2018"	"2018"	82	Not Applicable	Not Applicable
+	"Frederick County, MD"	"24021"	"2019"	"2019"	68	Not Applicable	Not Applicable
+	"Frederick County, MD"	"24021"	"2020"	"2020"	68	Not Applicable	Not Applicable
+	"Frederick County, MD"	"24021"	"2021"	"2021"	52	Not Applicable	Not Applicable
+	"Frederick County, MD"	"24021"	"2022 (provisional)"	"2022"	64	Not Applicable	Not Applicable
+	"Frederick County, MD"	"24021"	"2023 (provisional and partial)"	"2023"	13	Not Applicable	Not Applicable
+	"Garrett County, MD"	"24023"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Garrett County, MD"	"24023"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Garrett County, MD"	"24023"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Garrett County, MD"	"24023"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Garrett County, MD"	"24023"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Garrett County, MD"	"24023"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Harford County, MD"	"24025"	"2018"	"2018"	100	Not Applicable	Not Applicable
+	"Harford County, MD"	"24025"	"2019"	"2019"	85	Not Applicable	Not Applicable
+	"Harford County, MD"	"24025"	"2020"	"2020"	86	Not Applicable	Not Applicable
+	"Harford County, MD"	"24025"	"2021"	"2021"	96	Not Applicable	Not Applicable
+	"Harford County, MD"	"24025"	"2022 (provisional)"	"2022"	98	Not Applicable	Not Applicable
+	"Harford County, MD"	"24025"	"2023 (provisional and partial)"	"2023"	21	Not Applicable	Not Applicable
+	"Howard County, MD"	"24027"	"2018"	"2018"	46	Not Applicable	Not Applicable
+	"Howard County, MD"	"24027"	"2019"	"2019"	35	Not Applicable	Not Applicable
+	"Howard County, MD"	"24027"	"2020"	"2020"	54	Not Applicable	Not Applicable
+	"Howard County, MD"	"24027"	"2021"	"2021"	31	Not Applicable	Not Applicable
+	"Howard County, MD"	"24027"	"2022 (provisional)"	"2022"	50	Not Applicable	Not Applicable
+	"Howard County, MD"	"24027"	"2023 (provisional and partial)"	"2023"	12	Not Applicable	Not Applicable
+	"Kent County, MD"	"24029"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Kent County, MD"	"24029"	"2019"	"2019"	10	Not Applicable	Not Applicable
+	"Kent County, MD"	"24029"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Kent County, MD"	"24029"	"2021"	"2021"	Suppressed	Not Applicable	Not Applicable
+	"Kent County, MD"	"24029"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Kent County, MD"	"24029"	"2023 (provisional and partial)"	"2023"	0	Not Applicable	Not Applicable
+	"Montgomery County, MD"	"24031"	"2018"	"2018"	88	Not Applicable	Not Applicable
+	"Montgomery County, MD"	"24031"	"2019"	"2019"	117	Not Applicable	Not Applicable
+	"Montgomery County, MD"	"24031"	"2020"	"2020"	134	Not Applicable	Not Applicable
+	"Montgomery County, MD"	"24031"	"2021"	"2021"	150	Not Applicable	Not Applicable
+	"Montgomery County, MD"	"24031"	"2022 (provisional)"	"2022"	118	Not Applicable	Not Applicable
+	"Montgomery County, MD"	"24031"	"2023 (provisional and partial)"	"2023"	50	Not Applicable	Not Applicable
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	136	Not Applicable	Not Applicable
+	"Prince George's County, MD"	"24033"	"2019"	"2019"	143	Not Applicable	Not Applicable
+	"Prince George's County, MD"	"24033"	"2020"	"2020"	201	Not Applicable	Not Applicable
+	"Prince George's County, MD"	"24033"	"2021"	"2021"	200	Not Applicable	Not Applicable
+	"Prince George's County, MD"	"24033"	"2022 (provisional)"	"2022"	202	Not Applicable	Not Applicable
+	"Prince George's County, MD"	"24033"	"2023 (provisional and partial)"	"2023"	65	Not Applicable	Not Applicable
+	"Queen Anne's County, MD"	"24035"	"2018"	"2018"	14	Not Applicable	Not Applicable
+	"Queen Anne's County, MD"	"24035"	"2019"	"2019"	11	Not Applicable	Not Applicable
+	"Queen Anne's County, MD"	"24035"	"2020"	"2020"	Suppressed	Not Applicable	Not Applicable
+	"Queen Anne's County, MD"	"24035"	"2021"	"2021"	15	Not Applicable	Not Applicable
+	"Queen Anne's County, MD"	"24035"	"2022 (provisional)"	"2022"	Suppressed	Not Applicable	Not Applicable
+	"Queen Anne's County, MD"	"24035"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"St. Mary's County, MD"	"24037"	"2018"	"2018"	32	Not Applicable	Not Applicable
+	"St. Mary's County, MD"	"24037"	"2019"	"2019"	34	Not Applicable	Not Applicable
+	"St. Mary's County, MD"	"24037"	"2020"	"2020"	32	Not Applicable	Not Applicable
+	"St. Mary's County, MD"	"24037"	"2021"	"2021"	41	Not Applicable	Not Applicable
+	"St. Mary's County, MD"	"24037"	"2022 (provisional)"	"2022"	35	Not Applicable	Not Applicable
+	"St. Mary's County, MD"	"24037"	"2023 (provisional and partial)"	"2023"	12	Not Applicable	Not Applicable
+	"Somerset County, MD"	"24039"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Somerset County, MD"	"24039"	"2019"	"2019"	Suppressed	Not Applicable	Not Applicable
+	"Somerset County, MD"	"24039"	"2020"	"2020"	11	Not Applicable	Not Applicable
+	"Somerset County, MD"	"24039"	"2021"	"2021"	10	Not Applicable	Not Applicable
+	"Somerset County, MD"	"24039"	"2022 (provisional)"	"2022"	14	Not Applicable	Not Applicable
+	"Somerset County, MD"	"24039"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Talbot County, MD"	"24041"	"2018"	"2018"	15	Not Applicable	Not Applicable
+	"Talbot County, MD"	"24041"	"2019"	"2019"	13	Not Applicable	Not Applicable
+	"Talbot County, MD"	"24041"	"2020"	"2020"	17	Not Applicable	Not Applicable
+	"Talbot County, MD"	"24041"	"2021"	"2021"	16	Not Applicable	Not Applicable
+	"Talbot County, MD"	"24041"	"2022 (provisional)"	"2022"	15	Not Applicable	Not Applicable
+	"Talbot County, MD"	"24041"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Washington County, MD"	"24043"	"2018"	"2018"	92	Not Applicable	Not Applicable
+	"Washington County, MD"	"24043"	"2019"	"2019"	92	Not Applicable	Not Applicable
+	"Washington County, MD"	"24043"	"2020"	"2020"	109	Not Applicable	Not Applicable
+	"Washington County, MD"	"24043"	"2021"	"2021"	103	Not Applicable	Not Applicable
+	"Washington County, MD"	"24043"	"2022 (provisional)"	"2022"	108	Not Applicable	Not Applicable
+	"Washington County, MD"	"24043"	"2023 (provisional and partial)"	"2023"	26	Not Applicable	Not Applicable
+	"Wicomico County, MD"	"24045"	"2018"	"2018"	39	Not Applicable	Not Applicable
+	"Wicomico County, MD"	"24045"	"2019"	"2019"	39	Not Applicable	Not Applicable
+	"Wicomico County, MD"	"24045"	"2020"	"2020"	48	Not Applicable	Not Applicable
+	"Wicomico County, MD"	"24045"	"2021"	"2021"	47	Not Applicable	Not Applicable
+	"Wicomico County, MD"	"24045"	"2022 (provisional)"	"2022"	40	Not Applicable	Not Applicable
+	"Wicomico County, MD"	"24045"	"2023 (provisional and partial)"	"2023"	12	Not Applicable	Not Applicable
+	"Worcester County, MD"	"24047"	"2018"	"2018"	13	Not Applicable	Not Applicable
+	"Worcester County, MD"	"24047"	"2019"	"2019"	15	Not Applicable	Not Applicable
+	"Worcester County, MD"	"24047"	"2020"	"2020"	26	Not Applicable	Not Applicable
+	"Worcester County, MD"	"24047"	"2021"	"2021"	18	Not Applicable	Not Applicable
+	"Worcester County, MD"	"24047"	"2022 (provisional)"	"2022"	18	Not Applicable	Not Applicable
+	"Worcester County, MD"	"24047"	"2023 (provisional and partial)"	"2023"	Suppressed	Not Applicable	Not Applicable
+	"Baltimore city, MD"	"24510"	"2018"	"2018"	943	Not Applicable	Not Applicable
+	"Baltimore city, MD"	"24510"	"2019"	"2019"	952	Not Applicable	Not Applicable
+	"Baltimore city, MD"	"24510"	"2020"	"2020"	1074	Not Applicable	Not Applicable
+	"Baltimore city, MD"	"24510"	"2021"	"2021"	1126	Not Applicable	Not Applicable
+	"Baltimore city, MD"	"24510"	"2022 (provisional)"	"2022"	1016	Not Applicable	Not Applicable
+	"Baltimore city, MD"	"24510"	"2023 (provisional and partial)"	"2023"	321	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Occurrence States: Maryland (24)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: Occurrence County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 6:42:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 6:42:49"
+"AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Deaths occurring through October 07, 2023 as of October 15, 2023."
