@@ -1,0 +1,135 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Albany County, WY"	"56001"	"2018"	"2018"	Suppressed	38601	Suppressed
+	"Albany County, WY"	"56001"	"2019"	"2019"	Suppressed	38880	Suppressed
+	"Albany County, WY"	"56001"	"2020"	"2020"	Suppressed	38950	Suppressed
+	"Albany County, WY"	"56001"	"2021 "	"2021"	Suppressed	37608	Suppressed
+	"Big Horn County, WY"	"56003"	"2018"	"2018"	Suppressed	11881	Suppressed
+	"Big Horn County, WY"	"56003"	"2019"	"2019"	Suppressed	11790	Suppressed
+	"Big Horn County, WY"	"56003"	"2020"	"2020"	Suppressed	11575	Suppressed
+	"Big Horn County, WY"	"56003"	"2021 "	"2021"	Suppressed	11632	Suppressed
+	"Campbell County, WY"	"56005"	"2018"	"2018"	Suppressed	46140	Suppressed
+	"Campbell County, WY"	"56005"	"2019"	"2019"	Suppressed	46341	Suppressed
+	"Campbell County, WY"	"56005"	"2020"	"2020"	Suppressed	46676	Suppressed
+	"Campbell County, WY"	"56005"	"2021 "	"2021"	Suppressed	46401	Suppressed
+	"Carbon County, WY"	"56007"	"2018"	"2018"	Suppressed	14971	Suppressed
+	"Carbon County, WY"	"56007"	"2019"	"2019"	Suppressed	14800	Suppressed
+	"Carbon County, WY"	"56007"	"2020"	"2020"	Suppressed	14711	Suppressed
+	"Carbon County, WY"	"56007"	"2021 "	"2021"	Suppressed	14649	Suppressed
+	"Converse County, WY"	"56009"	"2018"	"2018"	Suppressed	13640	Suppressed
+	"Converse County, WY"	"56009"	"2019"	"2019"	0	13822	Unreliable
+	"Converse County, WY"	"56009"	"2020"	"2020"	Suppressed	13804	Suppressed
+	"Converse County, WY"	"56009"	"2021 "	"2021"	Suppressed	13672	Suppressed
+	"Crook County, WY"	"56011"	"2018"	"2018"	0	7450	Unreliable
+	"Crook County, WY"	"56011"	"2019"	"2019"	0	7584	Unreliable
+	"Crook County, WY"	"56011"	"2020"	"2020"	0	7593	Unreliable
+	"Crook County, WY"	"56011"	"2021 "	"2021"	0	7315	Unreliable
+	"Fremont County, WY"	"56013"	"2018"	"2018"	Suppressed	39531	Suppressed
+	"Fremont County, WY"	"56013"	"2019"	"2019"	11	39261	Unreliable
+	"Fremont County, WY"	"56013"	"2020"	"2020"	10	39317	Unreliable
+	"Fremont County, WY"	"56013"	"2021 "	"2021"	25	39336	63.6
+	"Goshen County, WY"	"56015"	"2018"	"2018"	Suppressed	13376	Suppressed
+	"Goshen County, WY"	"56015"	"2019"	"2019"	Suppressed	13211	Suppressed
+	"Goshen County, WY"	"56015"	"2020"	"2020"	Suppressed	13235	Suppressed
+	"Goshen County, WY"	"56015"	"2021 "	"2021"	0	12537	Unreliable
+	"Hot Springs County, WY"	"56017"	"2018"	"2018"	0	4555	Unreliable
+	"Hot Springs County, WY"	"56017"	"2019"	"2019"	0	4413	Unreliable
+	"Hot Springs County, WY"	"56017"	"2020"	"2020"	Suppressed	4425	Suppressed
+	"Hot Springs County, WY"	"56017"	"2021 "	"2021"	Suppressed	4597	Suppressed
+	"Johnson County, WY"	"56019"	"2018"	"2018"	0	8460	Unreliable
+	"Johnson County, WY"	"56019"	"2019"	"2019"	Suppressed	8445	Suppressed
+	"Johnson County, WY"	"56019"	"2020"	"2020"	Suppressed	8588	Suppressed
+	"Johnson County, WY"	"56019"	"2021 "	"2021"	Suppressed	8623	Suppressed
+	"Laramie County, WY"	"56021"	"2018"	"2018"	Suppressed	98976	Suppressed
+	"Laramie County, WY"	"56021"	"2019"	"2019"	16	99500	Unreliable
+	"Laramie County, WY"	"56021"	"2020"	"2020"	17	100595	Unreliable
+	"Laramie County, WY"	"56021"	"2021 "	"2021"	31	100863	30.7
+	"Lincoln County, WY"	"56023"	"2018"	"2018"	0	19434	Unreliable
+	"Lincoln County, WY"	"56023"	"2019"	"2019"	Suppressed	19830	Suppressed
+	"Lincoln County, WY"	"56023"	"2020"	"2020"	Suppressed	20253	Suppressed
+	"Lincoln County, WY"	"56023"	"2021 "	"2021"	Suppressed	20153	Suppressed
+	"Natrona County, WY"	"56025"	"2018"	"2018"	13	79115	Unreliable
+	"Natrona County, WY"	"56025"	"2019"	"2019"	14	79858	Unreliable
+	"Natrona County, WY"	"56025"	"2020"	"2020"	16	80815	Unreliable
+	"Natrona County, WY"	"56025"	"2021 "	"2021"	15	79555	Unreliable
+	"Niobrara County, WY"	"56027"	"2018"	"2018"	0	2388	Unreliable
+	"Niobrara County, WY"	"56027"	"2019"	"2019"	0	2356	Unreliable
+	"Niobrara County, WY"	"56027"	"2020"	"2020"	Suppressed	2275	Suppressed
+	"Niobrara County, WY"	"56027"	"2021 "	"2021"	0	2438	Unreliable
+	"Park County, WY"	"56029"	"2018"	"2018"	Suppressed	29324	Suppressed
+	"Park County, WY"	"56029"	"2019"	"2019"	0	29194	Unreliable
+	"Park County, WY"	"56029"	"2020"	"2020"	Suppressed	29331	Suppressed
+	"Park County, WY"	"56029"	"2021 "	"2021"	Suppressed	30108	Suppressed
+	"Platte County, WY"	"56031"	"2018"	"2018"	Suppressed	8566	Suppressed
+	"Platte County, WY"	"56031"	"2019"	"2019"	Suppressed	8393	Suppressed
+	"Platte County, WY"	"56031"	"2020"	"2020"	0	8578	Unreliable
+	"Platte County, WY"	"56031"	"2021 "	"2021"	Suppressed	8699	Suppressed
+	"Sheridan County, WY"	"56033"	"2018"	"2018"	Suppressed	30233	Suppressed
+	"Sheridan County, WY"	"56033"	"2019"	"2019"	Suppressed	30485	Suppressed
+	"Sheridan County, WY"	"56033"	"2020"	"2020"	Suppressed	30863	Suppressed
+	"Sheridan County, WY"	"56033"	"2021 "	"2021"	Suppressed	31646	Suppressed
+	"Sublette County, WY"	"56035"	"2018"	"2018"	Suppressed	9813	Suppressed
+	"Sublette County, WY"	"56035"	"2019"	"2019"	Suppressed	9831	Suppressed
+	"Sublette County, WY"	"56035"	"2020"	"2020"	0	9856	Unreliable
+	"Sublette County, WY"	"56035"	"2021 "	"2021"	0	8697	Unreliable
+	"Sweetwater County, WY"	"56037"	"2018"	"2018"	Suppressed	43051	Suppressed
+	"Sweetwater County, WY"	"56037"	"2019"	"2019"	Suppressed	42343	Suppressed
+	"Sweetwater County, WY"	"56037"	"2020"	"2020"	15	42673	Unreliable
+	"Sweetwater County, WY"	"56037"	"2021 "	"2021"	Suppressed	41614	Suppressed
+	"Teton County, WY"	"56039"	"2018"	"2018"	Suppressed	23081	Suppressed
+	"Teton County, WY"	"56039"	"2019"	"2019"	Suppressed	23464	Suppressed
+	"Teton County, WY"	"56039"	"2020"	"2020"	Suppressed	23497	Suppressed
+	"Teton County, WY"	"56039"	"2021 "	"2021"	Suppressed	23575	Suppressed
+	"Uinta County, WY"	"56041"	"2018"	"2018"	Suppressed	20299	Suppressed
+	"Uinta County, WY"	"56041"	"2019"	"2019"	Suppressed	20226	Suppressed
+	"Uinta County, WY"	"56041"	"2020"	"2020"	Suppressed	20215	Suppressed
+	"Uinta County, WY"	"56041"	"2021 "	"2021"	Suppressed	20635	Suppressed
+	"Washakie County, WY"	"56043"	"2018"	"2018"	Suppressed	7885	Suppressed
+	"Washakie County, WY"	"56043"	"2019"	"2019"	Suppressed	7805	Suppressed
+	"Washakie County, WY"	"56043"	"2020"	"2020"	Suppressed	7760	Suppressed
+	"Washakie County, WY"	"56043"	"2021 "	"2021"	0	7705	Unreliable
+	"Weston County, WY"	"56045"	"2018"	"2018"	Suppressed	6967	Suppressed
+	"Weston County, WY"	"56045"	"2019"	"2019"	0	6927	Unreliable
+	"Weston County, WY"	"56045"	"2020"	"2020"	0	6743	Unreliable
+	"Weston County, WY"	"56045"	"2021 "	"2021"	Suppressed	6745	Suppressed
+"---"
+"Dataset: Multiple Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"States: Wyoming (56)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Nov 7, 2023 7:54:29 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2023. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Nov 7, 2023 7:54:29 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"3. The population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
