@@ -1,0 +1,93 @@
+State,County,County Code,Year,Year Code,Deaths,Population,Crude Rate
+WY,"Albany County, WY",56001,2018,2018,Suppressed,38601,Suppressed
+WY,"Albany County, WY",56001,2019,2019,Suppressed,38880,Suppressed
+WY,"Albany County, WY",56001,2020,2020,Suppressed,38950,Suppressed
+WY,"Albany County, WY",56001,2021,2021,Suppressed,37608,Suppressed
+WY,"Big Horn County, WY",56003,2018,2018,Suppressed,11881,Suppressed
+WY,"Big Horn County, WY",56003,2019,2019,Suppressed,11790,Suppressed
+WY,"Big Horn County, WY",56003,2020,2020,Suppressed,11575,Suppressed
+WY,"Big Horn County, WY",56003,2021,2021,Suppressed,11632,Suppressed
+WY,"Campbell County, WY",56005,2018,2018,Suppressed,46140,Suppressed
+WY,"Campbell County, WY",56005,2019,2019,Suppressed,46341,Suppressed
+WY,"Campbell County, WY",56005,2020,2020,Suppressed,46676,Suppressed
+WY,"Campbell County, WY",56005,2021,2021,Suppressed,46401,Suppressed
+WY,"Carbon County, WY",56007,2018,2018,Suppressed,14971,Suppressed
+WY,"Carbon County, WY",56007,2019,2019,Suppressed,14800,Suppressed
+WY,"Carbon County, WY",56007,2020,2020,Suppressed,14711,Suppressed
+WY,"Carbon County, WY",56007,2021,2021,Suppressed,14649,Suppressed
+WY,"Converse County, WY",56009,2018,2018,Suppressed,13640,Suppressed
+WY,"Converse County, WY",56009,2019,2019,0,13822,Unreliable
+WY,"Converse County, WY",56009,2020,2020,Suppressed,13804,Suppressed
+WY,"Converse County, WY",56009,2021,2021,Suppressed,13672,Suppressed
+WY,"Crook County, WY",56011,2018,2018,0,7450,Unreliable
+WY,"Crook County, WY",56011,2019,2019,0,7584,Unreliable
+WY,"Crook County, WY",56011,2020,2020,0,7593,Unreliable
+WY,"Crook County, WY",56011,2021,2021,0,7315,Unreliable
+WY,"Fremont County, WY",56013,2018,2018,Suppressed,39531,Suppressed
+WY,"Fremont County, WY",56013,2019,2019,11,39261,Unreliable
+WY,"Fremont County, WY",56013,2020,2020,10,39317,Unreliable
+WY,"Fremont County, WY",56013,2021,2021,25,39336,63.6
+WY,"Goshen County, WY",56015,2018,2018,Suppressed,13376,Suppressed
+WY,"Goshen County, WY",56015,2019,2019,Suppressed,13211,Suppressed
+WY,"Goshen County, WY",56015,2020,2020,Suppressed,13235,Suppressed
+WY,"Goshen County, WY",56015,2021,2021,0,12537,Unreliable
+WY,"Hot Springs County, WY",56017,2018,2018,0,4555,Unreliable
+WY,"Hot Springs County, WY",56017,2019,2019,0,4413,Unreliable
+WY,"Hot Springs County, WY",56017,2020,2020,Suppressed,4425,Suppressed
+WY,"Hot Springs County, WY",56017,2021,2021,Suppressed,4597,Suppressed
+WY,"Johnson County, WY",56019,2018,2018,0,8460,Unreliable
+WY,"Johnson County, WY",56019,2019,2019,Suppressed,8445,Suppressed
+WY,"Johnson County, WY",56019,2020,2020,Suppressed,8588,Suppressed
+WY,"Johnson County, WY",56019,2021,2021,Suppressed,8623,Suppressed
+WY,"Laramie County, WY",56021,2018,2018,Suppressed,98976,Suppressed
+WY,"Laramie County, WY",56021,2019,2019,16,99500,Unreliable
+WY,"Laramie County, WY",56021,2020,2020,17,100595,Unreliable
+WY,"Laramie County, WY",56021,2021,2021,31,100863,30.7
+WY,"Lincoln County, WY",56023,2018,2018,0,19434,Unreliable
+WY,"Lincoln County, WY",56023,2019,2019,Suppressed,19830,Suppressed
+WY,"Lincoln County, WY",56023,2020,2020,Suppressed,20253,Suppressed
+WY,"Lincoln County, WY",56023,2021,2021,Suppressed,20153,Suppressed
+WY,"Natrona County, WY",56025,2018,2018,13,79115,Unreliable
+WY,"Natrona County, WY",56025,2019,2019,14,79858,Unreliable
+WY,"Natrona County, WY",56025,2020,2020,16,80815,Unreliable
+WY,"Natrona County, WY",56025,2021,2021,15,79555,Unreliable
+WY,"Niobrara County, WY",56027,2018,2018,0,2388,Unreliable
+WY,"Niobrara County, WY",56027,2019,2019,0,2356,Unreliable
+WY,"Niobrara County, WY",56027,2020,2020,Suppressed,2275,Suppressed
+WY,"Niobrara County, WY",56027,2021,2021,0,2438,Unreliable
+WY,"Park County, WY",56029,2018,2018,Suppressed,29324,Suppressed
+WY,"Park County, WY",56029,2019,2019,0,29194,Unreliable
+WY,"Park County, WY",56029,2020,2020,Suppressed,29331,Suppressed
+WY,"Park County, WY",56029,2021,2021,Suppressed,30108,Suppressed
+WY,"Platte County, WY",56031,2018,2018,Suppressed,8566,Suppressed
+WY,"Platte County, WY",56031,2019,2019,Suppressed,8393,Suppressed
+WY,"Platte County, WY",56031,2020,2020,0,8578,Unreliable
+WY,"Platte County, WY",56031,2021,2021,Suppressed,8699,Suppressed
+WY,"Sheridan County, WY",56033,2018,2018,Suppressed,30233,Suppressed
+WY,"Sheridan County, WY",56033,2019,2019,Suppressed,30485,Suppressed
+WY,"Sheridan County, WY",56033,2020,2020,Suppressed,30863,Suppressed
+WY,"Sheridan County, WY",56033,2021,2021,Suppressed,31646,Suppressed
+WY,"Sublette County, WY",56035,2018,2018,Suppressed,9813,Suppressed
+WY,"Sublette County, WY",56035,2019,2019,Suppressed,9831,Suppressed
+WY,"Sublette County, WY",56035,2020,2020,0,9856,Unreliable
+WY,"Sublette County, WY",56035,2021,2021,0,8697,Unreliable
+WY,"Sweetwater County, WY",56037,2018,2018,Suppressed,43051,Suppressed
+WY,"Sweetwater County, WY",56037,2019,2019,Suppressed,42343,Suppressed
+WY,"Sweetwater County, WY",56037,2020,2020,15,42673,Unreliable
+WY,"Sweetwater County, WY",56037,2021,2021,Suppressed,41614,Suppressed
+WY,"Teton County, WY",56039,2018,2018,Suppressed,23081,Suppressed
+WY,"Teton County, WY",56039,2019,2019,Suppressed,23464,Suppressed
+WY,"Teton County, WY",56039,2020,2020,Suppressed,23497,Suppressed
+WY,"Teton County, WY",56039,2021,2021,Suppressed,23575,Suppressed
+WY,"Uinta County, WY",56041,2018,2018,Suppressed,20299,Suppressed
+WY,"Uinta County, WY",56041,2019,2019,Suppressed,20226,Suppressed
+WY,"Uinta County, WY",56041,2020,2020,Suppressed,20215,Suppressed
+WY,"Uinta County, WY",56041,2021,2021,Suppressed,20635,Suppressed
+WY,"Washakie County, WY",56043,2018,2018,Suppressed,7885,Suppressed
+WY,"Washakie County, WY",56043,2019,2019,Suppressed,7805,Suppressed
+WY,"Washakie County, WY",56043,2020,2020,Suppressed,7760,Suppressed
+WY,"Washakie County, WY",56043,2021,2021,0,7705,Unreliable
+WY,"Weston County, WY",56045,2018,2018,Suppressed,6967,Suppressed
+WY,"Weston County, WY",56045,2019,2019,0,6927,Unreliable
+WY,"Weston County, WY",56045,2020,2020,0,6743,Unreliable
+WY,"Weston County, WY",56045,2021,2021,Suppressed,6745,Suppressed
