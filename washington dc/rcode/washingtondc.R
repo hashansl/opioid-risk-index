@@ -7,5 +7,3 @@ dcRaw <- st_read("~/MacBook/git/opioid-risk-index/washington dc/data/processed d
 # Using names() function
 column_names <- names(dcRaw)
 print(column_names)
-
-print("yes")
