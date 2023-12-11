@@ -7,3 +7,6 @@ dcRaw <- st_read("~/MacBook/git/opioid-risk-index/washington dc/data/processed d
 # Using names() function
 column_names <- names(dcRaw)
 print(column_names)
+
+#trying the linear model first
+mod_lm1 = gam(od_deaths_ ~ Income + Edu + Health, data = dcRaw)
