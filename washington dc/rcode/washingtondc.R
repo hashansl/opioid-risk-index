@@ -4,6 +4,7 @@ library(PerformanceAnalytics)
 library(dplyr)
 library(ggplot2)
 library(GGally) 
+library(gratia) 
 
 # Importing the dataset
 dcRaw <- st_read("~/MacBook/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate/SVI2020_WashingtonDC_counties_with_death_rate.shp")
@@ -14,8 +15,8 @@ print(column_names)
 
 # Filtering the data set
 desired_columns <- c("EP_POV150","EP_UNEMP","EP_HBURD","EP_NOHSDP","EP_UNINSUR","EP_AGE65","EP_AGE17","EP_DISABL","EP_SNGPNT","EP_LIMENG","EP_MINRTY","EP_MUNIT","EP_MOBILE","EP_CROWD","EP_NOVEH","EP_GROUPQ","od_deaths_")
-filtered_data <- my_data %>%
-  select(one_of(desired_columns))
+filtered_data <- dcRaw %>%
+  select(one_of(desired_columns)) 
 
 filtered_data <- st_drop_geometry(filtered_data)
 
@@ -34,10 +35,12 @@ summary(mod_lm1)
 # Look for nonlinear effects for each feature
 mod_gam1 = gam(od_deaths_ ~s(EP_POV150)+s(EP_UNEMP)+s(EP_HBURD)+s(EP_NOHSDP)+s(EP_UNINSUR)+s(EP_AGE65)+s(EP_AGE17)+s(EP_DISABL)+s(EP_SNGPNT)+s(EP_LIMENG)+s(EP_MINRTY)+s(EP_MUNIT)+s(EP_MOBILE)+s(EP_CROWD)+s(EP_NOVEH)+s(EP_GROUPQ) , data = dcRaw)
 summary(mod_gam1)
+draw(mod_gam1, scales = "fixed")
+
 
 #plotting
-plot(ggeffects::ggpredict(mod_gam2), facets = TRUE)
-gratia::draw(mod_gam2)
+plot(ggeffects::ggpredict(mod_gam1), facets = TRUE)
+gratia::draw(mod_gam1)
 
 # Model comparison
 anova(mod_lm1, mod_gam2, test = "Chisq")
@@ -61,6 +64,8 @@ mod_gam2 = gam(od_deaths_ ~s(EP_POV150, bs = 'tp', k = 10)+
                  s(EP_GROUPQ, bs = 'tp', k = 10) , data = dcRaw)
 summary(mod_gam2)
 gam.check(mod_gam2)
+draw(mod_gam2, scales = "fixed")
+
 
 
 # GAM model 3
@@ -82,6 +87,8 @@ mod_gam3 = gam(od_deaths_ ~s(EP_POV150, bs = 'tp', k = 10)+
                  s(EP_GROUPQ, bs = 'tp', k = 10) , data = dcRaw, family=poisson)
 summary(mod_gam3)
 gam.check(mod_gam3)
+draw(mod_gam3, scales = "fixed")
+
 
 # GAM model 4
 mod_gam4 = gam(od_deaths_ ~s(EP_POV150, bs = 'tp', k = 10)+
@@ -102,6 +109,8 @@ mod_gam4 = gam(od_deaths_ ~s(EP_POV150, bs = 'tp', k = 10)+
                  s(EP_GROUPQ, bs = 'tp', k = 10) , data = dcRaw, family=nb, method = 'REML')
 summary(mod_gam4)
 gam.check(mod_gam4)
+draw(mod_gam4, scales = "fixed")
+
 
 
 # GAM model 5
@@ -125,6 +134,26 @@ summary(mod_gam5)
 gam.check(mod_gam5)
 draw(mod_gam5, scales = "fixed")
 
-#, bs = "cr"
-# bs = 'gp', k = 100, m = 2
+# GAM model 6
+mod_gam6 = gam(od_deaths_ ~s(EP_POV150, bs = 'cr', k = 10)+
+                 s(EP_UNEMP, bs = 'cr', k = 10)+
+                 s(EP_HBURD, bs = 'cr', k = 10)+
+                 s(EP_NOHSDP, bs = 'cr', k = 10)+
+                 s(EP_UNINSUR, bs = 'cr', k = 10)+
+                 s(EP_AGE65, bs = 'cr', k = 10)+
+                 s(EP_AGE17, bs = 'cr', k = 10)+
+                 s(EP_DISABL, bs = 'cr', k = 10)+
+                 s(EP_SNGPNT, bs = 'cr', k = 10)+
+                 s(EP_LIMENG, bs = 'cr', k = 10)+
+                 s(EP_MINRTY, bs = 'cr', k = 10)+
+                 s(EP_MUNIT, bs = 'cr', k = 10)+
+                 s(EP_MOBILE, bs = 'cr', k = 10)+
+                 s(EP_CROWD, bs = 'cr', k = 10)+
+                 s(EP_NOVEH, bs = 'cr', k = 10)+
+                 s(EP_GROUPQ, bs = 'cr', k = 10) , data = dcRaw, family=gaussian, method = 'REML')
+summary(mod_gam6)
+gam.check(mod_gam6)
+draw(mod_gam6, scales = "fixed")
+
+
 
