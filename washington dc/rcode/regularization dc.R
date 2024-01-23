@@ -7,12 +7,15 @@ library(GGally)
 library(gratia)
 library(caret)
 library(Metrics)
+library(glmnet)
 
 #https://www.geo.fu-berlin.de/en/v/soga-r/Advances-statistics/Multivariate-approaches/Multiple-linear-regression/Regularization-methods/Regularization-methods-in-R/index.html
 
 
+#/Users/h6x/ORNL/git/opioid-risk-index
+
 # Importing the dataset
-dcRaw <- st_read("~/MacBook/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate/SVI2020_WashingtonDC_counties_with_death_rate.shp")
+dcRaw <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate/SVI2020_WashingtonDC_counties_with_death_rate.shp")
 
 # Getting the column names
 column_names <- names(dcRaw)
@@ -21,6 +24,9 @@ print(column_names)
 # Filtering the data set
 desired_columns <- c("EP_POV150","EP_UNEMP","EP_HBURD","EP_NOHSDP","EP_UNINSUR","EP_AGE65","EP_AGE17","EP_DISABL","EP_SNGPNT","EP_LIMENG","EP_MINRTY","EP_MUNIT","EP_MOBILE","EP_CROWD","EP_NOVEH","EP_GROUPQ","od_deaths_")
 filtered_data <- dcRaw %>%
+  select(one_of(desired_columns))
+
+filtered_data2 <- dcRaw %>%
   select(one_of(desired_columns))
 
 filtered_data <- st_drop_geometry(filtered_data)
@@ -197,6 +203,29 @@ ggplot(data = df, aes(x = name, y = value, fill = variable)) +
 
 
 
+#plotting 
+dwd_data_plot <- filtered_data
+
+X <- as.matrix(
+  dwd_data_plot[, colnames(
+    dwd_data_plot)[!colnames(
+      dwd_data_plot) %in% c("od_deaths_",
+                            "data.subset")]])
+
+# extract response vector
+y <- dwd_data_plot$od_deaths_
+y
+
+# calculate RMSE vector based on L2-regularized regression model (ridge regression)
+preds <- predict(m_ridge_cv, X, s = "lambda.min")
+rmse_vector <- (preds[, ] - y)^2 / length(y)
+
+# add RMSE vector to data frame
+dwd_data_plot["RMSE_Ridge"] <- round(rmse_vector, 2)
 
 
 
+library(mapview)
+library(sp)
+
+coordinates(dwd_data_plot) <- ~ LON + LAT
