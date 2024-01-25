@@ -29,6 +29,9 @@ filtered_data <- dcRaw %>%
 filtered_data2 <- dcRaw %>%
   select(one_of(desired_columns))
 
+filtered_data3 <- dcRaw %>%
+  select(one_of(desired_columns))
+
 filtered_data <- st_drop_geometry(filtered_data)
 
 # Splitting the dataset into features (X) and target variable (y)
@@ -209,8 +212,7 @@ dwd_data_plot <- filtered_data
 X <- as.matrix(
   dwd_data_plot[, colnames(
     dwd_data_plot)[!colnames(
-      dwd_data_plot) %in% c("od_deaths_",
-                            "data.subset")]])
+      dwd_data_plot) %in% c("od_deaths_")]])
 
 # extract response vector
 y <- dwd_data_plot$od_deaths_
@@ -220,12 +222,61 @@ y
 preds <- predict(m_ridge_cv, X, s = "lambda.min")
 rmse_vector <- (preds[, ] - y)^2 / length(y)
 
-# add RMSE vector to data frame
-dwd_data_plot["RMSE_Ridge"] <- round(rmse_vector, 2)
+preds2 <- predict(m_lasso_cv, X, s = "lambda.min")
+rmse_vector2 <- (preds2[, ] - y)^2 / length(y)
 
-
+#filtered_data2["RMSE_Ridge"] <- round(rmse_vector, 2)
+filtered_data2["RMSE_Ridge"] <- rmse_vector
+filtered_data2["RMSE_Lasso"] <- rmse_vector2
 
 library(mapview)
 library(sp)
 
-coordinates(dwd_data_plot) <- ~ LON + LAT
+# Convert the "geometry" column to a sf object
+df_sf <- st_as_sf(filtered_data2, wkt = "geometry")
+
+# Extract the centroid coordinates
+centroids <- st_centroid(df_sf["geometry"])
+
+# Extract x and y coordinates
+filtered_data2$xcol <- st_coordinates(centroids)[, 1]  # Assuming x-coordinates are in the first column
+filtered_data2$ycol <- st_coordinates(centroids)[, 2]  # Assuming y-coordinates are in the second column
+
+filtered_data2 <- st_drop_geometry(filtered_data2)
+
+# Create an sf object
+sf_object <- st_as_sf(filtered_data2, coords = c("xcol", "ycol"))
+
+# plot data
+
+# Create the first map
+map1 <- mapView(filtered_data3)
+
+# Create the second map and overlay it on the first map
+map2 <- mapView(filtered_data2,
+                xcol = "xcol",
+                ycol = "ycol",
+                zcol = "RMSE_Ridge",
+                cex = "RMSE_Ridge",
+                legend = TRUE,
+                layer.name = "RMSE Ridge",
+                add = FALSE  # Set to FALSE to create a new map
+)
+
+# Create the second map and overlay it on the first map
+map3 <- mapView(filtered_data2,
+                xcol = "xcol",
+                ycol = "ycol",
+                zcol = "RMSE_Lasso",
+                cex = "RMSE_Lasso",
+                legend = TRUE,
+                layer.name = "RMSE Lasso",
+                add = FALSE  # Set to FALSE to create a new map
+)
+
+# Overlay the second map on the first map
+map1 + map2
+
+
+map1 + map3
+
