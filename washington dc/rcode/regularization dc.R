@@ -280,3 +280,15 @@ map1 + map2
 
 map1 + map3
 
+
+map4 <- mapView(filtered_data2
+)
+
+map3
+map1
+map2
+
+map5 <- mapView(filtered_data3,ledgend='False',col.regions = c("gray") )
+map5
+map5+map2
+map5+map3
