@@ -1,0 +1,24 @@
+---
+title: "Regularization comparison cdc and HepVu"
+author: "Hashan Fernando"
+date: "2024-01-31"
+output: 
+  html_document: 
+    theme: lumen
+---
+
+### Session Info:
+```{r}
+sessionInfo()
+```
+
+
+```{r cars}
+summary(cars)
+```
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
