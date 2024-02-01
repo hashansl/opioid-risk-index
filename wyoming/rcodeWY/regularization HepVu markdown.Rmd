@@ -1,5 +1,13 @@
-# HepVu overdose data
+---
+title: "Regularization - HepVu overdose data"
+author: "Hashan Fernando"
+date: "2024-01-31"
+output: 
+  html_document: 
+    theme: lumen
+---
 
+```{r, include=FALSE}
 library(sf)
 library(mgcv)
 library(PerformanceAnalytics)
@@ -10,29 +18,49 @@ library(gratia)
 library(caret)
 library(Metrics)
 library(glmnet)
+library(reshape2)
+```
 
-#https://www.geo.fu-berlin.de/en/v/soga-r/Advances-statistics/Multivariate-approaches/Multiple-linear-regression/Regularization-methods/Regularization-methods-in-R/index.html
-
-# washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate HepVu/SVI2020_WashingtonDC_counties_with_death_rate_HepVu.shp
-
+```{r}
 # Importing the dataset
-dcRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate HepVu/SVI2020_WashingtonDC_counties_with_death_rate_HepVu.shp")
+#/Users/h6x/ORNL/git/opioid-risk-index/wyoming/data/processed data/SVI2020 WY counties with death rate HepVu
+
+wyRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/wyoming/data/processed data/SVI2020 WY counties with death rate HepVu/SVI2020_WY_counties_with_death_rate_HepVu.shp")
+
 
 # Getting the column names
-column_names <- names(dcRawHepvu)
-print(column_names)
+column_names <- names(wyRawHepvu)
+#print(column_names)
+
+```
+
+```{r}
+# Divide the "NOD_Rate_2" column by 100
+wyRawHepvu$NOD_Rate_2 <- wyRawHepvu$NOD_Rate_2 / 100
+```
+
+```{r}
 
 # Filtering the data set
-desired_columns <- c("EP_POV150","EP_UNEMP","EP_HBURD","EP_NOHSDP","EP_UNINSUR","EP_AGE65","EP_AGE17","EP_DISABL","EP_SNGPNT","EP_LIMENG","EP_MINRTY","EP_MUNIT","EP_MOBILE","EP_CROWD","EP_NOVEH","EP_GROUPQ","OP_Rate_20","NOD_Rate_2")
-filtered_data <- dcRawHepvu %>%
+desired_columns <- c("EP_POV150","EP_UNEMP","EP_HBURD","EP_NOHSDP","EP_UNINSUR","EP_AGE65","EP_AGE17","EP_DISABL","EP_SNGPNT","EP_LIMENG","EP_MINRTY","EP_MUNIT","EP_MOBILE","EP_CROWD","EP_NOVEH","EP_GROUPQ","NOD_Rate_2")
+
+filtered_data <- wyRawHepvu %>%
+  select(one_of(desired_columns))
+
+filtered_data2 <- wyRawHepvu %>%
+  select(one_of(desired_columns))
+
+filtered_data3 <- wyRawHepvu %>%
   select(one_of(desired_columns))
 
 filtered_data <- st_drop_geometry(filtered_data)
+```
 
+```{r}
+filtered_data
+```
 
-filtered_data2 <- dcRawHepvu %>%
-  select(one_of(desired_columns))
-
+```{r}
 # Splitting the dataset into features (X) and target variable (y)
 X <- filtered_data[, !names(filtered_data) %in% "NOD_Rate_2"]  # Features
 y <- filtered_data$NOD_Rate_2  # Target variable
@@ -57,13 +85,25 @@ y_test <- y[-index]
 
 
 X_test_matrix <- as.matrix(X_test)
+```
 
+### Ridge Regression 
 
+```{r}
 ### RIDGE REGRESSION ###
-m_ridge <- glmnet(X_train, y_train, alpha = 0)
+m_ridge <- glmnet(X_train, y_train,family = "poisson", alpha = 0)
 
+```
+
+```{r}
 # plot model coefficients vs. shrinkage parameter lambda
 plot_ridge <- plot(m_ridge, xvar = "lambda", label = TRUE, xlab = expression(paste("Log(", lambda, ")")))
+
+```
+
+
+
+```{r}
 
 
 # /Users/h6x/ORNL/git/opioid-risk-index/washington dc/rcode/results/regularization dc HepVu
@@ -75,15 +115,19 @@ m_ridge_cv <- cv.glmnet(X_train_matrix,
                         y_train,
                         alpha = 0,
                         lambda = grid)
+```
 
+```{r}
 plot(m_ridge_cv)
 
 m_ridge_cv$lambda.min
 
 m_ridge_cv$lambda.1se
+```
 
+```{r}
 #my
-fitR <- glmnet(X_train, y_train, alpha = 0,lambda = m_ridge_cv$lambda.1se)
+fitR <- glmnet(X_train, y_train,family = "poisson", alpha = 0,lambda = m_ridge_cv$lambda.1se)
 fitR$beta[,1]
 
 # prediction for the training set
@@ -92,7 +136,7 @@ m_ridge_cv_pred_train <- predict(m_ridge_cv,
 
 # calculate RMSE on training set
 print(paste("RMSE on training set:", rmse(m_ridge_cv_pred_train,
-                                          y_train)
+                                           y_train)
 )
 )
 
@@ -102,7 +146,7 @@ m_ridge_cv_pred_test <- predict(m_ridge_cv,
 
 # calculate RMSE for the test data set
 print(paste("RMSE on test set:", rmse(m_ridge_cv_pred_test,
-                                      y_test)
+                                       y_test)
 )
 )
 
@@ -116,17 +160,20 @@ if (!exists("model_outcome")) {
 model_outcome[["m_ridge_cv"]] <- list("model" = m_ridge_cv,
                                       "rmse" =  data.frame("name" = "ridge regression",
                                                            "train_RMSE" = rmse(m_ridge_cv_pred_train,
-                                                                               y_train),
+                                                                                y_train),
                                                            "test_RMSE" = rmse(m_ridge_cv_pred_test,
-                                                                              y_test)
+                                                                               y_test)
                                       )
 )
 
 
-# LASSO regression in R
+```
 
+### Lasso Regression
+
+```{r}
 ### LASSO REGRESSION ###
-m_lasso <- glmnet(X_train, y_train, alpha = 1)
+m_lasso <- glmnet(X_train, y_train,family = "poisson", alpha = 1)
 
 # plot model coefficients vs. shrinkage parameter lambda
 plot(m_lasso, xvar = "lambda", label = TRUE, xlab = expression(paste("Log(", lambda, ")")))
@@ -139,8 +186,13 @@ m_lasso_cv$lambda.min
 
 m_lasso_cv$lambda.1se
 
+
+```
+
+
+```{r}
 #my
-fit <- glmnet(X_train, y_train, alpha = 1,lambda = m_lasso_cv$lambda.1se)
+fit <- glmnet(X_train, y_train,family = "poisson", alpha = 1,lambda = m_lasso_cv$lambda.1se)
 
 fit$beta[,1]
 
@@ -151,7 +203,7 @@ m_lasso_cv_pred_train <- predict(m_lasso_cv, X_train_matrix, s = "lambda.min")
 # calculate RMSE on training set
 print(paste("RMSE on training set:",
             rmse(m_lasso_cv_pred_train,
-                 y_train)
+                  y_train)
 )
 )
 
@@ -161,7 +213,7 @@ m_lasso_cv_pred_test <- predict(m_lasso_cv, X_test_matrix, s = "lambda.min")
 # calculate RMSE for the test data set
 print(paste("RMSE on test set:",
             rmse(m_lasso_cv_pred_test,
-                 y_test)
+                  y_test)
 )
 )
 
@@ -173,12 +225,9 @@ model_outcome[["m_lasso_cv"]] <- list("model" = m_lasso_cv,
                                                            "test_RMSE" = rmse(m_lasso_cv_pred_test, y_test)
                                       )
 )
+```
 
-
-
-
-
-
+```{r}
 #  Final view
 
 # extract matrix object
@@ -187,7 +236,6 @@ res_matrix <- do.call(rbind, model_outcome)
 # extract data frame object
 res_df <- do.call(rbind, res_matrix[, 2])
 
-library(reshape2)
 
 # melt to tidy data frame
 df <- melt(res_df,
@@ -208,13 +256,13 @@ ggplot(data = df, aes(x = name, y = value, fill = variable)) +
   )
 
 
+```
 
 
-
-
-
-
-
+### Session Info:
+```{r}
+sessionInfo()
+```
 
 
 
