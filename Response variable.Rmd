@@ -1,0 +1,113 @@
+---
+title: "Response variable"
+author: "Hashan Fernando"
+date: "2024-02-05"
+output: html_document
+---
+
+```{r, include=FALSE}
+library(sf)
+library(mgcv)
+library(PerformanceAnalytics)
+library(dplyr)
+library(ggplot2)
+library(GGally) 
+library(gratia)
+library(caret)
+library(Metrics)
+library(glmnet)
+library(reshape2)
+library(cowplot)
+
+```
+
+```{r}
+# Importing the datasets
+
+dc <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate and count cdc/SVI2020_WashingtonDC_counties_with_death_rate_HepVu_count_cdc.shp")
+
+tn <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/tennessee/data/processed data/SVI2020 TN counties with death rate HepVu/SVI2020_TN_counties_with_death_rate_HepVu.shp")
+
+wy <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/wyoming/data/processed data/SVI2020 WY counties with death rate HepVu/SVI2020_WY_counties_with_death_rate_HepVu.shp")
+```
+
+```{r}
+# creating new column to get the number od deaths from the rate
+dc <- mutate(dc, DeathCount = round((NOD_Rate_2*E_TOTPOP)/100000))
+tn <- mutate(tn, DeathCount = round((NOD_Rate_2*E_TOTPOP)/100000))
+wy <- mutate(wy, DeathCount = round((NOD_Rate_2*E_TOTPOP)/100000))
+```
+
+```{r}
+
+# Create a list of data frames
+data_frames <- list(dc = dc, tn = tn, wy = wy)
+
+# Create a function to generate the horizontal histogram for each data frame
+plot_horizontal_histogram <- function(data, title) {
+  ggplot(data, aes(x = DeathCount, fill = factor(1))) +
+    geom_histogram(alpha = 0.7,bins=25,color = "black", size = 0.1) +
+    labs(title = title, x = "Death Count", y = "Frequency") +
+    theme_minimal() +
+    theme(legend.position = "none",
+          plot.title = element_text(hjust = 0.5))
+}
+
+# Plot histograms for each dataset
+plots <- lapply(names(data_frames), function(name) {
+  plot_horizontal_histogram(data = data_frames[[name]], title = name)
+})
+
+# Combine the plots using cowplot package
+
+# Arrange the plots in a grid
+final_plot <- plot_grid(plotlist = plots, ncol = 3)
+
+# Display the final plot
+print(final_plot)
+
+```
+```{r}
+mean(dc$DeathCount)
+var(dc$DeathCount)
+```
+
+```{r}
+mean(wy$DeathCount)
+var(wy$DeathCount)
+
+```
+
+```{r}
+mean(tn$DeathCount)
+var(tn$DeathCount)
+```
+
+
+```{r}
+mean(dc$NOD_Rate_2)
+var(dc$NOD_Rate_2)
+```
+
+```{r}
+mean(wy$NOD_Rate_2)
+var(wy$NOD_Rate_2)
+
+```
+
+```{r}
+mean(tn$NOD_Rate_2)
+var(tn$NOD_Rate_2)
+```
+
+
+
+
+
+
+
+
+
+
+
+

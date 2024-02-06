@@ -1,0 +1,158 @@
+---
+title: "Lasso-Poisson TN"
+author: "Hashan Fernando"
+date: "2024-01-31"
+output: 
+  html_document: 
+    theme: lumen
+---
+
+```{r, include=FALSE}
+library(sf)
+library(mgcv)
+library(PerformanceAnalytics)
+library(dplyr)
+library(ggplot2)
+library(GGally) 
+library(gratia)
+library(caret)
+library(Metrics)
+library(glmnet)
+library(reshape2)
+```
+
+```{r}
+# Importing the dataset
+tnRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/tennessee/data/processed data/SVI2020 TN counties with death rate HepVu/SVI2020_TN_counties_with_death_rate_HepVu.shp")
+
+
+# Getting the column names
+column_names <- names(tnRawHepvu)
+#print(column_names)
+
+```
+
+```{r}
+print(column_names  )
+```
+
+```{r}
+# creating new column to get the number od deaths from the rate
+tnRawHepvu <- mutate(tnRawHepvu, DeathCount = round((NOD_Rate_2*E_TOTPOP)/100000))
+```
+
+
+#### Let's study the response variable
+
+```{r}
+hist(tnRawHepvu$DeathCount, main = "Histogram of DeathCount", xlab = "DeathCount", col = "skyblue", border = "black", breaks =30)
+
+```
+
+
+```{r}
+mean(tnRawHepvu$DeathCount)
+var(tnRawHepvu$DeathCount)
+
+```
+This high variance relative to the mean may indicate overdispersion, which means that the variability in the data is greater than what would be expected under a simple Poisson model. Overdispersion is common in count data, and it might lead to issues if you try to fit a Poisson regression model directly.
+
+
+```{r}
+
+# Filtering the data set
+desired_columns <- c("EP_POV150","EP_UNEMP","EP_HBURD","EP_NOHSDP","EP_UNINSUR","EP_AGE65","EP_AGE17","EP_DISABL","EP_SNGPNT","EP_LIMENG","EP_MINRTY","EP_MUNIT","EP_MOBILE","EP_CROWD","EP_NOVEH","EP_GROUPQ","DeathCount")
+
+filtered_data <- tnRawHepvu %>%
+  select(one_of(desired_columns))
+
+filtered_data <- st_drop_geometry(filtered_data)
+```
+
+```{r}
+filtered_data
+```
+
+```{r}
+# Splitting the dataset into features (X) and target variable (y)
+X <- filtered_data[, !names(filtered_data) %in% "DeathCount"]  # Features
+y <- filtered_data$DeathCount  # Target variable
+
+# Set seed for reproducibility
+set.seed(123)
+
+# Create an index for splitting the data
+index <- createDataPartition(filtered_data$DeathCount, p = 0.8, list = FALSE)
+
+
+# Create training sets for features and target
+X_train <- X[index, ]
+y_train <- y[index]
+
+X_train_matrix <- as.matrix(X_train)
+
+
+# Create test sets for features and target
+X_test <- X[-index, ]
+y_test <- y[-index]
+
+
+X_test_matrix <- as.matrix(X_test)
+```
+
+
+
+### Lasso Regression
+
+To determine what value to use for lambda, we’ll perform k-fold cross-validation and identify the lambda value that produces the lowest test mean squared error (MSE).  cv.glmnet() automatically performs k-fold cross validation using k = 10 folds.
+
+
+```{r}
+### LASSO REGRESSION ###
+
+m_lasso_cv <- cv.glmnet(X_train_matrix, y_train, alpha = 1,family = "poisson")
+
+plot(m_lasso_cv)
+
+m_lasso_cv$lambda.min
+
+m_lasso_cv$lambda.1se
+
+
+```
+
+```{r}
+#my
+fit <- glmnet(X_train, y_train, alpha = 1,lambda = m_lasso_cv$lambda.min, family = "poisson")
+
+fit$beta[,1]
+
+
+# prediction for the training set
+m_lasso_cv_pred_train <- predict(m_lasso_cv, X_train_matrix, s = "lambda.min")
+
+# calculate RMSE on training set
+print(paste("RMSE on training set:",
+            rmse(m_lasso_cv_pred_train,
+                  y_train)
+)
+)
+
+# prediction for the test set
+m_lasso_cv_pred_test <- predict(m_lasso_cv, X_test_matrix, s = "lambda.min")
+
+# calculate RMSE for the test data set
+print(paste("RMSE on test set:",
+            rmse(m_lasso_cv_pred_test,
+                  y_test)
+)
+)
+
+
+```
+
+### Session Info:
+
+```{r}
+sessionInfo()
+```

@@ -19,6 +19,8 @@ library(caret)
 library(Metrics)
 library(glmnet)
 library(reshape2)
+library(caret)
+
 ```
 
 ```{r}
@@ -51,7 +53,7 @@ data_comparison <- dcRawHepvu %>%
 #### Let's study the response variable
 
 ```{r}
-hist(dcRawHepvu$DeathCount, main = "Histogram of DeathCount", xlab = "DeathCount", col = "skyblue", border = "black",breaks=25)
+hist(dcRawHepvu$DeathCount, main = "Histogram of DeathCount", xlab = "DeathCount", col = "skyblue", border = "black",breaks=30)
 
 ```
 
@@ -78,14 +80,13 @@ filtered_data <- st_drop_geometry(filtered_data)
 ```{r}
 filtered_data
 ```
+```{r}
+y <- filtered_data$DeathCount
+x <- data.matrix(filtered_data[, !names(filtered_data) %in% "DeathCount"])
+```
 
 
 ```{r}
-# Splitting the dataset into features (X) and target variable (y)
-
-y <- filtered_data$DeathCount
-x <- data.matrix(filtered_data[, !names(filtered_data) %in% "DeathCount"])
-
 # Set a seed for reproducibility
 set.seed(123)
 
@@ -97,32 +98,19 @@ x_train <- x[splitIndex, ]
 y_train <- y[splitIndex]
 x_test <- x[-splitIndex, ]
 y_test <- y[-splitIndex]
-
 ```
-
-### Lasso Regression
-
-To determine what value to use for lambda, we’ll perform k-fold cross-validation and identify the lambda value that produces the lowest test mean squared error (MSE).  cv.glmnet() automatically performs k-fold cross validation using k = 10 folds.
 
 
 ```{r}
-### LASSO REGRESSION ###
-m_lasso <- glmnet(x_train, y_train, alpha = 1, family = "poisson")
+library(glmnet)
 
-# plot model coefficients vs. shrinkage parameter lambda
-plot(m_lasso, xvar = "lambda", label = TRUE, xlab = expression(paste("Log(", lambda, ")")))
-
-```
-```{r}
 #perform k-fold cross-validation to find optimal lambda value
-
-cv_model <- cv.glmnet(x_train, y_train, alpha = 1,family = "poisson")
+cv_model <- cv.glmnet(x_train, y_train, alpha = 1)
 
 #find optimal lambda value that minimizes test MSE
 best_lambda <- cv_model$lambda.min
 best_lambda
 ```
-
 ```{r}
 #produce plot of test MSE by lambda value
 plot(cv_model) 
@@ -130,10 +118,9 @@ plot(cv_model)
 
 ```{r}
 #find coefficients of best model
-best_model <- glmnet(x_train, y_train, alpha = 1, lambda = best_lambda,family = "poisson")
+best_model <- glmnet(x_train, y_train, alpha = 1, lambda = best_lambda)
 coef(best_model)
 ```
-
 ```{r}
 #use fitted best model to make predictions
 y_predicted <- predict(best_model, s = best_lambda, newx = x)
@@ -149,31 +136,6 @@ sse <- sum((y_predicted - y)^2)
 #find R-Squared
 rsq <- 1 - sse/sst
 rsq
-```
-
-
-```{r}
-
-# prediction for the training set
-m_lasso_cv_pred_train <- predict(best_model, x_train, s = "lambda.min")
-
-# calculate RMSE on training set
-print(paste("RMSE on training set:",
-            rmse(m_lasso_cv_pred_train,
-                  y_train)
-)
-)
-
-# prediction for the test set
-m_lasso_cv_pred_test <- predict(best_model, x_test, s = "lambda.min")
-
-# calculate RMSE for the test data set
-print(paste("RMSE on test set:",
-            rmse(m_lasso_cv_pred_test,
-                  y_test)
-)
-)
-
 ```
 
 

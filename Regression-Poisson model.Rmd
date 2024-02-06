@@ -1,0 +1,145 @@
+---
+title: "Regression-Poisson model"
+author: "Hashan Fernando"
+date: "2024-02-06"
+output: html_document
+---
+
+
+```{r, include=FALSE}
+library(sf)
+library(mgcv)
+library(PerformanceAnalytics)
+library(dplyr)
+library(ggplot2)
+library(GGally) 
+library(gratia)
+library(caret)
+library(Metrics)
+library(glmnet)
+library(reshape2)
+```
+
+```{r}
+# Importing the dataset
+dcRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate and count cdc/SVI2020_WashingtonDC_counties_with_death_rate_HepVu_count_cdc.shp")
+
+
+# Getting the column names
+column_names <- names(dcRawHepvu)
+#print(column_names)
+
+```
+
+```{r}
+print(column_names  )
+```
+
+```{r}
+# creating new column to get the number od deaths from the rate
+dcRawHepvu <- mutate(dcRawHepvu, DeathCount = round((NOD_Rate_2*E_TOTPOP)/100000))
+```
+
+```{r}
+# print few number of coumns from the datset
+data_comparison <- dcRawHepvu %>% 
+  select(one_of(c("COUNTY","Deaths","od_deaths_","NOD_Rate_2","DeathCount")))
+
+```
+
+#### Let's study the response variable
+
+```{r}
+mean(dcRawHepvu$DeathCount)
+var(dcRawHepvu$DeathCount)
+
+```
+
+
+
+```{r}
+
+# Filtering the data set
+desired_columns <- c("EP_POV150","EP_UNEMP","EP_HBURD","EP_NOHSDP","EP_UNINSUR","EP_AGE65","EP_AGE17","EP_DISABL","EP_SNGPNT","EP_LIMENG","EP_MINRTY","EP_MUNIT","EP_MOBILE","EP_CROWD","EP_NOVEH","EP_GROUPQ","DeathCount")
+
+filtered_data <- dcRawHepvu %>%
+  select(one_of(desired_columns))
+
+filtered_data <- st_drop_geometry(filtered_data)
+```
+
+```{r}
+filtered_data
+```
+
+
+```{r}
+# Splitting the dataset into features (X) and target variable (y)
+
+y <- filtered_data$DeathCount
+x <- data.matrix(filtered_data[, !names(filtered_data) %in% "DeathCount"])
+
+# Set a seed for reproducibility
+set.seed(123)
+
+# Create an index for splitting the data (70% train, 30% test)
+splitIndex <- createDataPartition(y, p = 0.7, list = FALSE)
+
+# Create training and testing sets
+x_train <- x[splitIndex, ]
+y_train <- y[splitIndex]
+x_test <- x[-splitIndex, ]
+y_test <- y[-splitIndex]
+
+```
+
+EP_POV150+EP_UNEMP+EP_HBURD+EP_NOHSDP+EP_UNINSUR+EP_AGE65+EP_AGE17+EP_DISABL+EP_SNGPNT+EP_LIMENG+EP_MINRTY+EP_MUNIT+EP_MOBILE+EP_CROWD+EP_NOVEH+EP_GROUPQ
+
+```{r}
+# Fit Poisson regression model
+model <- glm(DeathCount ~ EP_POV150+EP_UNEMP+EP_HBURD+EP_NOHSDP+EP_UNINSUR+EP_AGE65+EP_AGE17+EP_DISABL+EP_SNGPNT+EP_LIMENG+EP_MINRTY+EP_MUNIT+EP_MOBILE+EP_CROWD+EP_NOVEH+EP_GROUPQ , data = filtered_data, family = "poisson")
+
+# Summary of the model
+summary(model)
+```
+Residual devaiance > degree of freedom : signs of overdispersion
+We could try Quasi-Poison, Negative Binomial
+
+```{r}
+# Fit Poisson regression model
+model2 <- glm(DeathCount ~ EP_POV150+EP_UNEMP+EP_HBURD+EP_NOHSDP+EP_UNINSUR+EP_AGE65+EP_AGE17+EP_DISABL+EP_SNGPNT+EP_LIMENG+EP_MINRTY+EP_MUNIT+EP_MOBILE+EP_CROWD+EP_NOVEH+EP_GROUPQ , data = filtered_data, family = quasipoisson)
+
+# Summary of the model
+summary(model2)
+```
+
+
+```{r}
+# Include the jtools library
+library(jtools)
+
+```
+
+```{r}
+# Plot regression coefficients for poisson.model
+plot_summs(model, scale = TRUE, exp = TRUE)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

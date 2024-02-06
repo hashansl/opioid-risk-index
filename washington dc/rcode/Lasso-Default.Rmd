@@ -1,5 +1,5 @@
 ---
-title: "Lasso-Poisson Washington D.C"
+title: "Lasso-Default Washington D.C"
 author: "Hashan Fernando"
 date: "2024-01-31"
 output: 
@@ -51,7 +51,7 @@ data_comparison <- dcRawHepvu %>%
 #### Let's study the response variable
 
 ```{r}
-hist(dcRawHepvu$DeathCount, main = "Histogram of DeathCount", xlab = "DeathCount", col = "skyblue", border = "black",breaks=25)
+hist(dcRawHepvu$DeathCount, main = "Histogram of DeathCount", xlab = "DeathCount", col = "skyblue", border = "black",breaks=30)
 
 ```
 
@@ -107,7 +107,7 @@ To determine what value to use for lambda, we’ll perform k-fold cross-validati
 
 ```{r}
 ### LASSO REGRESSION ###
-m_lasso <- glmnet(x_train, y_train, alpha = 1, family = "poisson")
+m_lasso <- glmnet(x_train, y_train, alpha = 1)
 
 # plot model coefficients vs. shrinkage parameter lambda
 plot(m_lasso, xvar = "lambda", label = TRUE, xlab = expression(paste("Log(", lambda, ")")))
@@ -116,7 +116,7 @@ plot(m_lasso, xvar = "lambda", label = TRUE, xlab = expression(paste("Log(", lam
 ```{r}
 #perform k-fold cross-validation to find optimal lambda value
 
-cv_model <- cv.glmnet(x_train, y_train, alpha = 1,family = "poisson")
+cv_model <- cv.glmnet(x_train, y_train, alpha = 1)
 
 #find optimal lambda value that minimizes test MSE
 best_lambda <- cv_model$lambda.min
@@ -130,7 +130,7 @@ plot(cv_model)
 
 ```{r}
 #find coefficients of best model
-best_model <- glmnet(x_train, y_train, alpha = 1, lambda = best_lambda,family = "poisson")
+best_model <- glmnet(x_train, y_train, alpha = 1, lambda = best_lambda)
 coef(best_model)
 ```
 
