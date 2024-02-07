@@ -1,0 +1,172 @@
+---
+title: "Regression-NB model-Rate data"
+author: "Hashan Fernando"
+date: "2024-02-06"
+output: html_document
+---
+
+
+```{r, include=FALSE}
+library(sf)
+library(mgcv)
+library(PerformanceAnalytics)
+library(dplyr)
+library(ggplot2)
+library(GGally) 
+library(gratia)
+library(caret)
+library(Metrics)
+library(glmnet)
+library(reshape2)
+```
+
+```{r}
+# Importing the dataset
+dcRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate and count cdc/SVI2020_WashingtonDC_counties_with_death_rate_HepVu_count_cdc.shp")
+
+
+# Getting the column names
+column_names <- names(dcRawHepvu)
+#print(column_names)
+
+```
+
+```{r}
+print(column_names  )
+```
+
+```{r}
+# creating new column to get the number od deaths from the rate
+dcRawHepvu <- mutate(dcRawHepvu, DeathCount = round((NOD_Rate_2*E_TOTPOP)/100000))
+```
+
+```{r}
+# print few number of coumns from the datset
+data_comparison <- dcRawHepvu %>% 
+   dplyr::select(one_of(c("COUNTY","Deaths","od_deaths_","NOD_Rate_2","DeathCount")))
+
+```
+
+#### Let's study the response variable
+
+```{r}
+mean(dcRawHepvu$DeathCount)
+var(dcRawHepvu$DeathCount)
+
+```
+
+
+
+```{r}
+
+# Filtering the data set
+desired_columns <- c("EP_POV150","EP_UNEMP","EP_HBURD","EP_NOHSDP","EP_UNINSUR","EP_AGE65","EP_AGE17","EP_DISABL","EP_SNGPNT","EP_LIMENG","EP_MINRTY","EP_MUNIT","EP_MOBILE","EP_CROWD","EP_NOVEH","EP_GROUPQ","E_TOTPOP","NOD_Rate_2")
+
+filtered_data <- dcRawHepvu %>%
+   dplyr::select(one_of(desired_columns))
+
+filtered_data <- st_drop_geometry(filtered_data)
+```
+
+```{r}
+filtered_data
+```
+
+
+```{r}
+# Splitting the dataset into features (X) and target variable (y)
+
+y <- filtered_data$NOD_Rate_2
+x <- data.matrix(filtered_data[, !names(filtered_data) %in% "NOD_Rate_2"])
+
+# Set a seed for reproducibility
+set.seed(123)
+
+# Create an index for splitting the data (70% train, 30% test)
+splitIndex <- createDataPartition(y, p = 0.7, list = FALSE)
+
+# Create training and testing sets
+x_train <- x[splitIndex, ]
+y_train <- y[splitIndex]
+x_test <- x[-splitIndex, ]
+y_test <- y[-splitIndex]
+
+```
+
+
+
+EP_POV150+EP_UNEMP+EP_HBURD+EP_NOHSDP+EP_UNINSUR+EP_AGE65+EP_AGE17+EP_DISABL+EP_SNGPNT+EP_LIMENG+EP_MINRTY+EP_MUNIT+EP_MOBILE+EP_CROWD+EP_NOVEH+EP_GROUPQ
+
+
+```{r}
+### Run the models
+linear <- glm(NOD_Rate_2 ~ EP_POV150+EP_UNEMP+EP_HBURD+EP_NOHSDP+EP_UNINSUR+EP_AGE65+EP_AGE17+EP_DISABL+EP_SNGPNT+EP_LIMENG+EP_MINRTY+EP_MUNIT+EP_MOBILE+EP_CROWD+EP_NOVEH+EP_GROUPQ, data = filtered_data,,weights = E_TOTPOP) #identity link, OLS
+
+pois <- glm(NOD_Rate_2 ~ EP_POV150+EP_UNEMP+EP_HBURD+EP_NOHSDP+EP_UNINSUR+EP_AGE65+EP_AGE17+EP_DISABL+EP_SNGPNT+EP_LIMENG+EP_MINRTY+EP_MUNIT+EP_MOBILE+EP_CROWD+EP_NOVEH+EP_GROUPQ, "poisson", data = filtered_data,weights = E_TOTPOP) #Poisson
+```
+```{r}
+library(MASS)
+```
+
+```{r}
+
+negb <- glm.nb(NOD_Rate_2 ~ EP_POV150+EP_UNEMP+EP_HBURD+EP_NOHSDP+EP_UNINSUR+EP_AGE65+EP_AGE17+EP_DISABL+EP_SNGPNT+EP_LIMENG+EP_MINRTY+EP_MUNIT+EP_MOBILE+EP_CROWD+EP_NOVEH+EP_GROUPQ,, data = filtered_data) #negative binomial
+```
+```{r}
+tmp <- data.frame(OLS = AIC(linear), pois = AIC(pois), 
+                  negb = AIC(negb))
+```
+
+```{r}
+tmp
+```
+```{r}
+library(pscl)
+```
+
+```{r}
+po.p <- predprob(pois) %>% colMeans
+po.nb <- predprob(negb) %>% colMeans
+
+df <- data.frame(x = 0:max(filtered_data$NOD_Rate_2), Poisson = po.p, 
+                 NegBin = po.nb)
+
+obs <- table(filtered_data$NOD_Rate_2) %>% prop.table() %>% data.frame #Observed
+names(obs) <- c("x", 'Observed')
+
+p1 <- predict(linear) %>% round() %>% table %>% prop.table %>% data.frame #for OLS
+names(p1) <- c('x', 'OLS')
+
+tmp <- merge(p1, obs, by = 'x', all = T)
+tmp$x <- as.numeric(as.character(tmp$x))
+
+comb <- merge(tmp, df, by = 'x', all = T)
+comb[is.na(comb)] <- 0
+
+#comb2 <- comb[1:11, ] #just for the first 11 results, including zero
+comb2 <- comb
+
+mm <- melt(comb2, id.vars = 'x', value.name = 'prob', variable.name = 'Model')
+mm <- filter(mm, Model != "OLS") #can include the linear model too if you want
+#the SAS note does not, so I am not including it
+```
+
+
+```{r}
+ggplot(mm, aes(x = x, y = prob, group = Model, col = Model)) +
+  geom_line(aes(lty = Model), lwd = 1) +
+  theme_bw() +
+  labs(x = "Number of Deaths", y = 'Probability',
+       title = "Models for number of overdose deaths") +
+  scale_color_manual(values = c('black', 'blue', 'red', 'green')) +
+  scale_linetype_manual(values = c('solid', 'dotted', 'dotted', 'dotted')) +
+  theme(legend.position=c(.15, .85), axis.title.y = element_text(angle = 0))
+```
+
+
+
+
+
+
+
+
