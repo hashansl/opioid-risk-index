@@ -24,7 +24,8 @@ library(reshape2)
 
 ```{r}
 # Importing the dataset
-dcRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate and count cdc/SVI2020_WashingtonDC_counties_with_death_rate_HepVu_count_cdc.shp")
+#dcRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/washington dc/data/processed data/SVI2020 WashingtonDC counties with death rate and count cdc/SVI2020_WashingtonDC_counties_with_death_rate_HepVu_count_cdc.shp")
+dcRawHepvu <- st_read("/Users/h6x/ORNL/git/opioid-risk-index/tennessee/data/processed data/SVI2020 TN counties with death rate HepVu/SVI2020_TN_counties_with_death_rate_HepVu.shp")
 
 
 # Getting the column names
@@ -90,6 +91,10 @@ ggplot(fr, aes(x = DeathCount, y = freq)) +
   theme(axis.title.y = element_text(angle = 0)) 
 
 ```
+
+
+
+
 
 
 ```{r}
