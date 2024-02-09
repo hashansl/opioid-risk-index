@@ -177,9 +177,3 @@ print(paste("RMSE on test set:",
 ```
 
 
-
-### Session Info:
-
-```{r}
-sessionInfo()
-```
